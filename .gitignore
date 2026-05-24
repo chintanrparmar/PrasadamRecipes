@@ -1,0 +1,42 @@
+# Built outputs
+/build
+/app/build
+*.apk
+*.aab
+*.ap_
+
+# Gradle
+.gradle
+gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ / Android Studio
+*.iml
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/.gitignore
+.DS_Store
+
+# Local configuration (machine-specific)
+local.properties
+
+# NDK / CMake
+.externalNativeBuild
+.cxx
+
+# Captures / profiling
+/captures
+
+# Keystore (never commit signing keys)
+*.jks
+*.keystore
+
+# Claude Code — local-only settings (personal permissions, not shared)
+.claude/settings.local.json
+
+# Temporary files
+*.tmp
+*.swp

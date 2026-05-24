@@ -1,0 +1,704 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "slug": "sabudana-khichdi",
+      "name": { "en": "Sabudana Khichdi", "hi": "साबूदाना खिचड़ी", "gu": "સાબુદાણા ખીચડી" },
+      "description": {
+        "en": "A light farali dish made with soaked sabudana, roasted peanuts, and boiled potatoes. Perfect for fasting days.",
+        "hi": "भिगोए हुए साबूदाना, भुनी मूंगफली और उबले आलू से बनने वाली हल्की फराली डिश।",
+        "gu": "પલાળેલા સાબુદાણા, શેકેલા શિંગદાણા અને બાફેલા બટાકાથી બનતી ફરાળી વાનગી."
+      },
+      "category": "FARALI",
+      "tags": ["fasting", "farali", "quick", "gujarati", "popular"],
+      "prepTimeMinutes": 360,
+      "cookTimeMinutes": 20,
+      "servings": 3,
+      "difficulty": "EASY",
+      "isFarali": true,
+      "isFestivalSpecial": false,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["1 cup sabudana (tapioca pearls)", "2 medium potatoes, boiled and diced", "1/2 cup roasted peanuts, coarsely crushed", "2 tbsp ghee or oil", "1 tsp cumin seeds", "2 green chillies, finely chopped", "1/2 tsp rock salt (sendha namak)", "1 tsp sugar", "Juice of 1 lemon", "Fresh coriander leaves for garnish"],
+        "hi": ["1 कप साबूदाना", "2 मध्यम आलू, उबले और कटे हुए", "1/2 कप भुनी और कूटी मूंगफली", "2 चम्मच घी या तेल", "1 चम्मच जीरा", "2 हरी मिर्च, बारीक कटी", "1/2 चम्मच सेंधा नमक", "1 चम्मच चीनी", "1 नींबू का रस", "सजाने के लिए हरा धनिया"],
+        "gu": ["1 કપ સાબુદાણા", "2 બટાકા, બાફેલા અને કાપેલા", "1/2 કપ શેકેલા અને ભૂક્કો કરેલા શિંગ", "2 ચમચી ઘી", "1 ચમચી જીરું", "2 લીલા મરચાં, ઝીણા સમારેલા", "1/2 ચમચી સિંધવ મીઠું", "1 ચમચી ખાંડ", "1 લીંબુનો રસ", "સુંવાળી ધાણા"]
+      },
+      "instructions": {
+        "en": ["Wash sabudana 2–3 times until water runs clear. Soak in just enough water to cover for 5–6 hours or overnight.", "Drain excess water. Sabudana should be soft but not mushy. Mix in crushed peanuts, sugar, and rock salt.", "Heat ghee in a wide pan over medium heat. Add cumin seeds and let them splutter.", "Add green chillies and sauté for 30 seconds.", "Add diced potatoes and cook for 2 minutes.", "Add the sabudana mixture and stir gently to combine. Cook for 5–7 minutes on medium-low heat, stirring occasionally.", "Squeeze lemon juice, garnish with fresh coriander, and serve hot."],
+        "hi": ["साबूदाना को 2–3 बार धोएं जब तक पानी साफ न हो जाए। पानी में 5–6 घंटे या रात भर भिगोएं।", "अतिरिक्त पानी निकाल दें। साबूदाना नरम लेकिन गीला नहीं होना चाहिए। इसमें पिसी मूंगफली, चीनी और सेंधा नमक मिलाएं।", "एक चौड़े पैन में मध्यम आंच पर घी गर्म करें। जीरा डालें और चटकने दें।", "हरी मिर्च डालें और 30 सेकंड भूनें।", "आलू डालें और 2 मिनट पकाएं।", "साबूदाना मिश्रण डालें और धीरे-धीरे मिलाएं। 5–7 मिनट मध्यम आंच पर पकाएं।", "नींबू का रस निचोड़ें, धनिए से सजाएं और गर्म परोसें।"],
+        "gu": ["સાબુદાણા 2–3 વાર ધુઓ. 5–6 કલાક પાણીમાં પલાળો.", "વધારે પાણી કાઢો. ભૂક્કો કરેલા શિંગ, ખાંડ અને સિંધવ મીઠું ભેળવો.", "વઘારણ ઘી ગરમ કરી જીરું નાખો.", "લીલા મરચા ઉમેરી 30 સેકન્ડ શેકો.", "બટાકા ઉમેરી 2 મિનિટ શેકો.", "સાબુદાણા ભેળવો. 5–7 મિનિટ ધીમા તાપે હલાવો.", "લીંબુ નીચોવો, ધાણા ભભરાવી ગરમ પીરસો."]
+      },
+      "notes": {
+        "en": "Use rock salt (sendha namak) if preparing during Navratri or Ekadashi fasting.",
+        "hi": "नवरात्रि या एकादशी उपवास के लिए सेंधा नमक का उपयोग करें।",
+        "gu": "નવરાત્રિ કે એકાદશી ઉપવાસ માટે સિંધવ મીઠું વાપરો."
+      },
+      "imageUrl": "file:///android_asset/images/sabudana_khichdi.jpg"
+    },
+    {
+      "id": 2,
+      "slug": "methi-thepla",
+      "name": { "en": "Methi Thepla", "hi": "मेथी थेपला", "gu": "મેથીના થેપલા" },
+      "description": {
+        "en": "Thin, spiced flatbreads made with wheat flour and fresh fenugreek leaves. A Gujarati staple enjoyed at breakfast or as a travel snack.",
+        "hi": "गेहूं के आटे और ताजी मेथी की पत्तियों से बनी पतली और मसालेदार रोटियां।",
+        "gu": "ઘઉંના લોટ અને તાજા મેથીના ભાજીથી બનેલા પાતળા, મસાલેદાર થેપલા."
+      },
+      "category": "ROTI_BREAD",
+      "tags": ["flatbread", "gujarati", "breakfast", "popular", "travel"],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 20,
+      "servings": 4,
+      "difficulty": "EASY",
+      "isFarali": false,
+      "isFestivalSpecial": false,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["2 cups whole wheat flour", "1 cup fresh fenugreek (methi) leaves, finely chopped", "1/2 cup yogurt", "2 tbsp oil", "1 tsp sesame seeds", "1/2 tsp turmeric powder", "1 tsp red chilli powder", "1 tsp cumin-coriander powder", "Salt to taste", "Oil for cooking"],
+        "hi": ["2 कप गेहूं का आटा", "1 कप ताजी मेथी की पत्तियां, बारीक कटी", "1/2 कप दही", "2 चम्मच तेल", "1 चम्मच तिल", "1/2 चम्मच हल्दी पाउडर", "1 चम्मच लाल मिर्च पाउडर", "1 चम्मच जीरा-धनिया पाउडर", "स्वादानुसार नमक", "सेंकने के लिए तेल"],
+        "gu": ["2 કપ ઘઉંનો લોટ", "1 કપ તાજી મેથી ઝીણી સમારેલી", "1/2 કપ દહીં", "2 ચમચી તેલ", "1 ચમચી તલ", "1/2 ચમચી હળદર", "1 ચમચી લાલ મરચું", "1 ચમચી જીરું-ધાણાનો ભૂકો", "મીઠું સ્વાદ મુજબ", "શેકવા માટે તેલ"]
+      },
+      "instructions": {
+        "en": ["Combine flour, chopped methi, yogurt, oil, sesame seeds, all spices, and salt in a bowl.", "Knead into a soft, smooth dough. Add a little water if needed. Rest for 10 minutes.", "Divide dough into equal portions. Roll each into a thin circle (about 6 inches diameter).", "Heat a tava over medium-high heat. Cook each thepla for 1–2 minutes per side, pressing gently.", "Drizzle a little oil and cook until golden spots appear on both sides.", "Serve hot with yogurt, pickle, or chutney."],
+        "hi": ["एक कटोरे में आटा, मेथी, दही, तेल, तिल, मसाले और नमक मिलाएं।", "नरम आटा गूंधें। जरूरत हो तो थोड़ा पानी डालें। 10 मिनट के लिए रखें।", "आटे को बराबर भागों में बांटें। प्रत्येक को पतला बेलें।", "तवे पर मध्यम आंच पर प्रत्येक थेपला 1–2 मिनट प्रति तरफ सेंकें।", "थोड़ा तेल डालें और सुनहरा होने तक सेंकें।", "दही, अचार या चटनी के साथ गर्म परोसें।"],
+        "gu": ["લોટ, મેથી, દહીં, તેલ, તલ, મસાલા ભેળવો.", "નરમ લૂગદો ભેળવો. 10 મિનિટ ઢાંકો.", "ભાગ પાડી પાતળા ગોળ રોટલા વણો.", "ગરમ તવા પર દરેક બાજુ 1-2 મિનિટ શેકો.", "તેલ ટીપો. બંને બાજુ સોનેરી ડાઘ આવે ત્યાં સુધી.", "દહીં, અથાણું કે ચટણી સાથે ગરમ પીરસો."]
+      },
+      "notes": {
+        "en": "Theplas stay fresh for 2–3 days at room temperature, making them ideal for travel.",
+        "hi": "थेपला 2–3 दिनों तक ताजा रहते हैं, यात्रा के लिए आदर्श हैं।",
+        "gu": "થેપલા 2–3 દિવસ તાજા રહે છે, મુસાફરી માટે ઉત્તમ."
+      },
+      "imageUrl": "file:///android_asset/images/methi_thepla.jpg"
+    },
+    {
+      "id": 3,
+      "slug": "gujarati-kadhi",
+      "name": { "en": "Gujarati Kadhi", "hi": "गुजराती कढ़ी", "gu": "ગુજરાતી કઢી" },
+      "description": {
+        "en": "A sweet and tangy yogurt-based soup tempered with ghee, mustard seeds, and curry leaves. A comforting everyday Gujarati dish.",
+        "hi": "घी, राई और करी पत्ते से तड़के वाली मीठी और तीखी दही-आधारित कढ़ी।",
+        "gu": "ઘી, રાઈ અને કઢીપત્તાની વઘારણ સાથે બનેલ ગળ્યું-ખાટ્ટું દહીં-આધારિત કઢી."
+      },
+      "category": "SOUP",
+      "tags": ["soup", "gujarati", "quick", "popular", "everyday"],
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 15,
+      "servings": 4,
+      "difficulty": "EASY",
+      "isFarali": false,
+      "isFestivalSpecial": false,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["2 cups yogurt (slightly sour)", "2 tbsp gram flour (besan)", "3 cups water", "2 tbsp sugar or jaggery", "Salt to taste", "1 tbsp ghee", "1/2 tsp mustard seeds", "1/2 tsp cumin seeds", "A pinch of asafoetida (hing)", "8–10 curry leaves", "2 dried red chillies", "1/2 tsp turmeric powder", "1-inch piece ginger, grated"],
+        "hi": ["2 कप दही (थोड़ा खट्टा)", "2 चम्मच बेसन", "3 कप पानी", "2 चम्मच चीनी या गुड़", "स्वादानुसार नमक", "1 चम्मच घी", "1/2 चम्मच राई", "1/2 चम्मच जीरा", "एक चुटकी हींग", "8–10 करी पत्ते", "2 सूखी लाल मिर्च", "1/2 चम्मच हल्दी", "1 इंच अदरक, कद्दूकस"],
+        "gu": ["2 કપ દહીં (થોડું ખાટ્ટું)", "2 ચમચી બેસન", "3 કપ પાણી", "2 ચમચી ખાંડ અથવા ગોળ", "મીઠું સ્વાદ મુજબ", "1 ચમચી ઘી", "1/2 ચમચી રાઈ", "1/2 ચમચી જીરું", "ચપટી હીંગ", "8-10 કઢીપત્તા", "2 સૂકા લાલ મરચાં", "1/2 ચમચી હળદર", "1 ઇંચ આદુ, ઘસેલું"]
+      },
+      "instructions": {
+        "en": ["Whisk yogurt and gram flour together until smooth. Add water and whisk again until lump-free.", "Add sugar, turmeric, grated ginger, and salt. Mix well.", "Pour into a saucepan and bring to a gentle boil over medium heat, stirring continuously to prevent curdling.", "Simmer on low heat for 8–10 minutes until the kadhi thickens slightly.", "Heat ghee in a small pan. Add mustard seeds; when they splutter, add cumin seeds, hing, curry leaves, and dried red chillies.", "Pour the tempering over the kadhi, stir gently, and serve hot with steamed rice."],
+        "hi": ["दही और बेसन को चिकना होने तक फेंटें। पानी मिलाएं और फिर फेंटें।", "चीनी, हल्दी, अदरक और नमक मिलाएं।", "मध्यम आंच पर लगातार चलाते हुए उबाल आने दें।", "8–10 मिनट धीमी आंच पर पकाएं।", "घी में राई, जीरा, हींग, करी पत्ते और लाल मिर्च का तड़का लगाएं।", "तड़का कढ़ी पर डालें और चावल के साथ परोसें।"],
+        "gu": ["દહીં અને બેસન ભેળવી ગઠ્ઠા-મુક્ત કરો. પાણી ઉમેરો.", "ખાંડ, હળદર, આદુ, મીઠું ભેળવો.", "ધીમા-મધ્યમ તાપ પર હલાવતા ઉકાળો.", "8-10 મિનિટ ઘટ્ટ ન થાય ત્યાં સુધી ઉકાળો.", "ઘીમાં રાઈ, જીરું, હીંગ, કઢીપત્તા, લાલ મરચું વઘારો.", "વઘારણ ઉમેરી ભાત સાથે ગરમ પીરસો."]
+      },
+      "notes": {
+        "en": "For a richer flavour, add a few strands of saffron while simmering.",
+        "hi": "अधिक स्वाद के लिए उबालते समय थोड़ा केसर डालें।",
+        "gu": "સ્વાદ વધારવા ઉકળતી વખતે થોડા કેસરની તતડી નાખો."
+      },
+      "imageUrl": "file:///android_asset/images/gujarati_kadhi.jpg"
+    },
+    {
+      "id": 4,
+      "slug": "dal-dhokli",
+      "name": { "en": "Dal Dhokli", "hi": "दाल ढोकली", "gu": "દાળ ઢોકળી" },
+      "description": {
+        "en": "Spiced wheat-flour dumplings simmered in a sweet-tangy toor dal. A one-pot Gujarati comfort meal.",
+        "hi": "मीठी-तीखी तुअर दाल में पकाई गई मसालेदार गेहूं की ढोकली — गुजरात का एक-पात्र भोजन।",
+        "gu": "ગળ્યી-ખાટ્ટી તુવેર દાળમાં ઉકળાવેલ મસાલેદાર ઘઉંના ઢોકળા — ગુજરાતી ઘરેલ ભોજન."
+      },
+      "category": "DAL",
+      "tags": ["dal", "gujarati", "one-pot", "popular", "comfort"],
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 40,
+      "servings": 4,
+      "difficulty": "MEDIUM",
+      "isFarali": false,
+      "isFestivalSpecial": false,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["1 cup toor dal (split pigeon peas)", "For dhokli: 1.5 cups whole wheat flour", "1/4 tsp turmeric, 1/4 tsp red chilli powder, 1 tsp oil (for dhokli)", "2 tbsp tamarind pulp", "2 tbsp jaggery", "2 tbsp peanuts", "1 tbsp ghee", "1 tsp mustard seeds", "1 tsp cumin seeds", "A pinch of asafoetida", "8 curry leaves", "1 tomato, chopped", "1 tsp turmeric", "1.5 tsp red chilli powder", "2 tsp cumin-coriander powder", "Salt to taste", "Fresh coriander and lemon juice for garnish"],
+        "hi": ["1 कप तुअर दाल", "ढोकली के लिए: 1.5 कप गेहूं का आटा", "1/4 चम्मच हल्दी, 1/4 चम्मच मिर्च, 1 चम्मच तेल (ढोकली के लिए)", "2 चम्मच इमली का गूदा", "2 चम्मच गुड़", "2 चम्मच मूंगफली", "1 चम्मच घी", "1 चम्मच राई", "1 चम्मच जीरा", "एक चुटकी हींग", "8 करी पत्ते", "1 टमाटर, कटा हुआ", "हल्दी, मिर्च, जीरा-धनिया, नमक"],
+        "gu": ["1 કપ તુવેર દાળ", "ઢોકળા: 1.5 કપ ઘઉંનો લોટ, 1/4 ચ. હળદર, 1/4 ચ. મરચું, 1 ચ. તેલ", "2 ચ. આમલી", "2 ચ. ગોળ", "2 ચ. સીંગ", "1 ચ. ઘી, 1 ચ. રાઈ, 1 ચ. જીરું, ચપટી હીંગ", "8 કઢીપત્તા", "1 ટામેટું", "હળદર, મરચું, ધાણ-જીરું, મીઠું"]
+      },
+      "instructions": {
+        "en": ["Pressure cook toor dal with 3 cups water, turmeric, and salt until soft (3–4 whistles).", "Prepare dhokli dough: mix flour, turmeric, chilli powder, oil, and salt. Knead with water into a stiff dough. Roll thin and cut into diamond shapes.", "Whisk cooked dal smooth. Add tamarind pulp, jaggery, and enough water for a flowing consistency.", "Heat dal in a pot. Add peanuts, tomato, turmeric, chilli, and cumin-coriander powder.", "Simmer dal gently and drop dhokli pieces in one by one. Cook for 15 minutes until dhokli is soft.", "Prepare tempering: heat ghee, add mustard, cumin, hing, curry leaves and pour over dal.", "Garnish with fresh coriander and lemon juice. Serve hot."],
+        "hi": ["तुअर दाल को पानी, हल्दी और नमक के साथ प्रेशर कुकर में पकाएं।", "ढोकली का आटा गूंधें: आटा, हल्दी, मिर्च, तेल और नमक। पतला बेलकर हीरे के आकार में काटें।", "पकी दाल को मैश करें। इमली, गुड़ और पानी मिलाएं।", "दाल में मूंगफली, टमाटर, मसाले डालें और उबालें।", "दाल में ढोकली डालें। 15 मिनट पकाएं।", "घी में तड़का लगाकर दाल पर डालें।", "धनिया और नींबू से सजाकर परोसें।"],
+        "gu": ["તુવેર દાળ 3 સીટી સુધી બાફો.", "ઢોકળા: લોટ, ટ. ભળવો, પાણીથી સખત ભેળવો. પાતળું વણી ઝૂડ-આકારે કાપો.", "દાળ ઘૂટો. આમલી, ગોળ, પાણી ઉમેરો.", "સીંગ, ટામેટ, મસાલા ઉમેરી ઉકાળો.", "ઉકળતી દાળમાં ઢોકળા નાખો. 15 મિ. ઉકાળો.", "ઘી-વઘારણ ઉમેરો.", "ધાણા-લીંબુ ભભરાવી ગરમ પીરસો."]
+      },
+      "notes": {
+        "en": "Add a little more water if the dal thickens too much. The dhokli should be fully cooked and soft.",
+        "hi": "यदि दाल ज्यादा गाढ़ी हो जाए तो पानी मिलाएं। ढोकली पूरी तरह पकी और नरम होनी चाहिए।",
+        "gu": "દાળ ઘટ્ટ લાગે તો વધારે પાણી નાખો. ઢોકળા સારી રીતે પાકવા જોઈએ."
+      },
+      "imageUrl": "file:///android_asset/images/dal_dhokli.jpg"
+    },
+    {
+      "id": 5,
+      "slug": "kheer",
+      "name": { "en": "Rice Kheer", "hi": "चावल की खीर", "gu": "ચોખાની ખીર" },
+      "description": {
+        "en": "Creamy slow-cooked rice pudding with milk, sugar, cardamom, and saffron. Offered as prasad during festivals and pooja.",
+        "hi": "दूध, चीनी, इलायची और केसर से बनी मलाईदार धीमी आंच पर पकी खीर। त्योहारों में प्रसाद के रूप में अर्पित की जाती है।",
+        "gu": "દૂધ, ખાંડ, એલચી અને કેસરથી ઓછા તાપ પર ઘટ્ટ બનાવેલ ખીર. ઉત્સવ-પૂજામાં પ્રસાદ."
+      },
+      "category": "SWEETS",
+      "tags": ["sweet", "festival", "prasad", "milk", "popular"],
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 45,
+      "servings": 6,
+      "difficulty": "EASY",
+      "isFarali": true,
+      "isFestivalSpecial": true,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["1/4 cup basmati rice, washed and soaked 30 minutes", "1 litre full-fat milk", "1/2 cup sugar (adjust to taste)", "1/2 tsp cardamom powder", "A few strands of saffron soaked in 2 tbsp warm milk", "2 tbsp chopped cashews and almonds", "1 tbsp raisins", "1 tbsp ghee"],
+        "hi": ["1/4 कप बासमती चावल, धोकर 30 मिनट भिगोए", "1 लीटर पूर्ण वसा वाला दूध", "1/2 कप चीनी", "1/2 चम्मच इलायची पाउडर", "केसर 2 चम्मच गर्म दूध में भिगोया", "2 चम्मच काजू और बादाम", "1 चम्मच किशमिश", "1 चम्मच घी"],
+        "gu": ["1/4 કપ બાસ્મતી ચોખા, ધોઈ 30 મિ. પલાળો", "1 લિ. ફૂલ-ફેટ દૂધ", "1/2 કપ ખાંડ", "1/2 ચ. એલચી", "થોડા કેસર 2 ચ. ગરમ દૂધમાં પલાળો", "2 ચ. કાજુ-બદામ", "1 ચ. દ્રાક્ષ", "1 ચ. ઘી"]
+      },
+      "instructions": {
+        "en": ["Heat ghee in a heavy-bottomed pan. Drain soaked rice and lightly fry for 1–2 minutes.", "Add milk and bring to a boil, then reduce to a low simmer.", "Cook on low heat for 30–35 minutes, stirring frequently to prevent sticking, until rice is very soft and milk reduces.", "Add sugar and stir to dissolve. Cook 5 more minutes.", "Add cardamom powder and saffron-milk. Stir well.", "Add cashews, almonds, and raisins. Serve warm or chilled."],
+        "hi": ["भारी तले के पैन में घी गर्म करें। चावल को हल्का भूनें।", "दूध डालें और उबाल आने दें, फिर धीमी आंच पर पकाएं।", "30–35 मिनट धीमी आंच पर पकाएं जब तक चावल नरम न हों।", "चीनी डालें और पांच मिनट और पकाएं।", "इलायची और केसर वाला दूध मिलाएं।", "ड्राई फ्रूट्स डालें और गरम या ठंडा परोसें।"],
+        "gu": ["ઘી ગરમ કરી ચોખા 1-2 મિ. શેકો.", "દૂધ ઉમેરી ઉકાળો, પછી ધીમા તાપ.", "30-35 મિ. ઘટ્ટ ન થાય ત્યાં સુધી ઉકાળો.", "ખાંડ ઉમેરો. 5 મિ.", "એલચી, કેસર-દૂધ ઉમેરો.", "કાજુ-બદામ-દ્રાક્ષ ભળો. ગરમ/ઠંડ પીરસો."]
+      },
+      "notes": {
+        "en": "For a richer kheer, replace 1 cup milk with fresh cream. Kheer thickens more as it cools.",
+        "hi": "अधिक मलाईदार खीर के लिए 1 कप दूध की जगह क्रीम डालें। ठंडा होने पर खीर और गाढ़ी होती है।",
+        "gu": "વધારે ઘટ્ટ ખીર માટે 1 કપ દૂધ બદલે ક્રીમ વાપરો. ઠંડી થવા પર ઘટ્ટ થાય."
+      },
+      "imageUrl": "file:///android_asset/images/kheer.jpg"
+    },
+    {
+      "id": 6,
+      "slug": "aloo-gobi",
+      "name": { "en": "Aloo Gobi", "hi": "आलू गोभी", "gu": "બટાકા ફ્લાવર" },
+      "description": {
+        "en": "A dry sabji of potatoes and cauliflower tempered with cumin, ginger, and warming spices. No onion, no garlic.",
+        "hi": "जीरा, अदरक और मसालों से बना आलू-फूलगोभी का सूखा साग — बिना प्याज और लहसुन।",
+        "gu": "જીરું, આદુ અને ગરમ મસાલા સાથે બટાકા-ફ્લાવરનું સૂકું શાક — ડુંગળી-લસણ વગર."
+      },
+      "category": "SABJI",
+      "tags": ["sabji", "dry", "everyday", "popular"],
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 25,
+      "servings": 4,
+      "difficulty": "EASY",
+      "isFarali": false,
+      "isFestivalSpecial": false,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["2 medium potatoes, peeled and cubed", "1 small cauliflower, cut into florets", "2 tbsp oil or ghee", "1 tsp cumin seeds", "1 tsp grated ginger", "1/2 tsp turmeric powder", "1 tsp red chilli powder", "1.5 tsp cumin-coriander powder", "1/2 tsp garam masala", "Salt to taste", "Fresh coriander for garnish"],
+        "hi": ["2 मध्यम आलू, छिले और कटे", "1 छोटी फूलगोभी के टुकड़े", "2 चम्मच तेल/घी", "1 चम्मच जीरा", "1 चम्मच पिसा अदरक", "1/2 चम्मच हल्दी", "1 चम्मच लाल मिर्च", "1.5 चम्मच जीरा-धनिया", "1/2 चम्मच गरम मसाला", "नमक, धनिया"],
+        "gu": ["2 બટાકા, સોલ્યા-કાપ્યા", "1 નાનું ફ્લાવર, ટુકડા", "2 ચ. તેલ/ઘી", "1 ચ. જીરું", "1 ચ. આદુ", "1/2 ચ. હળદર", "1 ચ. લાલ મરચું", "1.5 ચ. ધાણ-જીરું", "1/2 ચ. ગરમ મસાલો", "મીઠું, ધાણા"]
+      },
+      "instructions": {
+        "en": ["Heat oil in a wide pan. Add cumin seeds and let them splutter.", "Add grated ginger, turmeric, and red chilli powder. Stir for 20 seconds.", "Add potato cubes and coat with spices. Cook covered on medium heat for 8 minutes.", "Add cauliflower florets and cumin-coriander powder. Mix well.", "Cook covered on low-medium heat for 10–12 minutes until vegetables are tender.", "Add garam masala and salt. Toss gently.", "Garnish with fresh coriander and serve with roti or puri."],
+        "hi": ["तेल में जीरा चटकाएं।", "अदरक, हल्दी, मिर्च डालें और 20 सेकंड भूनें।", "आलू डालें और मसालों में कोट करें। 8 मिनट ढककर पकाएं।", "फूलगोभी और जीरा-धनिया मिलाएं।", "10–12 मिनट ढककर धीमी आंच पर पकाएं।", "गरम मसाला और नमक मिलाएं।", "धनिए से सजाएं और रोटी के साथ परोसें।"],
+        "gu": ["ઘીમાં જીરું ચટકાવો.", "આદુ, હળદર, મરચું 20 સે. ભૂ.", "બટાકા ઉમેરો. 8 મિ. ઢાંકી.", "ફ્લાવર, ધાણ-જીરું ઉમેરો.", "10-12 મિ. ઢાંકી ધીમા.", "ગ. મ. અને મીઠું.", "ધાણા ભભ. રોટી સાથે."]
+      },
+      "notes": {
+        "en": "Do not overcook the cauliflower — it should be tender but still hold its shape.",
+        "hi": "फूलगोभी को ज्यादा न पकाएं — यह नरम हो लेकिन आकार बना रहे।",
+        "gu": "ફ્લાવર વધારે ન પકાવો — નરમ પણ આકારમાં રહેવો જોઈએ."
+      },
+      "imageUrl": "file:///android_asset/images/aloo_gobi.jpg"
+    },
+    {
+      "id": 7,
+      "slug": "poha",
+      "name": { "en": "Kanda Poha (No Onion)", "hi": "पोहा (बिना प्याज)", "gu": "પૌઆ (ડુંગળી વગર)" },
+      "description": {
+        "en": "Flattened rice tossed with potatoes, peanuts, and spices. A quick, light breakfast or evening snack.",
+        "hi": "आलू, मूंगफली और मसालों के साथ चिवड़ा — एक हल्का और जल्दी बनने वाला नाश्ता।",
+        "gu": "બટાકા, શિંગ અને મસાળા સાથે ફ્લૅટ ચોખો — ઝડપી, હળવો નાસ્તો."
+      },
+      "category": "SNACKS",
+      "tags": ["poha", "breakfast", "quick", "everyday", "snack"],
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 15,
+      "servings": 3,
+      "difficulty": "EASY",
+      "isFarali": false,
+      "isFestivalSpecial": false,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["2 cups thick poha (flattened rice)", "1 medium potato, finely diced", "1/4 cup roasted peanuts", "2 tbsp oil", "1 tsp mustard seeds", "1/2 tsp cumin seeds", "A pinch of asafoetida", "8 curry leaves", "2 green chillies, slit", "1/2 tsp turmeric powder", "Salt to taste", "1 tsp sugar", "Juice of half a lemon", "Fresh coriander for garnish"],
+        "hi": ["2 कप मोटा पोहा", "1 आलू, बारीक कटा", "1/4 कप भुनी मूंगफली", "2 चम्मच तेल", "1 चम्मच राई", "1/2 चम्मच जीरा", "चुटकी हींग", "8 करी पत्ते", "2 हरी मिर्च", "1/2 चम्मच हल्दी", "नमक, चीनी, नींबू, धनिया"],
+        "gu": ["2 કપ જાડા પૌંઆ", "1 બટાકો, ઝીણો", "1/4 કપ શેક. શિંગ", "2 ચ. તેલ", "1 ચ. રાઈ", "1/2 ચ. જીરું", "ચ. હીંગ", "8 કઢીપત્તા", "2 ✗.", "1/2 ચ. હળ", "મી., ખ., લ., ધ."]
+      },
+      "instructions": {
+        "en": ["Rinse poha in a colander under water for 2–3 seconds. Sprinkle with salt and sugar, toss gently, and set aside for 5 minutes to soften.", "Heat oil in a pan. Add mustard seeds; when they splutter, add cumin, hing, curry leaves, and green chillies.", "Add diced potatoes and cook covered for 5–6 minutes until tender.", "Add turmeric and mix well.", "Add soaked poha and roasted peanuts. Toss gently to combine. Cook on low heat for 2–3 minutes.", "Squeeze lemon juice, garnish with fresh coriander, and serve immediately."],
+        "hi": ["पोहा को पानी में 2–3 सेकंड धोएं। नमक और चीनी मिलाएं और 5 मिनट रखें।", "तेल में राई, जीरा, हींग, करी पत्ते और हरी मिर्च का तड़का लगाएं।", "आलू डालें और 5–6 मिनट ढककर पकाएं।", "हल्दी मिलाएं।", "पोहा और मूंगफली डालें। धीमी आंच पर 2–3 मिनट पकाएं।", "नींबू और धनिया से सजाकर तुरंत परोसें।"],
+        "gu": ["પૌ. 2-3 સ. ધ. મી.-ખ. ભ. 5 મિ.", "ઘ. ર. ચ. હ. ક. ✗. ઘ.", "ઘ. 5-6 ઢ. .",  "હ. .",  "પ. ઘ. .", "ળ. .", "."]
+      },
+      "notes": {
+        "en": "Don't rinse the poha too long or it will become mushy. It should be moist but each grain separate.",
+        "hi": "पोहा को बहुत देर तक न धोएं नहीं तो वह गीला हो जाएगा।",
+        "gu": "પૌ. ઘ. ન ધ. ન. — ભ. ન."
+      },
+      "imageUrl": "file:///android_asset/images/poha.jpg"
+    },
+    {
+      "id": 8,
+      "slug": "jeera-rice",
+      "name": { "en": "Jeera Rice", "hi": "जीरा राइस", "gu": "જીરા ભાત" },
+      "description": {
+        "en": "Fragrant basmati rice tempered with cumin seeds and ghee. Simple, aromatic, and the perfect accompaniment to any dal or sabji.",
+        "hi": "जीरे और घी से तड़की हुई सुगंधित बासमती चावल — दाल या सब्जी के साथ परफेक्ट।",
+        "gu": "જીરું અને ઘીથી ઘ્રાણ કરેલ સુગંધિત બાસ્મતી ભાત — કોઈ પણ દાળ-શાક સાથે."
+      },
+      "category": "RICE",
+      "tags": ["rice", "quick", "everyday", "simple"],
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 20,
+      "servings": 4,
+      "difficulty": "EASY",
+      "isFarali": false,
+      "isFestivalSpecial": false,
+      "isPopular": false,
+      "ingredients": {
+        "en": ["2 cups basmati rice", "2 tbsp ghee", "1.5 tsp cumin seeds", "A pinch of asafoetida", "4 cups water", "Salt to taste", "Fresh coriander leaves for garnish"],
+        "hi": ["2 कप बासमती चावल", "2 चम्मच घी", "1.5 चम्मच जीरा", "चुटकी हींग", "4 कप पानी", "नमक, धनिया"],
+        "gu": ["2 કપ બા. ચ.", "2 ચ. ઘ.", "1.5 ચ. જ.", "ચ. હ.", "4 ક. પ.", "મ., ધ."]
+      },
+      "instructions": {
+        "en": ["Wash rice and soak in cold water for 20 minutes. Drain well.", "Heat ghee in a heavy-bottomed pot. Add cumin seeds and asafoetida. Let the cumin splutter and turn golden.", "Add drained rice and sauté for 2 minutes until each grain is coated with ghee.", "Add water and salt. Bring to a boil.", "Reduce heat to the lowest setting. Cover tightly and cook for 12–15 minutes until all water is absorbed.", "Let rest covered for 5 minutes. Fluff with a fork, garnish with coriander, and serve."],
+        "hi": ["चावल धोएं और 20 मिनट भिगोएं।", "घी में जीरा और हींग डालें।", "चावल डालें और 2 मिनट भूनें।", "पानी और नमक डालें।", "ढककर 12–15 मिनट पकाएं।", "5 मिनट रखें, फुलाएं और परोसें।"],
+        "gu": ["ઘ. 20 મ. .", "ઘ. જ. .", "ઘ. 2 .", "પ. .", "12-15 .", "5 ."]
+      },
+      "notes": {
+        "en": "For extra fragrance, add a small piece of cinnamon and 1–2 cloves along with the cumin.",
+        "hi": "अधिक सुगंध के लिए जीरे के साथ छोटा दालचीनी और 1–2 लौंग डालें।",
+        "gu": "ઘ. સ. ત. ટ. ."
+      },
+      "imageUrl": "file:///android_asset/images/jeera_rice.jpg"
+    },
+    {
+      "id": 9,
+      "slug": "puri",
+      "name": { "en": "Puri with Aloo Sabji", "hi": "पूरी और आलू सब्जी", "gu": "પૂરી અને બટાકા શાક" },
+      "description": {
+        "en": "Deep-fried fluffy wheat puris served with a spiced potato sabji. A beloved festive and Sunday breakfast.",
+        "hi": "तली हुई फूली पूरियां मसालेदार आलू की सब्जी के साथ — त्योहारों और रविवार के नाश्ते की पसंद।",
+        "gu": "ઘ. ત. ફ. ગ. ઘ. ."
+      },
+      "category": "ROTI_BREAD",
+      "tags": ["puri", "festival", "breakfast", "popular", "fried"],
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "servings": 4,
+      "difficulty": "MEDIUM",
+      "isFarali": false,
+      "isFestivalSpecial": true,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["For Puri: 2 cups whole wheat flour", "1/2 tsp salt", "1 tsp oil", "Water to knead", "Oil for deep frying", "For Aloo Sabji: 4 medium potatoes boiled and cubed", "2 tbsp oil", "1 tsp cumin seeds", "1/2 tsp turmeric", "1 tsp red chilli powder", "1 tsp cumin-coriander powder", "1/2 tsp amchur (dry mango powder)", "Salt to taste", "Fresh coriander"],
+        "hi": ["पूरी: 2 कप आटा, नमक, तेल, पानी, तलने के लिए तेल", "आलू सब्जी: 4 उबले आलू, तेल, जीरा, हल्दी, मिर्च, जीरा-धनिया, अमचूर, नमक, धनिया"],
+        "gu": ["ઘ.: 2 ક. ઘ. ⅛ .", "ક.: 4 ."]
+      },
+      "instructions": {
+        "en": ["Knead wheat flour with salt, oil, and enough water into a stiff, smooth dough. Cover and rest for 15 minutes.", "Divide into small balls. Roll into 3-inch circles (not too thin).", "Heat oil in a deep wok to 180°C. Fry puris one at a time, pressing gently with a slotted spoon to help them puff. Fry 30–40 seconds per side until golden.", "For Aloo Sabji: heat oil, add cumin. Add turmeric, chilli, cumin-coriander, and amchur. Add potatoes and toss to coat. Add 1/2 cup water and cook 5 minutes. Adjust salt.", "Garnish with coriander. Serve puris immediately with sabji."],
+        "hi": ["आटा, नमक, तेल और पानी से सख्त आटा गूंधें। 15 मिनट रखें।", "छोटी लोइयां बनाकर 3 इंच की पूरी बेलें।", "गहरे तेल में 180°C पर पूरी को 30–40 सेकंड प्रति तरफ तलें।", "आलू की सब्जी: जीरे में मसाले, आलू डालें, पानी डालें, 5 मिनट पकाएं।", "धनिए से सजाएं, गर्म परोसें।"],
+        "gu": ["ઘ. .", "ઘ. .", "ત. .", "ઘ. .", "."]
+      },
+      "notes": {
+        "en": "Keep the dough stiff — loose dough produces oil-soaked puris that don't puff properly.",
+        "hi": "आटा सख्त रखें — ढीला आटा तेल सोखेगा और पूरी ठीक से नहीं फूलेगी।",
+        "gu": "ઘ. ."
+      },
+      "imageUrl": "file:///android_asset/images/puri.jpg"
+    },
+    {
+      "id": 10,
+      "slug": "gulab-jamun",
+      "name": { "en": "Gulab Jamun", "hi": "गुलाब जामुन", "gu": "ગુલાબ જામુન" },
+      "description": {
+        "en": "Soft milk-solid dumplings soaked in cardamom and rose-flavoured sugar syrup. A classic Indian mithai for every celebration.",
+        "hi": "इलायची और गुलाब-सुगंधित चाशनी में भिगोई हुई नरम मावे की गोलियां — हर उत्सव की मिठाई।",
+        "gu": "એ. ."
+      },
+      "category": "SWEETS",
+      "tags": ["sweet", "festival", "mithai", "celebration", "popular"],
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 40,
+      "servings": 6,
+      "difficulty": "MEDIUM",
+      "isFarali": false,
+      "isFestivalSpecial": true,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["For dough: 1 cup milk powder (full-fat)", "1/4 cup all-purpose flour (maida)", "1/4 tsp baking soda", "2 tbsp ghee (softened)", "3–4 tbsp milk to knead", "For syrup: 2 cups sugar", "2 cups water", "4 cardamom pods, crushed", "1 tsp rose water", "Few strands of saffron", "Oil for deep frying"],
+        "hi": ["आटा: 1 कप मिल्क पाउडर, 1/4 कप मैदा, 1/4 चम्मच बेकिंग सोडा, 2 चम्मच घी, दूध", "चाशनी: 2 कप चीनी, 2 कप पानी, इलायची, गुलाब जल, केसर, तलने के लिए तेल"],
+        "gu": [".", "."]
+      },
+      "instructions": {
+        "en": ["Make syrup: dissolve sugar in water over medium heat. Add cardamom, saffron, and rose water. Simmer 5 minutes to one-string consistency. Keep warm.", "Mix milk powder, flour, baking soda, and ghee. Add milk gradually to form a soft, smooth, non-sticky dough. Rest 5 minutes.", "Divide into 20 equal smooth balls without any cracks.", "Heat oil to 150°C (low heat). Fry balls gently, turning constantly, for 8–10 minutes until dark golden brown.", "Drop hot jamuns directly into warm sugar syrup. Let soak for at least 30 minutes before serving.", "Serve warm or at room temperature, garnished with crushed pistachios."],
+        "hi": ["चाशनी: चीनी और पानी उबालें, इलायची, केसर, गुलाब जल मिलाएं।", "मिल्क पाउडर, मैदा, बेकिंग सोडा, घी मिलाएं। दूध से नरम आटा बनाएं।", "20 बराबर गोलियां बनाएं।", "150°C पर 8–10 मिनट सुनहरा होने तक तलें।", "गर्म जामुन चाशनी में डालें। 30 मिनट भीगने दें।", "गर्म या ठंडा परोसें।"],
+        "gu": [".", ".", ".", ".", ".", "."]
+      },
+      "notes": {
+        "en": "Fry at low temperature — high heat will brown the outside while leaving the inside raw.",
+        "hi": "कम तापमान पर तलें — ज़्यादा गर्म तेल में बाहर जल जाएगा और अंदर कच्चा रहेगा।",
+        "gu": "ઓ. ."
+      },
+      "imageUrl": "file:///android_asset/images/gulab_jamun.jpg"
+    },
+    {
+      "id": 11,
+      "slug": "gur-papdi",
+      "name": { "en": "Gur Papdi (Sukhdi)", "hi": "गुड़ पापड़ी (सुखड़ी)", "gu": "ગૂળ પાપડી (સૂખડી)" },
+      "description": {
+        "en": "A traditional Gujarati sweet made from wheat flour, ghee, and jaggery. Eaten as prasad and given to new mothers for strength.",
+        "hi": "गेहूं के आटे, घी और गुड़ से बनी पारंपरिक गुजराती मिठाई — प्रसाद और नई माताओं को दी जाती है।",
+        "gu": "ઘ. ."
+      },
+      "category": "SWEETS",
+      "tags": ["sweet", "festival", "prasad", "gujarati", "traditional"],
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 20,
+      "servings": 8,
+      "difficulty": "EASY",
+      "isFarali": false,
+      "isFestivalSpecial": true,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["2 cups whole wheat flour", "3/4 cup ghee", "3/4 cup powdered jaggery (or sugar)", "1/2 tsp cardamom powder", "2 tbsp poppy seeds (optional)"],
+        "hi": ["2 कप गेहूं का आटा", "3/4 कप घी", "3/4 कप पिसा गुड़/चीनी", "1/2 चम्मच इलायची", "2 चम्मच खसखस"],
+        "gu": ["2 ક. ઘ. ⅜ .", ".", ".", ".", "."]
+      },
+      "instructions": {
+        "en": ["Heat ghee in a heavy-bottomed pan on medium heat.", "Add wheat flour and roast, stirring continuously, for 12–15 minutes until it turns golden and gives a nutty fragrance.", "Remove from heat. Wait 2 minutes for the temperature to drop slightly.", "Add jaggery powder and cardamom. Mix quickly and thoroughly — jaggery will start to melt from the heat.", "Pour immediately into a greased plate and level with a spatula.", "Sprinkle poppy seeds on top and press gently.", "Cut into squares or diamond shapes while still warm. Let set completely before removing.", "Serve as prasad or with chai."],
+        "hi": ["घी गर्म करें।", "आटा भूनें 12–15 मिनट जब तक सुनहरा और सुगंधित न हो जाए।", "आंच से हटाएं।", "गुड़ और इलायची मिलाएं।", "तुरंत ग्रीस की हुई थाली में डालें।", "खसखस छिड़कें।", "गर्म रहते चौकोर टुकड़े काटें।", "प्रसाद या चाय के साथ परोसें।"],
+        "gu": [".", ".", ".", ".", ".", ".", ".", "."]
+      },
+      "notes": {
+        "en": "Work quickly once jaggery is added — the mixture sets fast as it cools.",
+        "hi": "गुड़ मिलाने के बाद जल्दी करें — यह ठंडा होते ही जम जाता है।",
+        "gu": "ઘ. ."
+      },
+      "imageUrl": "file:///android_asset/images/gur_papdi.jpg"
+    },
+    {
+      "id": 12,
+      "slug": "plain-khichdi",
+      "name": { "en": "Sada Khichdi", "hi": "सादा खिचड़ी", "gu": "સાદી ખીચડી" },
+      "description": {
+        "en": "A simple one-pot dish of rice and moong dal cooked with ghee and mild spices. Nourishing, easy to digest, and ideal for fasting or sick days.",
+        "hi": "घी और हल्के मसालों के साथ चावल और मूंग दाल का सरल एकपात्र व्यंजन — पौष्टिक और सुपाच्य।",
+        "gu": "ઘ. ."
+      },
+      "category": "RICE",
+      "tags": ["khichdi", "farali", "fasting", "easy-digestion", "quick"],
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 25,
+      "servings": 4,
+      "difficulty": "EASY",
+      "isFarali": true,
+      "isFestivalSpecial": false,
+      "isPopular": false,
+      "ingredients": {
+        "en": ["1 cup rice", "1/2 cup yellow moong dal", "2 tbsp ghee", "1 tsp cumin seeds", "A pinch of asafoetida", "1/2 tsp turmeric", "4 cups water", "Rock salt to taste"],
+        "hi": ["1 कप चावल", "1/2 कप मूंग दाल", "2 चम्मच घी", "जीरा, हींग, हल्दी", "4 कप पानी", "सेंधा नमक"],
+        "gu": [".", ".", ".", ".", ".", "."]
+      },
+      "instructions": {
+        "en": ["Wash rice and moong dal together. Soak for 10 minutes, then drain.", "Heat ghee in a pressure cooker. Add cumin and asafoetida.", "Add drained rice and dal. Stir to coat with ghee.", "Add turmeric, rock salt, and 4 cups water.", "Pressure cook for 3 whistles. Release pressure naturally.", "Open and stir; add more hot water if it is too thick. Serve with extra ghee drizzled on top."],
+        "hi": ["चावल और दाल धोकर 10 मिनट भिगोएं।", "प्रेशर कुकर में घी गर्म करें। जीरा, हींग डालें।", "चावल-दाल डालें।", "हल्दी, नमक, पानी डालें।", "3 सीटी लगाएं। दबाव निकलने दें।", "परोसने से पहले घी डालें।"],
+        "gu": [".", ".", ".", ".", ".", "."]
+      },
+      "notes": {
+        "en": "For a healing version, omit spices entirely and serve with plain yogurt.",
+        "hi": "उपचारात्मक संस्करण के लिए मसाले छोड़ें और सादे दही के साथ परोसें।",
+        "gu": "ઘ. ."
+      },
+      "imageUrl": "file:///android_asset/images/khichdi.jpg"
+    },
+    {
+      "id": 13,
+      "slug": "batata-shaak",
+      "name": { "en": "Batata Nu Shaak", "hi": "बटाटा नू शाक", "gu": "બટાટા નું શાક" },
+      "description": {
+        "en": "Dry spiced potato sabji tempered with mustard seeds and sesame. A classic Gujarati farali dish served with puri or sabudana.",
+        "hi": "राई और तिल से तड़की हुई मसालेदार सूखी आलू सब्जी — गुजराती फराली डिश।",
+        "gu": "ઘ. ."
+      },
+      "category": "SABJI",
+      "tags": ["sabji", "farali", "gujarati", "dry", "fasting"],
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 20,
+      "servings": 3,
+      "difficulty": "EASY",
+      "isFarali": true,
+      "isFestivalSpecial": false,
+      "isPopular": false,
+      "ingredients": {
+        "en": ["4 medium potatoes, boiled and cubed", "2 tbsp oil or ghee", "1 tsp mustard seeds", "1 tsp sesame seeds", "A pinch of asafoetida", "2 green chillies, slit", "1/2 tsp turmeric", "Rock salt to taste", "1 tsp sugar", "Juice of 1 lemon", "Fresh coriander"],
+        "hi": ["4 उबले आलू", "तेल, राई, तिल, हींग, हरी मिर्च, हल्दी, सेंधा नमक, चीनी, नींबू, धनिया"],
+        "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+      },
+      "instructions": {
+        "en": ["Heat oil in a pan. Add mustard seeds and sesame seeds. Let them splutter.", "Add hing, green chillies, and turmeric.", "Add boiled potato cubes and rock salt. Toss gently.", "Add sugar and mix. Cook 5 minutes on medium heat.", "Squeeze lemon juice, garnish with coriander, and serve."],
+        "hi": ["तेल में राई, तिल चटकाएं।", "हींग, मिर्च, हल्दी डालें।", "आलू और नमक डालें।", "चीनी मिलाएं। 5 मिनट पकाएं।", "नींबू, धनिया और परोसें।"],
+        "gu": [".", ".", ".", ".", "."]
+      },
+      "notes": {
+        "en": "Use rock salt (sendha namak) for Navratri fasting.",
+        "hi": "नवरात्रि उपवास के लिए सेंधा नमक उपयोग करें।",
+        "gu": "ઘ. ."
+      },
+      "imageUrl": "file:///android_asset/images/batata_shaak.jpg"
+    },
+    {
+      "id": 14,
+      "slug": "mango-lassi",
+      "name": { "en": "Mango Lassi", "hi": "आम लस्सी", "gu": "કેરી લસ્સી" },
+      "description": {
+        "en": "A refreshing chilled yogurt drink blended with ripe Alphonso mangoes, sugar, and cardamom. A summer favourite.",
+        "hi": "पके अल्फांसो आम, चीनी और इलायची के साथ मिश्रित ताज़ी ठंडी दही का पेय — गर्मियों का पसंदीदा।",
+        "gu": "ઘ. ."
+      },
+      "category": "DRINKS",
+      "tags": ["drink", "lassi", "mango", "summer", "quick"],
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 0,
+      "servings": 2,
+      "difficulty": "EASY",
+      "isFarali": true,
+      "isFestivalSpecial": false,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["1 cup thick yogurt (chilled)", "1 cup mango pulp (fresh or canned Alphonso)", "2 tbsp sugar (adjust to taste)", "1/4 tsp cardamom powder", "1/2 cup chilled milk", "Ice cubes", "Chopped pistachios or dried rose petals for garnish"],
+        "hi": ["1 कप दही", "1 कप आम का गूदा", "2 चम्मच चीनी", "1/4 चम्मच इलायची", "1/2 कप ठंडा दूध", "बर्फ, पिस्ता/गुलाब की पंखुड़ियां"],
+        "gu": [".", ".", ".", ".", ".", ".", "."]
+      },
+      "instructions": {
+        "en": ["Combine yogurt, mango pulp, sugar, cardamom, and milk in a blender.", "Blend until smooth and frothy.", "Taste and adjust sweetness.", "Pour over ice cubes in chilled glasses.", "Garnish with chopped pistachios or rose petals and serve immediately."],
+        "hi": ["दही, आम, चीनी, इलायची और दूध मिलाएं।", "ब्लेंड करें।", "मिठास जांचें।", "बर्फ के साथ गिलास में डालें।", "सजाकर तुरंत परोसें।"],
+        "gu": [".", ".", ".", ".", "."]
+      },
+      "notes": {
+        "en": "Use kesar (saffron) mango pulp for the most authentic flavour.",
+        "hi": "प्रामाणिक स्वाद के लिए केसर आम का गूदा उपयोग करें।",
+        "gu": "ઘ. ."
+      },
+      "imageUrl": "file:///android_asset/images/mango_lassi.jpg"
+    },
+    {
+      "id": 15,
+      "slug": "coconut-chutney",
+      "name": { "en": "Coconut Chutney", "hi": "नारियल चटनी", "gu": "નારિયળ ચટણી" },
+      "description": {
+        "en": "Fresh coconut blended with ginger, green chilli, and tempered with mustard seeds and curry leaves. Perfect with idli, dosa, or thepla.",
+        "hi": "ताजे नारियल को अदरक और हरी मिर्च के साथ पीसकर बनाई गई चटनी — इडली, डोसा या थेपले के साथ।",
+        "gu": "ઘ. ."
+      },
+      "category": "SNACKS",
+      "tags": ["chutney", "quick", "condiment", "coconut"],
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 5,
+      "servings": 4,
+      "difficulty": "EASY",
+      "isFarali": false,
+      "isFestivalSpecial": false,
+      "isPopular": false,
+      "ingredients": {
+        "en": ["1 cup fresh or frozen grated coconut", "1/2 inch piece ginger", "2 green chillies (adjust heat)", "2 tbsp roasted chana dal", "Salt to taste", "Water as needed", "For tempering: 1 tbsp oil", "1 tsp mustard seeds", "8 curry leaves", "1 dried red chilli"],
+        "hi": ["1 कप कद्दूकस नारियल", "अदरक, हरी मिर्च", "2 चम्मच भुनी चना दाल", "नमक, पानी", "तड़के के लिए: तेल, राई, करी पत्ते, लाल मिर्च"],
+        "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+      },
+      "instructions": {
+        "en": ["Blend coconut, ginger, green chillies, roasted chana dal, salt, and enough water into a smooth chutney.", "For tempering: heat oil, add mustard seeds. When they pop, add curry leaves and red chilli.", "Pour tempering over chutney and mix.", "Serve immediately or refrigerate for up to 2 days."],
+        "hi": ["नारियल, अदरक, मिर्च, दाल, नमक और पानी मिलाकर पीसें।", "तड़का लगाएं।", "चटनी में डालें।", "तुरंत परोसें।"],
+        "gu": [".", ".", ".", "."]
+      },
+      "notes": {
+        "en": "Add a small piece of raw mango instead of ginger for a tangy variation.",
+        "hi": "अदरक की जगह कच्चे आम का टुकड़ा डालें।",
+        "gu": "ઘ. ."
+      },
+      "imageUrl": "file:///android_asset/images/coconut_chutney.jpg"
+    },
+    {
+      "id": 16,
+      "slug": "sev-tameta",
+      "name": { "en": "Sev Tameta Nu Shaak", "hi": "सेव टमाटा नू शाक", "gu": "સેવ ટામેટા નું શાક" },
+      "description": {
+        "en": "A tangy Gujarati curry of tomatoes topped with crispy sev. Ready in under 20 minutes — a weekday saviour.",
+        "hi": "खट्टे टमाटरों की गुजराती करी जिसके ऊपर कुरकुरी सेव डाली जाती है। 20 मिनट से कम में तैयार।",
+        "gu": "ઘ. ."
+      },
+      "category": "SABJI",
+      "tags": ["sabji", "gujarati", "quick", "tomato", "sev"],
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 15,
+      "servings": 3,
+      "difficulty": "EASY",
+      "isFarali": false,
+      "isFestivalSpecial": false,
+      "isPopular": false,
+      "ingredients": {
+        "en": ["4 large tomatoes, chopped", "1/2 cup thick sev (fine or medium)", "2 tbsp oil", "1 tsp mustard seeds", "A pinch of asafoetida", "8 curry leaves", "2 green chillies, slit", "1/2 tsp turmeric", "1 tsp red chilli powder", "1 tsp cumin-coriander powder", "1 tsp sugar", "Salt to taste", "Fresh coriander"],
+        "hi": ["4 टमाटर, 1/2 कप सेव, तेल, राई, हींग, करी पत्ते, हरी मिर्च, मसाले, चीनी, नमक, धनिया"],
+        "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+      },
+      "instructions": {
+        "en": ["Heat oil. Add mustard seeds. When they pop, add asafoetida, curry leaves, and green chillies.", "Add turmeric and red chilli powder.", "Add chopped tomatoes and salt. Cook on medium heat for 10 minutes until tomatoes break down into a thick gravy.", "Add sugar and cumin-coriander powder. Cook 2 more minutes.", "Just before serving, top generously with sev and garnish with fresh coriander.", "Serve immediately with roti or bhakri."],
+        "hi": ["तेल में राई, हींग, करी पत्ते, मिर्च।", "हल्दी, मिर्च पाउडर।", "टमाटर और नमक डालें। 10 मिनट पकाएं।", "चीनी और जीरा-धनिया डालें।", "परोसने से पहले सेव डालें।", "रोटी के साथ परोसें।"],
+        "gu": [".", ".", ".", ".", ".", "."]
+      },
+      "notes": {
+        "en": "Add sev at the very last moment — it softens quickly in the gravy.",
+        "hi": "सेव आखिरी में डालें — करी में जल्दी नरम हो जाती है।",
+        "gu": "ઘ. ."
+      },
+      "imageUrl": "file:///android_asset/images/sev_tameta.jpg"
+    },
+    {
+      "id": 17,
+      "slug": "chana-dal-halwa",
+      "name": { "en": "Chana Dal Halwa", "hi": "चना दाल हलवा", "gu": "ચણા દાળ હળવો" },
+      "description": {
+        "en": "A rich, dense halwa made from soaked and ground chana dal, slow-cooked with ghee, sugar, and cardamom. Offered as prasad.",
+        "hi": "भिगोई और पिसी चना दाल को घी, चीनी और इलायची के साथ धीमी आंच पर पकाया गया हलवा — प्रसाद के रूप में।",
+        "gu": "ઘ. ."
+      },
+      "category": "SWEETS",
+      "tags": ["halwa", "sweet", "festival", "prasad", "chana"],
+      "prepTimeMinutes": 240,
+      "cookTimeMinutes": 45,
+      "servings": 8,
+      "difficulty": "MEDIUM",
+      "isFarali": false,
+      "isFestivalSpecial": true,
+      "isPopular": false,
+      "ingredients": {
+        "en": ["1 cup chana dal (split chickpeas)", "1/2 cup ghee", "1 cup sugar", "1/4 cup milk", "1 tsp cardamom powder", "A few strands saffron in 2 tbsp warm milk", "2 tbsp mixed dry fruits (cashews, almonds, raisins)"],
+        "hi": ["1 कप चना दाल (4 घंटे भिगोई)", "1/2 कप घी", "1 कप चीनी", "1/4 कप दूध", "इलायची, केसर, मेवा"],
+        "gu": [".", ".", ".", ".", ".", ".", "."]
+      },
+      "instructions": {
+        "en": ["Soak chana dal for 3–4 hours. Drain and grind coarsely without water.", "Heat ghee in a heavy pan. Add ground dal and roast, stirring continuously on medium-low heat for 20–25 minutes until golden and fragrant.", "Make sugar syrup: dissolve sugar in 1/2 cup water and boil for 2 minutes.", "Pour syrup into roasted dal. Mix vigorously — it will splatter. Add milk.", "Cook stirring until halwa leaves the sides of the pan (10–15 minutes).", "Add cardamom, saffron-milk, and dry fruits. Mix and serve."],
+        "hi": ["चना दाल भिगोकर दरदरा पीसें।", "घी में 20–25 मिनट भूनें।", "चीनी की चाशनी बनाएं।", "चाशनी डालें। दूध डालें।", "10–15 मिनट चलाते पकाएं।", "मसाले और मेवे मिलाएं।"],
+        "gu": [".", ".", ".", ".", ".", "."]
+      },
+      "notes": {
+        "en": "Keep stirring throughout — chana dal burns easily when unattended.",
+        "hi": "लगातार चलाते रहें — चना दाल जल्दी जल जाती है।",
+        "gu": "ઘ. ."
+      },
+      "imageUrl": "file:///android_asset/images/chana_dal_halwa.jpg"
+    },
+    {
+      "id": 18,
+      "slug": "sambar",
+      "name": { "en": "Sambar (No Onion)", "hi": "सांभर (बिना प्याज)", "gu": "સાંભાર (ડુ. ?)gling" },
+      "description": {
+        "en": "A lentil-based South Indian vegetable stew with tamarind and sambar powder. Made without onion or garlic.",
+        "hi": "इमली और सांभर पाउडर के साथ तुअर दाल और सब्जियों से बना दक्षिण भारतीय स्टू — बिना प्याज-लहसुन।",
+        "gu": "ઘ. ."
+      },
+      "category": "SOUP",
+      "tags": ["sambar", "south-indian", "dal", "soup", "everyday"],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 30,
+      "servings": 4,
+      "difficulty": "MEDIUM",
+      "isFarali": false,
+      "isFestivalSpecial": false,
+      "isPopular": false,
+      "ingredients": {
+        "en": ["1/2 cup toor dal", "1 drumstick, cut into pieces", "1 small tomato, chopped", "1 small brinjal (eggplant), cubed", "2 tbsp tamarind extract", "1.5 tbsp sambar powder", "1/2 tsp turmeric", "Salt to taste", "1 tbsp oil", "1 tsp mustard seeds", "1/2 tsp cumin seeds", "A pinch of asafoetida", "10 curry leaves", "2 dried red chillies"],
+        "hi": ["1/2 कप तुअर दाल", "सब्जियां, इमली, सांभर पाउडर, हल्दी, नमक", "तड़के के लिए: तेल, राई, जीरा, हींग, करी पत्ते, मिर्च"],
+        "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+      },
+      "instructions": {
+        "en": ["Pressure cook toor dal until soft. Mash well.", "In a separate pot, cook vegetables in 2 cups water with tamarind extract, turmeric, salt, and sambar powder for 10 minutes.", "Add mashed dal to the pot. Adjust consistency with water. Simmer 10 minutes.", "Prepare tempering: heat oil, add mustard seeds, cumin, hing, curry leaves, and red chillies.", "Pour tempering into sambar. Simmer 2 more minutes. Serve hot with idli, dosa, or rice."],
+        "hi": ["तुअर दाल पकाएं और मैश करें।", "सब्जियां, इमली, मसालों के साथ पकाएं।", "दाल डालें। 10 मिनट उबालें।", "तड़का लगाएं।", "चावल या इडली के साथ परोसें।"],
+        "gu": [".", ".", ".", ".", "."]
+      },
+      "notes": {
+        "en": "Adjust tanginess with more or less tamarind. Add jaggery for a slight sweetness.",
+        "hi": "इमली की मात्रा से खट्टापन नियंत्रित करें। गुड़ से हल्की मिठास लाएं।",
+        "gu": "ઘ. ."
+      },
+      "imageUrl": "file:///android_asset/images/sambar.jpg"
+    },
+    {
+      "id": 19,
+      "slug": "rajma",
+      "name": { "en": "Rajma Chawal (No Onion-Garlic)", "hi": "राजमा चावल (बिना प्याज-लहसुन)", "gu": "રાજમા ચોખા (ડુ.-લ. ?)" },
+      "description": {
+        "en": "Red kidney beans slow-cooked in a rich tomato-ginger gravy. A north Indian staple reimagined without onion and garlic.",
+        "hi": "टमाटर-अदरक की गाढ़ी ग्रेवी में धीमी आंच पर पकाए गए राजमा — प्याज-लहसुन के बिना।",
+        "gu": "ઘ. ."
+      },
+      "category": "DAL",
+      "tags": ["rajma", "north-indian", "kidney-beans", "popular"],
+      "prepTimeMinutes": 480,
+      "cookTimeMinutes": 45,
+      "servings": 4,
+      "difficulty": "MEDIUM",
+      "isFarali": false,
+      "isFestivalSpecial": false,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["1.5 cups red kidney beans (rajma), soaked overnight", "3 medium tomatoes, pureed", "1 tsp grated ginger", "2 tbsp oil or ghee", "1 tsp cumin seeds", "A pinch of asafoetida", "1 tsp turmeric powder", "1.5 tsp red chilli powder", "2 tsp coriander powder", "1 tsp garam masala", "Salt to taste", "Fresh coriander for garnish"],
+        "hi": ["1.5 कप राजमा (रात भर भिगोए)", "3 टमाटर, प्यूरी", "1 चम्मच पिसा अदरक", "तेल, जीरा, हींग, मसाले, नमक, धनिया"],
+        "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+      },
+      "instructions": {
+        "en": ["Drain and pressure cook soaked rajma with salt and enough water for 5–6 whistles until very tender.", "Heat oil in a pot. Add cumin and asafoetida.", "Add tomato puree and grated ginger. Cook on medium heat for 8–10 minutes until oil separates.", "Add all spice powders except garam masala. Cook 2 minutes.", "Add cooked rajma with its water. Mash a few beans to thicken gravy.", "Simmer 15 minutes, add garam masala, and garnish with coriander.", "Serve with steamed basmati rice."],
+        "hi": ["राजमा प्रेशर कुकर में पकाएं।", "जीरा, हींग का तड़का।", "टमाटर प्यूरी और अदरक 8–10 मिनट पकाएं।", "मसाले डालें।", "राजमा डालें। कुछ दाने मैश करें।", "15 मिनट उबालें। गरम मसाला डालें।", "चावल के साथ परोसें।"],
+        "gu": [".", ".", ".", ".", ".", ".", "."]
+      },
+      "notes": {
+        "en": "The longer you simmer rajma, the richer the gravy. It tastes even better the next day.",
+        "hi": "जितनी देर उबालेंगे, ग्रेवी उतनी गाढ़ी होगी। अगले दिन और स्वादिष्ट लगती है।",
+        "gu": "ઘ. ."
+      },
+      "imageUrl": "file:///android_asset/images/rajma.jpg"
+    },
+    {
+      "id": 20,
+      "slug": "mawa-modak",
+      "name": { "en": "Mawa Modak", "hi": "मावा मोदक", "gu": "માવા મોદક" },
+      "description": {
+        "en": "Soft, melt-in-the-mouth modaks made from khoya, sugar, and cardamom. Offered to Lord Ganesha during Ganesh Chaturthi.",
+        "hi": "खोया, चीनी और इलायची से बने नरम, मुंह में घुल जाने वाले मोदक — गणेश चतुर्थी पर भगवान गणेश को अर्पित।",
+        "gu": "ઘ. ."
+      },
+      "category": "SWEETS",
+      "tags": ["modak", "festival", "ganesh", "prasad", "khoya", "celebration"],
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 20,
+      "servings": 12,
+      "difficulty": "MEDIUM",
+      "isFarali": false,
+      "isFestivalSpecial": true,
+      "isPopular": true,
+      "ingredients": {
+        "en": ["2 cups khoya (mawa), crumbled", "1/2 cup powdered sugar", "1 tsp cardamom powder", "A few strands of saffron", "2 tbsp mixed dry fruits (pistachios, almonds), finely chopped", "A few drops rose water"],
+        "hi": ["2 कप खोया", "1/2 कप पाउडर चीनी", "1 चम्मच इलायची", "केसर", "2 चम्मच सूखे मेवे", "गुलाब जल"],
+        "gu": [".", ".", ".", ".", ".", "."]
+      },
+      "instructions": {
+        "en": ["Cook crumbled khoya in a heavy pan on low heat, stirring continuously for 8–10 minutes until it leaves the sides and forms a soft dough.", "Remove from heat. Let cool for 5 minutes — it should be warm, not hot.", "Add powdered sugar, cardamom, saffron, dry fruits, and rose water. Mix well.", "Divide into 12 equal portions. Using a modak mould or by hand, shape each into a modak form.", "Let set for 10 minutes before serving. Serve as prasad."],
+        "hi": ["खोया को 8–10 मिनट धीमी आंच पर पकाएं जब तक वह आटे जैसा न बन जाए।", "5 मिनट ठंडा करें।", "चीनी, इलायची, केसर, मेवे, गुलाब जल मिलाएं।", "मोदक के आकार में बनाएं।", "10 मिनट में परोसें।"],
+        "gu": [".", ".", ".", ".", "."]
+      },
+      "notes": {
+        "en": "Work with warm khoya for easy shaping. If it dries out, microwave for 10 seconds.",
+        "hi": "आकार देना आसान हो इसलिए गर्म खोया से काम करें। अगर सूख जाए तो माइक्रोवेव में 10 सेकंड गर्म करें।",
+        "gu": "ઘ. ."
+      },
+      "imageUrl": "file:///android_asset/images/mawa_modak.jpg"
+    }
+  ]
+}

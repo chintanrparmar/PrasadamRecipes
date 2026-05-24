@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Window background matches the warm cream used in Compose light theme -->
+    <style name="Theme.PrasadamRecipes" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/cream_bg</item>
+        <item name="android:statusBarColor">@color/saffron</item>
+    </style>
+</resources>

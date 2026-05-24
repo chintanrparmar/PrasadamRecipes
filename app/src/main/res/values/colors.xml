@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Prasadam brand palette (used in XML themes and splash) -->
+    <color name="saffron">#FF9800</color>
+    <color name="deep_saffron">#E57C00</color>
+    <color name="maroon">#7B1E1E</color>
+    <color name="cream_bg">#FFF8E7</color>
+    <color name="warm_white">#FFFCF5</color>
+    <color name="temple_gold">#D4A017</color>
+    <color name="leaf_green">#4F7D3A</color>
+    <color name="text_brown">#3E2723</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
