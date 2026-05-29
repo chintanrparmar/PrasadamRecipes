@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Prasadam brand palette (used in XML themes and splash) -->
-    <color name="saffron">#FF9800</color>
-    <color name="deep_saffron">#E57C00</color>
-    <color name="maroon">#7B1E1E</color>
-    <color name="cream_bg">#FFF8E7</color>
-    <color name="warm_white">#FFFCF5</color>
+    <!-- Prasadam brand palette — used in XML themes and splash screen -->
+    <color name="fresh_green">#2F5D3A</color>
+    <color name="soft_leaf_green">#6B8E4E</color>
+    <color name="light_green_chip">#EAF3E5</color>
+    <color name="warm_saffron">#F59E0B</color>
+    <color name="soft_orange">#F97316</color>
+    <color name="light_peach">#FFE4D1</color>
+    <color name="app_background">#FFF8EF</color>
+    <color name="soft_cream">#FFF3E0</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="primary_text">#1F2933</color>
+    <color name="favorite_gold">#D4A017</color>
+    <color name="error_red">#B00020</color>
+
+    <!-- Legacy aliases kept for splash theme compatibility -->
+    <color name="cream_bg">#FFF8EF</color>
+    <color name="saffron">#F59E0B</color>
     <color name="temple_gold">#D4A017</color>
-    <color name="leaf_green">#4F7D3A</color>
-    <color name="text_brown">#3E2723</color>
+    <color name="leaf_green">#6B8E4E</color>
+    <color name="maroon">#7B1E1E</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 </resources>

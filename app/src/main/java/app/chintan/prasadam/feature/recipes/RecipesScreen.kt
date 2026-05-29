@@ -10,18 +10,10 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Close
-import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.CircularProgressIndicator
-import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.FilterChip
 import androidx.compose.material3.FilterChipDefaults
-import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.SearchBar
-import androidx.compose.material3.SearchBarDefaults
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -31,13 +23,17 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import app.chintan.prasadam.core.design.CardWhite
+import app.chintan.prasadam.core.design.FreshGreen
+import app.chintan.prasadam.core.design.LightGreenChip
 import app.chintan.prasadam.core.design.LocalAppLanguage
 import app.chintan.prasadam.core.design.PrasadamTheme
-import app.chintan.prasadam.core.design.Saffron
+import app.chintan.prasadam.core.design.SecondaryText
 import app.chintan.prasadam.core.localization.AppStrings
 import app.chintan.prasadam.domain.model.Language
 import app.chintan.prasadam.domain.model.RecipeCategory
 import app.chintan.prasadam.feature.home.RecipeListItem
+import app.chintan.prasadam.feature.home.RecipeSearchBar
 
 // ── Route composable ──────────────────────────────────────────────────────────
 
@@ -58,7 +54,6 @@ fun RecipesScreen(
 
 // ── Stateless content ─────────────────────────────────────────────────────────
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 private fun RecipesContent(
     uiState: RecipesUiState,
@@ -71,31 +66,15 @@ private fun RecipesContent(
 
     Column(modifier = Modifier.fillMaxSize()) {
         // Search bar
-        SearchBar(
+        RecipeSearchBar(
+            query = uiState.searchQuery,
+            onQueryChange = onSearchQueryChange,
+            onClear = onClearSearch,
+            placeholder = AppStrings.search(lang),
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(horizontal = 16.dp, vertical = 8.dp),
-            inputField = {
-                SearchBarDefaults.InputField(
-                    query = uiState.searchQuery,
-                    onQueryChange = onSearchQueryChange,
-                    onSearch = {},
-                    expanded = false,
-                    onExpandedChange = {},
-                    placeholder = { Text(AppStrings.search(lang)) },
-                    leadingIcon = { Icon(Icons.Default.Search, contentDescription = null) },
-                    trailingIcon = {
-                        if (uiState.searchQuery.isNotBlank()) {
-                            IconButton(onClick = onClearSearch) {
-                                Icon(Icons.Default.Close, contentDescription = "Clear")
-                            }
-                        }
-                    }
-                )
-            },
-            expanded = false,
-            onExpandedChange = {}
-        ) {}
+                .padding(horizontal = 16.dp, vertical = 10.dp)
+        )
 
         // Category chips
         if (uiState.searchQuery.isBlank()) {
@@ -109,7 +88,7 @@ private fun RecipesContent(
         when {
             uiState.isLoading -> {
                 Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-                    CircularProgressIndicator(color = Saffron)
+                    CircularProgressIndicator(color = FreshGreen)
                 }
             }
 
@@ -143,20 +122,30 @@ private fun CategoryChipsRow(
     onCategorySelected: (RecipeCategory) -> Unit,
     lang: Language
 ) {
-    val categories = RecipeCategory.entries
-
     LazyRow(
-        contentPadding = PaddingValues(horizontal = 16.dp, vertical = 8.dp),
+        contentPadding = PaddingValues(horizontal = 16.dp, vertical = 6.dp),
         horizontalArrangement = Arrangement.spacedBy(8.dp)
     ) {
-        items(categories) { category ->
+        items(RecipeCategory.entries) { category ->
             FilterChip(
                 selected = category == selectedCategory,
                 onClick = { onCategorySelected(category) },
                 label = { Text(category.displayName(lang)) },
                 colors = FilterChipDefaults.filterChipColors(
-                    selectedContainerColor = MaterialTheme.colorScheme.primaryContainer,
-                    selectedLabelColor = MaterialTheme.colorScheme.onPrimaryContainer
+                    // Selected: light green background + dark green text
+                    selectedContainerColor = LightGreenChip,
+                    selectedLabelColor = FreshGreen,
+                    // Unselected: white background + muted text
+                    containerColor = CardWhite,
+                    labelColor = SecondaryText
+                ),
+                border = FilterChipDefaults.filterChipBorder(
+                    enabled = true,
+                    selected = category == selectedCategory,
+                    borderColor = MaterialTheme.colorScheme.outlineVariant,
+                    selectedBorderColor = FreshGreen.copy(alpha = 0.3f),
+                    borderWidth = 1.dp,
+                    selectedBorderWidth = 1.dp
                 )
             )
         }

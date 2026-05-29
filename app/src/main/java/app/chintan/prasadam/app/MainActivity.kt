@@ -18,8 +18,10 @@ import androidx.compose.material.icons.outlined.List
 import androidx.compose.material.icons.outlined.Settings
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
+import androidx.compose.material3.NavigationBarItemDefaults
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
@@ -31,41 +33,38 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.unit.dp
 import androidx.compose.ui.text.font.FontWeight
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
+import app.chintan.prasadam.core.design.CardWhite
+import app.chintan.prasadam.core.design.FreshGreen
+import app.chintan.prasadam.core.design.LightGreenChip
 import app.chintan.prasadam.core.design.LocalAppLanguage
 import app.chintan.prasadam.core.design.PrasadamTheme
-import app.chintan.prasadam.feature.splash.SplashScreen
+import app.chintan.prasadam.core.design.SecondaryText
 import app.chintan.prasadam.core.localization.AppStrings
 import app.chintan.prasadam.core.navigation.PrasadamNavGraph
 import app.chintan.prasadam.core.navigation.Screen
 import app.chintan.prasadam.domain.model.Language
 import app.chintan.prasadam.feature.settings.SettingsViewModel
+import app.chintan.prasadam.feature.splash.SplashScreen
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        // installSplashScreen MUST be called before super.onCreate / setContent so the
-        // OS-level splash screen (API 31+) is properly installed and then hands off to
-        // our Compose splash via postSplashScreenTheme.
         installSplashScreen()
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            // SettingsViewModel is scoped to the Activity so theme/language changes
-            // propagate immediately to the whole composition tree.
             val settingsViewModel: SettingsViewModel = hiltViewModel()
             val settingsState by settingsViewModel.uiState.collectAsStateWithLifecycle()
 
-            // Track whether the branded splash is still on screen.
-            // rememberSaveable keeps this false after rotation so we don't re-show
-            // the splash mid-session, while still showing it on every cold start.
             var splashVisible by rememberSaveable { mutableStateOf(true) }
 
             PrasadamTheme(
@@ -101,34 +100,39 @@ private fun PrasadamAppScaffold() {
     )
     val isTopLevel = currentRoute in topLevelRoutes
 
+    // Home screen uses its own PrasadamHeroCard, so no top bar needed there.
+    val showTopBar = isTopLevel && currentRoute != Screen.Home.route
+
     val topBarTitle = when (currentRoute) {
-        Screen.Home.route -> AppStrings.appTitle(lang)
-        Screen.Recipes.route -> AppStrings.recipes(lang)
+        Screen.Recipes.route   -> AppStrings.recipes(lang)
         Screen.Favorites.route -> AppStrings.favorites(lang)
-        Screen.Settings.route -> AppStrings.settings(lang)
-        else -> ""
+        Screen.Settings.route  -> AppStrings.settings(lang)
+        else                   -> ""
     }
 
     Scaffold(
         modifier = Modifier.fillMaxSize(),
+        containerColor = MaterialTheme.colorScheme.background,
         topBar = {
-            if (isTopLevel) {
+            if (showTopBar) {
                 TopAppBar(
                     title = {
-                        Text(text = topBarTitle, fontWeight = FontWeight.Bold)
+                        Text(
+                            text = topBarTitle,
+                            fontWeight = FontWeight.Bold,
+                            color = MaterialTheme.colorScheme.onBackground
+                        )
                     },
                     colors = TopAppBarDefaults.topAppBarColors(
-                        containerColor = androidx.compose.material3.MaterialTheme.colorScheme.background
+                        containerColor = MaterialTheme.colorScheme.background,
+                        scrolledContainerColor = MaterialTheme.colorScheme.surface
                     )
                 )
             }
         },
         bottomBar = {
             if (isTopLevel) {
-                PrasadamBottomBar(
-                    navController = navController,
-                    lang = lang
-                )
+                PrasadamBottomBar(navController = navController, lang = lang)
             }
         }
     ) { innerPadding ->
@@ -170,14 +174,16 @@ private fun PrasadamBottomBar(navController: NavHostController, lang: Language) 
     val navBackStackEntry by navController.currentBackStackEntryAsState()
     val currentRoute = navBackStackEntry?.destination?.route
 
-    NavigationBar {
+    NavigationBar(
+        containerColor = CardWhite,
+        tonalElevation = 0.dp
+    ) {
         navItems.forEach { item ->
             val selected = currentRoute == item.screen.route
             NavigationBarItem(
                 selected = selected,
                 onClick = {
                     navController.navigate(item.screen.route) {
-                        // Pop up to start destination, avoiding a back-stack of top-level dests
                         popUpTo(navController.graph.startDestinationId) { saveState = true }
                         launchSingleTop = true
                         restoreState = true
@@ -189,7 +195,14 @@ private fun PrasadamBottomBar(navController: NavHostController, lang: Language) 
                         contentDescription = item.labelFn(lang)
                     )
                 },
-                label = { Text(item.labelFn(lang)) }
+                label = { Text(item.labelFn(lang)) },
+                colors = NavigationBarItemDefaults.colors(
+                    selectedIconColor   = FreshGreen,
+                    selectedTextColor   = FreshGreen,
+                    indicatorColor      = LightGreenChip,
+                    unselectedIconColor = SecondaryText,
+                    unselectedTextColor = SecondaryText
+                )
             )
         }
     }

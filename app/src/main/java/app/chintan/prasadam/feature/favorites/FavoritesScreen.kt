@@ -24,7 +24,7 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import app.chintan.prasadam.core.design.LocalAppLanguage
 import app.chintan.prasadam.core.design.PrasadamTheme
-import app.chintan.prasadam.core.design.Saffron
+import app.chintan.prasadam.core.design.FreshGreen
 import app.chintan.prasadam.core.localization.AppStrings
 import app.chintan.prasadam.domain.model.Language
 import app.chintan.prasadam.feature.home.RecipeListItem
@@ -52,7 +52,7 @@ private fun FavoritesContent(
     when (uiState) {
         is FavoritesUiState.Loading -> {
             Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-                CircularProgressIndicator(color = Saffron)
+                CircularProgressIndicator(color = FreshGreen)
             }
         }
 

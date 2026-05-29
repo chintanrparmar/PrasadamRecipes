@@ -48,14 +48,25 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import app.chintan.prasadam.core.design.DeepSaffron
+import app.chintan.prasadam.core.design.CardWhite
+import app.chintan.prasadam.core.design.DarkForestGreen
+import app.chintan.prasadam.core.design.FavoriteGold
+import app.chintan.prasadam.core.design.FreshGreen
+import app.chintan.prasadam.core.design.LightGreenChip
+import app.chintan.prasadam.core.design.LightPeach
 import app.chintan.prasadam.core.design.LocalAppLanguage
-import app.chintan.prasadam.core.design.Saffron
-import app.chintan.prasadam.core.design.TempleGold
+import app.chintan.prasadam.core.design.PeachTint
+import app.chintan.prasadam.core.design.PrimaryText
+import app.chintan.prasadam.core.design.SecondaryText
+import app.chintan.prasadam.core.design.SoftLeafGreen
+import app.chintan.prasadam.core.design.SoftOrange
+import app.chintan.prasadam.core.design.WarmSaffron
 import app.chintan.prasadam.core.localization.AppStrings
 import app.chintan.prasadam.domain.model.Language
 import app.chintan.prasadam.domain.model.Recipe
 import app.chintan.prasadam.feature.home.FaraliChip
+import app.chintan.prasadam.feature.home.categoryEmoji
+import app.chintan.prasadam.feature.home.categoryGradient
 
 // ── Route composable ──────────────────────────────────────────────────────────
 
@@ -69,7 +80,7 @@ fun RecipeDetailScreen(
     when (val state = uiState) {
         is RecipeDetailUiState.Loading -> {
             Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-                CircularProgressIndicator(color = Saffron)
+                CircularProgressIndicator(color = FreshGreen)
             }
         }
 
@@ -106,26 +117,31 @@ private fun RecipeDetailContent(
             .fillMaxSize()
             .verticalScroll(rememberScrollState())
     ) {
-        // ── Hero image / header ───────────────────────────────────────────────
+        // ── Hero image area ───────────────────────────────────────────────────
         Box(
             modifier = Modifier
                 .fillMaxWidth()
-                .height(260.dp)
+                .height(280.dp)
                 .background(
-                    Brush.verticalGradient(listOf(DeepSaffron, Saffron, TempleGold))
+                    Brush.verticalGradient(
+                        listOf(DarkForestGreen, FreshGreen, SoftLeafGreen)
+                    )
                 )
         ) {
-            // Decorative emoji placeholder
+            // Category-specific emoji, large and centered
             Box(
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(bottom = 48.dp),
+                    .padding(bottom = 40.dp),
                 contentAlignment = Alignment.Center
             ) {
-                Text(text = "🍽️", style = MaterialTheme.typography.displayLarge)
+                Text(
+                    text = categoryEmoji(recipe),
+                    style = MaterialTheme.typography.displayLarge
+                )
             }
 
-            // Navigation & action row
+            // Semi-transparent top bar overlay
             TopAppBar(
                 title = {},
                 navigationIcon = {
@@ -133,7 +149,7 @@ private fun RecipeDetailContent(
                         onClick = onBackClick,
                         modifier = Modifier
                             .clip(CircleShape)
-                            .background(Color.Black.copy(alpha = 0.25f))
+                            .background(Color.Black.copy(alpha = 0.30f))
                     ) {
                         Icon(
                             Icons.AutoMirrored.Filled.ArrowBack,
@@ -147,23 +163,22 @@ private fun RecipeDetailContent(
                         onClick = onToggleFavorite,
                         modifier = Modifier
                             .clip(CircleShape)
-                            .background(Color.Black.copy(alpha = 0.25f))
+                            .background(Color.Black.copy(alpha = 0.30f))
                     ) {
                         Icon(
                             imageVector = if (recipe.isFavorite) Icons.Default.Favorite
                             else Icons.Default.FavoriteBorder,
                             contentDescription = "Favorite",
-                            tint = if (recipe.isFavorite) Color.Red else Color.White
+                            tint = if (recipe.isFavorite) FavoriteGold else Color.White
                         )
                     }
                     IconButton(
                         onClick = {
-                            val shareText = buildShareText(recipe, lang)
                             context.startActivity(
                                 Intent.createChooser(
                                     Intent(Intent.ACTION_SEND).apply {
                                         type = "text/plain"
-                                        putExtra(Intent.EXTRA_TEXT, shareText)
+                                        putExtra(Intent.EXTRA_TEXT, buildShareText(recipe, lang))
                                     },
                                     AppStrings.share(lang)
                                 )
@@ -171,118 +186,146 @@ private fun RecipeDetailContent(
                         },
                         modifier = Modifier
                             .clip(CircleShape)
-                            .background(Color.Black.copy(alpha = 0.25f))
+                            .background(Color.Black.copy(alpha = 0.30f))
                     ) {
-                        Icon(Icons.Default.Share, contentDescription = "Share", tint = Color.White)
+                        Icon(
+                            Icons.Default.Share,
+                            contentDescription = "Share",
+                            tint = Color.White
+                        )
                     }
                 },
                 colors = TopAppBarDefaults.topAppBarColors(containerColor = Color.Transparent)
             )
         }
 
-        // ── Recipe name card ──────────────────────────────────────────────────
+        // ── White content sheet with rounded top corners ──────────────────────
         Surface(
             shape = RoundedCornerShape(topStart = 24.dp, topEnd = 24.dp),
-            color = MaterialTheme.colorScheme.background,
-            modifier = Modifier
-                .fillMaxWidth()
-                .padding(top = 0.dp)
+            color = CardWhite,
+            modifier = Modifier.fillMaxWidth()
         ) {
-            Column(modifier = Modifier.padding(20.dp)) {
+            Column(modifier = Modifier.padding(horizontal = 20.dp, vertical = 20.dp)) {
+
                 // Badges row
                 FlowRow(
                     horizontalArrangement = Arrangement.spacedBy(8.dp),
                     verticalArrangement = Arrangement.spacedBy(6.dp)
                 ) {
-                    CategoryBadge(text = recipe.category.displayName(lang))
+                    CategoryChip(text = recipe.category.displayName(lang))
                     if (recipe.isFarali) FaraliChip(lang = lang)
-                    if (recipe.isFestivalSpecial) FestivalBadge(lang = lang)
+                    if (recipe.isFestivalSpecial) FestivalChip(lang = lang)
                 }
 
-                Spacer(Modifier.height(12.dp))
+                Spacer(Modifier.height(14.dp))
+
+                // Recipe title — dark green for premium feel
                 Text(
                     text = recipe.name.get(lang),
                     style = MaterialTheme.typography.headlineSmall,
-                    fontWeight = FontWeight.Bold
+                    fontWeight = FontWeight.Bold,
+                    color = FreshGreen
                 )
-                Spacer(Modifier.height(8.dp))
+                Spacer(Modifier.height(6.dp))
                 Text(
                     text = recipe.description.get(lang),
                     style = MaterialTheme.typography.bodyMedium,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                    color = SecondaryText
                 )
 
                 Spacer(Modifier.height(20.dp))
 
-                // ── Meta info grid ────────────────────────────────────────────
+                // ── Meta info mini-cards ───────────────────────────────────────
                 MetaInfoGrid(recipe = recipe, lang = lang)
 
+                Spacer(Modifier.height(28.dp))
+                HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant)
                 Spacer(Modifier.height(24.dp))
-                HorizontalDivider()
-                Spacer(Modifier.height(20.dp))
 
                 // ── Ingredients ───────────────────────────────────────────────
-                Text(
-                    text = AppStrings.ingredients(lang),
-                    style = MaterialTheme.typography.titleMedium,
-                    fontWeight = FontWeight.Bold
-                )
+                SectionLabel(text = AppStrings.ingredients(lang))
                 Spacer(Modifier.height(12.dp))
                 recipe.ingredients.get(lang).forEach { ingredient ->
                     IngredientRow(text = ingredient)
                 }
 
+                Spacer(Modifier.height(28.dp))
+                HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant)
                 Spacer(Modifier.height(24.dp))
-                HorizontalDivider()
-                Spacer(Modifier.height(20.dp))
 
                 // ── Instructions ──────────────────────────────────────────────
-                Text(
-                    text = AppStrings.instructions(lang),
-                    style = MaterialTheme.typography.titleMedium,
-                    fontWeight = FontWeight.Bold
-                )
+                SectionLabel(text = AppStrings.instructions(lang))
                 Spacer(Modifier.height(12.dp))
                 recipe.instructions.get(lang).forEachIndexed { index, step ->
                     InstructionStep(number = index + 1, text = step)
-                    Spacer(Modifier.height(12.dp))
+                    Spacer(Modifier.height(14.dp))
                 }
 
                 // ── Notes ─────────────────────────────────────────────────────
                 recipe.notes?.let { notes ->
                     val noteText = notes.get(lang)
                     if (noteText.isNotBlank()) {
-                        HorizontalDivider()
-                        Spacer(Modifier.height(20.dp))
+                        Spacer(Modifier.height(4.dp))
+                        HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant)
+                        Spacer(Modifier.height(24.dp))
                         NoteCard(title = AppStrings.notes(lang), body = noteText)
                     }
                 }
 
-                Spacer(Modifier.height(32.dp))
+                Spacer(Modifier.height(40.dp))
             }
         }
     }
 }
 
+// ── Section helpers ───────────────────────────────────────────────────────────
+
+@Composable
+private fun SectionLabel(text: String) {
+    Row(verticalAlignment = Alignment.CenterVertically) {
+        Box(
+            modifier = Modifier
+                .width(4.dp)
+                .height(20.dp)
+                .clip(RoundedCornerShape(2.dp))
+                .background(FreshGreen)
+        )
+        Spacer(Modifier.width(10.dp))
+        Text(
+            text = text,
+            style = MaterialTheme.typography.titleMedium,
+            fontWeight = FontWeight.Bold,
+            color = PrimaryText
+        )
+    }
+}
+
 @Composable
 private fun MetaInfoGrid(recipe: Recipe, lang: Language) {
-    Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceEvenly) {
+    Row(
+        modifier = Modifier.fillMaxWidth(),
+        horizontalArrangement = Arrangement.spacedBy(10.dp)
+    ) {
         MetaCell(
-            emoji = "🕐",
+            modifier = Modifier.weight(1f),
+            emoji = "⏱",
             label = AppStrings.prepTime(lang),
             value = "${recipe.prepTimeMinutes} ${AppStrings.minuteLabel(lang)}"
         )
         MetaCell(
+            modifier = Modifier.weight(1f),
             emoji = "🔥",
             label = AppStrings.cookTime(lang),
             value = "${recipe.cookTimeMinutes} ${AppStrings.minuteLabel(lang)}"
         )
         MetaCell(
+            modifier = Modifier.weight(1f),
             emoji = "👥",
             label = AppStrings.servings(lang),
             value = "${recipe.servings}"
         )
         MetaCell(
+            modifier = Modifier.weight(1f),
             emoji = "⭐",
             label = AppStrings.difficulty(lang),
             value = recipe.difficulty.label(lang)
@@ -291,18 +334,31 @@ private fun MetaInfoGrid(recipe: Recipe, lang: Language) {
 }
 
 @Composable
-private fun MetaCell(emoji: String, label: String, value: String) {
-    Column(horizontalAlignment = Alignment.CenterHorizontally) {
-        Text(text = emoji, style = MaterialTheme.typography.titleLarge)
+private fun MetaCell(
+    emoji: String,
+    label: String,
+    value: String,
+    modifier: Modifier = Modifier
+) {
+    Column(
+        modifier = modifier
+            .clip(RoundedCornerShape(14.dp))
+            .background(LightGreenChip)
+            .padding(vertical = 10.dp, horizontal = 4.dp),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        Text(text = emoji, style = MaterialTheme.typography.titleMedium)
+        Spacer(Modifier.height(4.dp))
         Text(
             text = value,
-            style = MaterialTheme.typography.labelLarge,
-            fontWeight = FontWeight.SemiBold
+            style = MaterialTheme.typography.labelMedium,
+            fontWeight = FontWeight.SemiBold,
+            color = FreshGreen
         )
         Text(
             text = label,
             style = MaterialTheme.typography.labelSmall,
-            color = MaterialTheme.colorScheme.onSurfaceVariant
+            color = SecondaryText
         )
     }
 }
@@ -312,7 +368,7 @@ private fun IngredientRow(text: String) {
     Row(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(vertical = 4.dp),
+            .padding(vertical = 5.dp),
         verticalAlignment = Alignment.Top
     ) {
         Box(
@@ -320,10 +376,14 @@ private fun IngredientRow(text: String) {
                 .padding(top = 6.dp)
                 .size(8.dp)
                 .clip(CircleShape)
-                .background(Saffron)
+                .background(FreshGreen)
         )
         Spacer(Modifier.width(12.dp))
-        Text(text = text, style = MaterialTheme.typography.bodyMedium)
+        Text(
+            text = text,
+            style = MaterialTheme.typography.bodyMedium,
+            color = PrimaryText
+        )
     }
 }
 
@@ -333,25 +393,29 @@ private fun InstructionStep(number: Int, text: String) {
         modifier = Modifier.fillMaxWidth(),
         verticalAlignment = Alignment.Top
     ) {
+        // Green circle with white step number
         Box(
             modifier = Modifier
-                .size(28.dp)
+                .size(30.dp)
                 .clip(CircleShape)
-                .background(MaterialTheme.colorScheme.primaryContainer),
+                .background(FreshGreen),
             contentAlignment = Alignment.Center
         ) {
             Text(
                 text = number.toString(),
                 style = MaterialTheme.typography.labelMedium,
                 fontWeight = FontWeight.Bold,
-                color = MaterialTheme.colorScheme.onPrimaryContainer
+                color = Color.White
             )
         }
         Spacer(Modifier.width(12.dp))
         Text(
             text = text,
             style = MaterialTheme.typography.bodyMedium,
-            modifier = Modifier.weight(1f)
+            color = PrimaryText,
+            modifier = Modifier
+                .weight(1f)
+                .padding(top = 4.dp)
         )
     }
 }
@@ -359,52 +423,62 @@ private fun InstructionStep(number: Int, text: String) {
 @Composable
 private fun NoteCard(title: String, body: String) {
     Card(
-        shape = RoundedCornerShape(12.dp),
-        colors = CardDefaults.cardColors(
-            containerColor = MaterialTheme.colorScheme.tertiaryContainer
-        ),
-        modifier = Modifier.fillMaxWidth()
+        shape = RoundedCornerShape(16.dp),
+        colors = CardDefaults.cardColors(containerColor = LightPeach.copy(alpha = 0.45f)),
+        modifier = Modifier.fillMaxWidth(),
+        elevation = CardDefaults.cardElevation(defaultElevation = 0.dp)
     ) {
         Column(modifier = Modifier.padding(16.dp)) {
-            Text(
-                text = "💡 $title",
-                style = MaterialTheme.typography.titleSmall,
-                fontWeight = FontWeight.SemiBold
-            )
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Text(text = "💡", style = MaterialTheme.typography.titleSmall)
+                Spacer(Modifier.width(6.dp))
+                Text(
+                    text = title,
+                    style = MaterialTheme.typography.titleSmall,
+                    fontWeight = FontWeight.SemiBold,
+                    color = SoftOrange
+                )
+            }
             Spacer(Modifier.height(8.dp))
-            Text(text = body, style = MaterialTheme.typography.bodyMedium)
+            Text(
+                text = body,
+                style = MaterialTheme.typography.bodyMedium,
+                color = PrimaryText
+            )
         }
     }
 }
 
 @Composable
-private fun CategoryBadge(text: String) {
+private fun CategoryChip(text: String) {
     Box(
         modifier = Modifier
-            .clip(RoundedCornerShape(4.dp))
-            .background(MaterialTheme.colorScheme.primaryContainer)
-            .padding(horizontal = 8.dp, vertical = 3.dp)
+            .clip(RoundedCornerShape(8.dp))
+            .background(LightGreenChip)
+            .padding(horizontal = 10.dp, vertical = 4.dp)
     ) {
         Text(
             text = text,
             style = MaterialTheme.typography.labelSmall,
-            color = MaterialTheme.colorScheme.onPrimaryContainer
+            color = FreshGreen,
+            fontWeight = FontWeight.Medium
         )
     }
 }
 
 @Composable
-private fun FestivalBadge(lang: Language) {
+private fun FestivalChip(lang: Language) {
     Box(
         modifier = Modifier
-            .clip(RoundedCornerShape(4.dp))
-            .background(MaterialTheme.colorScheme.secondaryContainer)
-            .padding(horizontal = 8.dp, vertical = 3.dp)
+            .clip(RoundedCornerShape(8.dp))
+            .background(PeachTint)
+            .padding(horizontal = 10.dp, vertical = 4.dp)
     ) {
         Text(
-            text = "🪔 ${AppStrings.festivalSpecial(lang)}",
+            text = "✨ ${AppStrings.festivalSpecial(lang)}",
             style = MaterialTheme.typography.labelSmall,
-            color = MaterialTheme.colorScheme.onSecondaryContainer
+            color = WarmSaffron,
+            fontWeight = FontWeight.Medium
         )
     }
 }
