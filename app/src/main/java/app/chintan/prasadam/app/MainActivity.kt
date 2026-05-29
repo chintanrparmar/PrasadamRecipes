@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
@@ -25,6 +26,9 @@ import androidx.compose.material3.TopAppBar
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.saveable.rememberSaveable
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.text.font.FontWeight
@@ -35,6 +39,7 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import app.chintan.prasadam.core.design.LocalAppLanguage
 import app.chintan.prasadam.core.design.PrasadamTheme
+import app.chintan.prasadam.feature.splash.SplashScreen
 import app.chintan.prasadam.core.localization.AppStrings
 import app.chintan.prasadam.core.navigation.PrasadamNavGraph
 import app.chintan.prasadam.core.navigation.Screen
@@ -46,6 +51,10 @@ import dagger.hilt.android.AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        // installSplashScreen MUST be called before super.onCreate / setContent so the
+        // OS-level splash screen (API 31+) is properly installed and then hands off to
+        // our Compose splash via postSplashScreenTheme.
+        installSplashScreen()
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
@@ -54,11 +63,20 @@ class MainActivity : ComponentActivity() {
             val settingsViewModel: SettingsViewModel = hiltViewModel()
             val settingsState by settingsViewModel.uiState.collectAsStateWithLifecycle()
 
+            // Track whether the branded splash is still on screen.
+            // rememberSaveable keeps this false after rotation so we don't re-show
+            // the splash mid-session, while still showing it on every cold start.
+            var splashVisible by rememberSaveable { mutableStateOf(true) }
+
             PrasadamTheme(
                 themePreference = settingsState.selectedTheme,
                 language = settingsState.selectedLanguage
             ) {
-                PrasadamAppScaffold()
+                if (splashVisible) {
+                    SplashScreen(onFinished = { splashVisible = false })
+                } else {
+                    PrasadamAppScaffold()
+                }
             }
         }
     }

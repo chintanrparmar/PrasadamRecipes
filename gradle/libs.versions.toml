@@ -24,10 +24,12 @@ coroutines = "1.10.2"
 mockk = "1.13.12"
 turbine = "1.2.0"
 coroutinesTest = "1.10.2"
+coreSplashscreen = "1.0.1"
 
 [libraries]
 # Core
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+androidx-core-splashscreen = { group = "androidx.core", name = "core-splashscreen", version.ref = "coreSplashscreen" }
 
 # Lifecycle
 androidx-lifecycle-runtime-ktx = { group = "androidx.lifecycle", name = "lifecycle-runtime-ktx", version.ref = "lifecycleRuntimeKtx" }

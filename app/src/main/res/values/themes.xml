@@ -6,4 +6,14 @@
         <item name="android:windowBackground">@color/cream_bg</item>
         <item name="android:statusBarColor">@color/saffron</item>
     </style>
+
+    <!--
+        Splash screen theme — applied to MainActivity so the OS-level splash
+        (Android 12+) shows a cream background.  Once Compose is ready it
+        hands off to Theme.PrasadamRecipes via postSplashScreenTheme.
+    -->
+    <style name="Theme.PrasadamRecipes.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/cream_bg</item>
+        <item name="postSplashScreenTheme">@style/Theme.PrasadamRecipes</item>
+    </style>
 </resources>
