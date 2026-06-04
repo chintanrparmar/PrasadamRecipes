@@ -1,0 +1,242 @@
+[
+  {
+    "id": 31, "slug": "sev-puri",
+    "name": {"en": "Sev Puri", "hi": "सेव पूरी", "gu": "સેવ પૂરી"},
+    "description": {
+      "en": "Crisp puri topped with potato, chutneys, and sev — a quintessential Mumbai street chaat that is 100% sattvik.",
+      "hi": "आलू, चटनी और सेव से सजी क्रिस्पी पूरी — मुंबई की पहचान सात्विक चाट।",
+      "gu": "ઉ. ."
+    },
+    "category": "SNACKS", "tags": ["chaat", "street-food", "snack", "popular"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 5, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["20 small puris (store-bought or homemade)", "2 medium potatoes, boiled and finely diced", "2 tbsp tamarind chutney", "2 tbsp green chutney", "1/4 cup whisked yogurt", "1/2 tsp chaat masala", "1/4 tsp red chilli powder", "Salt to taste", "1 cup thin sev", "Fresh coriander for garnish"],
+      "hi": ["20 छोटी पूरियां", "2 मध्यम आलू, उबले और बारीक कटे", "2 चम्मच इमली चटनी", "2 चम्मच हरी चटनी", "1/4 कप फेंटा दही", "1/2 चम्मच चाट मसाला", "1/4 चम्मच लाल मिर्च पाउडर", "स्वादानुसार नमक", "1 कप पतली सेव", "हरा धनिया"],
+      "gu": ["20 .", "2 .", "2 .", "2 .", "1/4 .", "1/2 .", "1/4 .", ".", "1 .", "."]
+    },
+    "instructions": {
+      "en": ["Arrange puris on a serving plate.", "Place a teaspoon of diced potato on each puri.", "Drizzle tamarind chutney and green chutney over the potatoes.", "Add a small dollop of whisked yogurt.", "Sprinkle chaat masala, red chilli powder, and salt.", "Cover generously with sev and garnish with coriander. Serve immediately."],
+      "hi": ["पूरियां सर्विंग प्लेट पर सजाएं।", "हर पूरी पर एक चम्मच आलू रखें।", "इमली चटनी और हरी चटनी डालें।", "थोड़ा दही डालें।", "चाट मसाला, लाल मिर्च और नमक छिड़कें।", "सेव और धनिए से सजाकर तुरंत परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Prepare all toppings beforehand; assemble just before serving.", "hi": "सभी टॉपिंग पहले तैयार रखें; परोसने से ठीक पहले तैयार करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 32, "slug": "papdi-chaat",
+    "name": {"en": "Papdi Chaat", "hi": "पापड़ी चाट", "gu": "પાpdi "},
+    "description": {
+      "en": "Crispy papdi layered with boiled potato, chickpeas, yogurt, and chutneys — a festive sattvik chaat.",
+      "hi": "पापड़ी के ऊपर आलू, छोले, दही और चटनी — एक त्योहारी सात्विक चाट।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["chaat", "street-food", "snack", "festival"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 0, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["20 papdi (store-bought)", "2 medium potatoes, boiled and diced", "1/2 cup boiled chickpeas", "1/2 cup whisked yogurt", "2 tbsp tamarind chutney", "2 tbsp green chutney", "1/2 tsp chaat masala", "1/4 tsp roasted cumin powder", "1/4 tsp red chilli powder", "Salt to taste", "Thin sev and coriander for garnish"],
+      "hi": ["20 पापड़ी", "2 आलू, उबले और कटे", "1/2 कप उबले छोले", "1/2 कप फेंटा दही", "2 चम्मच इमली चटनी", "2 चम्मच हरी चटनी", "1/2 चम्मच चाट मसाला", "1/4 चम्मच भुना जीरा", "1/4 चम्मच लाल मिर्च", "नमक", "सेव और धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Arrange papdi on a plate.", "Top each with a little boiled potato and chickpeas.", "Drizzle yogurt, tamarind chutney, and green chutney.", "Sprinkle chaat masala, cumin powder, red chilli, and salt.", "Garnish with sev and coriander. Serve at once."],
+      "hi": ["पापड़ी प्लेट पर सजाएं।", "हर एक पर आलू और छोले रखें।", "दही, इमली और हरी चटनी डालें।", "चाट मसाला, जीरा, लाल मिर्च, नमक डालें।", "सेव और धनिए से सजाकर परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Add pomegranate seeds for a burst of sweetness and colour.", "hi": "मिठास और रंग के लिए अनार के दाने डालें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 33, "slug": "pav-bhaji",
+    "name": {"en": "Sattvik Pav Bhaji", "hi": "सात्विक पाव भाजी", "gu": "સાત્વિક પાv "},
+    "description": {
+      "en": "Mumbai's iconic spiced mashed vegetable curry served with buttered pav buns — made sattvik without onion or garlic.",
+      "hi": "मुंबई की मशहूर मसालेदार मसली सब्ज़ी करी, मक्खन लगे पाव के साथ — बिना प्याज-लहसुन।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["street-food", "snack", "popular", "fusion"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["4 pav buns", "3 medium potatoes, boiled and mashed", "1 cup cauliflower florets, boiled", "1/2 cup green peas, boiled", "2 tomatoes, finely chopped", "1 capsicum, finely chopped", "1 tsp ginger paste", "1/2 tsp asafoetida (hing)", "1 tbsp pav bhaji masala", "1/2 tsp turmeric powder", "Salt to taste", "2 tbsp butter + extra for pav", "Lemon wedges and coriander to serve"],
+      "hi": ["4 पाव बन", "3 आलू, उबले और मसले हुए", "1 कप फूलगोभी, उबली हुई", "1/2 कप मटर, उबले हुए", "2 टमाटर, बारीक कटे", "1 शिमला मिर्च, बारीक कटी", "1 चम्मच अदरक पेस्ट", "1/2 चम्मच हींग", "1 चम्मच पाव भाजी मसाला", "1/2 चम्मच हल्दी", "स्वादानुसार नमक", "2 चम्मच मक्खन + पाव के लिए", "नींबू और धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat butter in a wide pan. Add hing, then ginger paste; sauté 30 seconds.", "Add tomatoes and cook until mushy, about 5 minutes.", "Add capsicum and cook 3 more minutes.", "Add mashed potato, cauliflower, and peas. Mix and mash everything together.", "Add pav bhaji masala, turmeric, and salt. Add 1/4 cup water if too thick.", "Simmer 10 minutes, stirring often, until bhaji is thick and smooth.", "Toast pav buns with butter on a tava. Serve bhaji hot with lemon and coriander."],
+      "hi": ["एक चौड़े पैन में मक्खन गर्म करें। हींग, फिर अदरक पेस्ट डालकर 30 सेकंड भूनें।", "टमाटर डालें और 5 मिनट तक गले हुए होने तक पकाएं।", "शिमला मिर्च डालें और 3 मिनट और पकाएं।", "मसला आलू, गोभी और मटर डालें। सब कुछ मिलाकर मसल दें।", "पाव भाजी मसाला, हल्दी और नमक डालें। जरूरत हो तो 1/4 कप पानी डालें।", "10 मिनट पकाएं जब तक भाजी गाढ़ी और चिकनी न हो जाए।", "तवे पर मक्खन लगाकर पाव सेंकें। नींबू और धनिए के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use extra butter and finish with a squeeze of lemon for the authentic street-food flavour.", "hi": "असली स्ट्रीट फूड स्वाद के लिए ज़्यादा मक्खन और नींबू डालें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 34, "slug": "dahi-puri",
+    "name": {"en": "Dahi Puri", "hi": "दही पूरी", "gu": "દહીં પૂરી"},
+    "description": {
+      "en": "Hollow puris filled with potato and chickpeas, drenched in chilled yogurt and sweet-tangy chutneys — a refreshing chaat.",
+      "hi": "खोखली पूरी में आलू, छोले, ठंडी दही और चटनी भरकर बनाई गई ताज़गी भरी चाट।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["chaat", "street-food", "snack"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 0, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["18 small hollow puris (pani puri shells)", "2 potatoes, boiled and finely mashed", "1/2 cup boiled chickpeas", "3/4 cup chilled whisked yogurt, sweetened slightly", "2 tbsp tamarind chutney", "2 tbsp green chutney", "1/2 tsp chaat masala", "1/4 tsp red chilli powder", "Thin sev and coriander to garnish"],
+      "hi": ["18 खोखली पूरी", "2 आलू, उबले और मसले", "1/2 कप उबले छोले", "3/4 कप ठंडी मीठी दही", "2 चम्मच इमली चटनी", "2 चम्मच हरी चटनी", "1/2 चम्मच चाट मसाला", "1/4 चम्मच लाल मिर्च", "सेव और धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Make a hole at the top of each puri.", "Fill each puri with a small amount of mashed potato and chickpeas.", "Drizzle yogurt generously over the filled puris.", "Add tamarind and green chutney.", "Sprinkle chaat masala and red chilli. Garnish with sev and coriander.", "Serve immediately."],
+      "hi": ["हर पूरी के ऊपर एक छेद करें।", "प्रत्येक पूरी में मसला आलू और छोले भरें।", "ऊपर से दही डालें।", "इमली और हरी चटनी डालें।", "चाट मसाला और लाल मिर्च छिड़कें, सेव और धनिए से सजाएं।", "तुरंत परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use sweetened yogurt mixed with a pinch of cumin powder for best flavour.", "hi": "सबसे अच्छे स्वाद के लिए हल्की मीठी दही में जीरा पाउडर मिलाएं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 35, "slug": "paneer-frankie",
+    "name": {"en": "Paneer Frankie", "hi": "पनीर फ्रैंकी", "gu": "પ. "},
+    "description": {
+      "en": "Spiced paneer filling rolled in a soft wheat paratha with green chutney and crunchy veggies — a satisfying sattvik wrap.",
+      "hi": "मसाला पनीर, हरी चटनी और क्रंची सब्ज़ियों से भरी नरम परांठे की रोल — सात्विक रैप।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["snack", "wrap", "fusion", "kids", "quick"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 15, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["2 medium rotis or thin parathas", "150g paneer, cut in thin strips", "1/4 tsp cumin powder", "1/4 tsp chaat masala", "1/2 tsp red chilli powder", "Salt to taste", "1 tsp oil", "1/2 capsicum, thinly sliced", "1 small tomato, thinly sliced", "2 tbsp green chutney", "1 tsp lemon juice"],
+      "hi": ["2 रोटी या पतली परांठे", "150 ग्राम पनीर, पतली स्ट्रिप्स में", "1/4 चम्मच जीरा पाउडर", "1/4 चम्मच चाट मसाला", "1/2 चम्मच लाल मिर्च पाउडर", "स्वादानुसार नमक", "1 चम्मच तेल", "1/2 शिमला मिर्च, पतली कटी", "1 टमाटर, पतला कटा", "2 चम्मच हरी चटनी", "1 चम्मच नींबू का रस"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Toss paneer strips with cumin powder, chaat masala, red chilli, salt, and lemon juice.", "Heat oil in a pan; cook paneer strips over medium-high heat 2–3 minutes until lightly golden.", "Spread green chutney over the roti. Layer capsicum and tomato slices in the centre.", "Place paneer strips on top. Roll the roti tightly.", "Wrap in foil or parchment to hold shape. Serve hot."],
+      "hi": ["पनीर को जीरा पाउडर, चाट मसाला, लाल मिर्च, नमक और नींबू से मिलाएं।", "पैन में तेल गर्म करें; पनीर स्ट्रिप्स को 2–3 मिनट सुनहरा होने तक पकाएं।", "रोटी पर हरी चटनी फैलाएं। बीच में शिमला मिर्च और टमाटर रखें।", "पनीर स्ट्रिप्स रखें। रोटी कसकर रोल करें।", "फॉयल में लपेटें और गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Add a sprinkle of chaat masala on the outside of the wrap before foiling for extra flavour.", "hi": "रोल लपेटने से पहले बाहर चाट मसाला छिड़कें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 36, "slug": "aloo-vada",
+    "name": {"en": "Aloo Vada", "hi": "आलू वड़ा", "gu": "આlū "},
+    "description": {
+      "en": "Spiced mashed potato balls coated in a crispy besan batter and deep-fried — the soul of Mumbai street food, sattvik style.",
+      "hi": "मसाला आलू के गोले, बेसन की कुरकुरी परत में लपेटकर तले — मुंबई स्ट्रीट फूड का दिल।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["snack", "street-food", "popular", "fried"],
+    "prepTimeMinutes": 20, "cookTimeMinutes": 20, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["4 medium potatoes, boiled and mashed", "1 tsp ginger, grated", "2 green chillies, finely chopped", "1/2 tsp turmeric powder", "1/2 tsp mustard seeds", "8 curry leaves", "1 tbsp oil", "Salt to taste", "For batter: 1 cup besan, 1/2 tsp turmeric, 1/4 tsp red chilli, salt, water to make thick batter", "Oil for deep frying"],
+      "hi": ["4 आलू, उबले और मसले", "1 चम्मच अदरक, कद्दूकस", "2 हरी मिर्च, बारीक कटी", "1/2 चम्मच हल्दी", "1/2 चम्मच राई", "8 करी पत्ते", "1 चम्मच तेल", "स्वादानुसार नमक", "बैटर के लिए: 1 कप बेसन, 1/2 चम्मच हल्दी, 1/4 चम्मच लाल मिर्च, नमक, पानी", "तलने के लिए तेल"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat 1 tbsp oil in a pan. Add mustard seeds; when spluttering, add curry leaves and ginger.", "Add mashed potato, green chillies, turmeric, and salt. Mix well. Cook 2 minutes. Cool completely.", "Divide filling into 12 equal portions and roll into balls.", "Mix besan batter ingredients into a thick, smooth coating batter.", "Dip each potato ball in batter and deep-fry in hot oil over medium heat until golden, about 4–5 minutes.", "Drain and serve hot with green chutney."],
+      "hi": ["1 चम्मच तेल में राई चटकाएं, करी पत्ते और अदरक डालें।", "मसले आलू, हरी मिर्च, हल्दी और नमक मिलाएं। 2 मिनट पकाएं। ठंडा करें।", "12 बराबर गोले बनाएं।", "बेसन बैटर मिलाएं।", "हर गोले को बैटर में डुबोकर मध्यम आंच पर 4–5 मिनट तलें।", "कागज पर रखें, हरी चटनी के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Stuff vadas inside a pav bun with chutney for a classic Vada Pav.", "hi": "चटनी के साथ पाव में रखने से क्लासिक वड़ा पाव बनता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 37, "slug": "moong-dal-chilla",
+    "name": {"en": "Moong Dal Chilla", "hi": "मूंग दाल चीला", "gu": "M. "},
+    "description": {
+      "en": "Thin savoury crepes made with soaked moong dal and spices — a high-protein sattvik breakfast or snack.",
+      "hi": "भिगोई मूंग दाल और मसालों से बने पतले नमकीन चीले — प्रोटीन युक्त नाश्ता।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["snack", "breakfast", "healthy", "quick"],
+    "prepTimeMinutes": 360, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1 cup yellow moong dal, soaked 4–6 hours", "1 tsp ginger, grated", "2 green chillies", "1/4 tsp turmeric powder", "1/4 tsp cumin seeds", "Salt to taste", "Water as needed", "Filling (optional): paneer crumbles, chopped coriander", "Oil for cooking"],
+      "hi": ["1 कप पीली मूंग दाल, 4–6 घंटे भिगोई", "1 चम्मच अदरक, कद्दूकस", "2 हरी मिर्च", "1/4 चम्मच हल्दी", "1/4 चम्मच जीरा", "स्वादानुसार नमक", "जरूरत अनुसार पानी", "भराव (वैकल्पिक): पनीर, धनिया", "पकाने के लिए तेल"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Drain soaked moong dal. Blend with ginger, green chillies, turmeric, cumin, salt, and a little water into a smooth pourable batter.", "Heat a non-stick tava over medium heat. Brush with oil.", "Pour a ladle of batter and spread into a thin circle. Drizzle a little oil on the edges.", "Cook 2–3 minutes until edges lift and the surface looks dry. Flip and cook 1–2 more minutes.", "Optionally add paneer filling on one half and fold. Serve with green chutney."],
+      "hi": ["भिगोई दाल छानें। अदरक, हरी मिर्च, हल्दी, जीरा, नमक और थोड़े पानी के साथ चिकना घोल पीसें।", "नॉन-स्टिक तवे पर मध्यम आंच पर तेल लगाएं।", "एक कलछी घोल डालें और पतला फैलाएं। किनारों पर तेल टपकाएं।", "2–3 मिनट तक पकाएं जब तक किनारे उठें और ऊपर सूखा दिखे। पलटें और 1–2 मिनट और पकाएं।", "चाहें तो पनीर भराव डालकर मोड़ें। हरी चटनी के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "The batter should be thin like dosa batter. Add more water if too thick.", "hi": "घोल डोसे के घोल जितना पतला होना चाहिए।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 38, "slug": "kachori",
+    "name": {"en": "Khasta Kachori", "hi": "खस्ता कचोरी", "gu": "ખ. "},
+    "description": {
+      "en": "Flaky deep-fried pastries stuffed with a spiced moong dal filling — a beloved Rajasthani-Gujarati sattvik snack.",
+      "hi": "मसाला मूंग दाल भरी, परत-दार तली हुई कचोरी — राजस्थानी-गुजराती सात्विक स्नैक।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["snack", "gujarati", "rajasthani", "fried"],
+    "prepTimeMinutes": 30, "cookTimeMinutes": 30, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["For dough: 1.5 cups all-purpose flour, 3 tbsp oil/ghee, 1/2 tsp salt, cold water", "For filling: 1/2 cup yellow moong dal, soaked and coarsely ground", "1 tsp ginger, grated", "1/2 tsp fennel seeds", "1/4 tsp asafoetida", "1/2 tsp red chilli powder", "1/2 tsp coriander powder", "1/2 tsp amchur powder", "Salt to taste", "1 tsp oil", "Oil for deep frying"],
+      "hi": ["आटे के लिए: 1.5 कप मैदा, 3 चम्मच घी/तेल, 1/2 चम्मच नमक, ठंडा पानी", "भराव के लिए: 1/2 कप पीली मूंग दाल, भिगोई और दरदरी पिसी", "1 चम्मच अदरक", "1/2 चम्मच सौंफ", "1/4 चम्मच हींग", "1/2 चम्मच लाल मिर्च", "1/2 चम्मच धनिया पाउडर", "1/2 चम्मच अमचूर", "नमक", "1 चम्मच तेल", "तलने के लिए तेल"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Make dough: mix flour, oil, salt; rub together until crumbly. Add cold water gradually to form a stiff dough. Rest 20 minutes.", "Make filling: heat oil, add fennel and hing. Add ground moong, all spices, and salt. Cook 5 minutes. Cool.", "Divide dough into 12 balls. Flatten each, place filling in centre, seal and re-shape into ball.", "Deep-fry in moderately hot oil (150°C) over low-medium heat for 10–12 minutes until golden and crisp.", "Drain and serve with tamarind chutney."],
+      "hi": ["आटा: मैदा, तेल, नमक मिलाकर रगड़ें। धीरे-धीरे ठंडा पानी मिलाकर कड़क आटा गूंधें। 20 मिनट रखें।", "भराव: तेल में सौंफ और हींग डालें। पिसी दाल, मसाले और नमक डालकर 5 मिनट पकाएं। ठंडा करें।", "12 गोले बनाएं। प्रत्येक को बेलें, भराव रखें, बंद करें।", "150°C पर धीमी-मध्यम आंच पर 10–12 मिनट सुनहरा होने तक तलें।", "इमली चटनी के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Low and slow frying is key — high heat will make the kachori raw inside.", "hi": "धीमी आंच पर तलना जरूरी है — तेज़ आंच पर अंदर से कच्ची रहेगी।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 39, "slug": "corn-capsicum-sandwich",
+    "name": {"en": "Corn and Capsicum Sandwich", "hi": "कॉर्न और शिमला मिर्च सैंडविच", "gu": "K. "},
+    "description": {
+      "en": "Creamy boiled corn and capsicum filling grilled between bread slices — a quick sattvik snack kids love.",
+      "hi": "उबले मकई और शिमला मिर्च की क्रीमी फिलिंग को ब्रेड के बीच ग्रिल किया — बच्चों की पसंदीदा।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["sandwich", "snack", "kids", "quick", "fusion"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 8, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["4 slices bread", "1/2 cup boiled sweet corn", "1/2 cup capsicum, finely chopped", "2 tbsp mayonnaise or hung yogurt", "1/4 tsp black pepper powder", "1/4 tsp mixed herbs", "Salt to taste", "Butter for grilling"],
+      "hi": ["4 स्लाइस ब्रेड", "1/2 कप उबला मकई", "1/2 कप शिमला मिर्च, कटी", "2 चम्मच मेयोनेज़ या गाढ़ा दही", "1/4 चम्मच काली मिर्च", "1/4 चम्मच मिक्स हर्ब्स", "नमक", "मक्खन"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Mix corn, capsicum, mayonnaise, black pepper, herbs, and salt into a filling.", "Spread filling on 2 bread slices. Top with remaining slices.", "Butter outsides and grill on a tava 3–4 minutes per side until golden.", "Cut and serve hot."],
+      "hi": ["मकई, शिमला मिर्च, मेयोनेज़, काली मिर्च, हर्ब्स और नमक मिलाएं।", "2 स्लाइस पर फिलिंग फैलाएं, बाकी 2 से बंद करें।", "मक्खन लगाकर 3–4 मिनट ग्रिल करें।", "काटें और गर्म परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Swap mayonnaise with cream cheese for a richer filling.", "hi": "मेयोनेज़ की जगह क्रीम चीज़ से भी बना सकते हैं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 40, "slug": "masala-macaroni",
+    "name": {"en": "Masala Macaroni", "hi": "मसाला मैकरोनी", "gu": "M. "},
+    "description": {
+      "en": "Macaroni tossed with Indian spices, tomato, and vegetables — a popular sattvik tiffin and snack.",
+      "hi": "भारतीय मसालों, टमाटर और सब्ज़ियों के साथ टॉस की हुई मैकरोनी — टिफिन पसंदीदा।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["pasta", "snack", "fusion", "kids", "tiffin"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 15, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["200g macaroni pasta, boiled", "1 tomato, finely chopped", "1/2 capsicum, finely chopped", "1 tsp ginger, grated", "1/4 tsp asafoetida", "1/2 tsp cumin seeds", "1/2 tsp red chilli powder", "1/4 tsp turmeric powder", "1/2 tsp garam masala", "Salt to taste", "2 tbsp oil", "Coriander for garnish"],
+      "hi": ["200 ग्राम उबली मैकरोनी", "1 टमाटर, कटा", "1/2 शिमला मिर्च, कटी", "1 चम्मच अदरक, कद्दूकस", "1/4 चम्मच हींग", "1/2 चम्मच जीरा", "1/2 चम्मच लाल मिर्च", "1/4 चम्मच हल्दी", "1/2 चम्मच गरम मसाला", "नमक", "2 चम्मच तेल", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil in a pan. Add asafoetida and cumin seeds; let them splutter.", "Add ginger and sauté 30 seconds. Add tomato and cook until soft, 3–4 minutes.", "Add capsicum and cook 2 more minutes.", "Add red chilli, turmeric, garam masala, and salt. Mix.", "Add boiled macaroni and toss well on medium heat for 2–3 minutes.", "Garnish with coriander and serve hot."],
+      "hi": ["तेल में हींग और जीरा चटकाएं।", "अदरक डालकर 30 सेकंड भूनें। टमाटर डालकर 3–4 मिनट पकाएं।", "शिमला मिर्च डालकर 2 मिनट और पकाएं।", "लाल मिर्च, हल्दी, गरम मसाला और नमक मिलाएं।", "मैकरोनी डालकर मध्यम आंच पर 2–3 मिनट अच्छे से मिलाएं।", "धनिए से सजाकर परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Add a tbsp of tomato ketchup for extra tang.", "hi": "तीखेपन के लिए 1 चम्मच टोमैटो केचप डालें।", "gu": "."},
+    "imageUrl": null
+  }
+]

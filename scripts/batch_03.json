@@ -1,0 +1,242 @@
+[
+  {
+    "id": 41, "slug": "chilli-paneer",
+    "name": {"en": "Chilli Paneer", "hi": "चिल्ली पनीर", "gu": "ચ. "},
+    "description": {
+      "en": "Crispy paneer cubes tossed in a tangy-spicy Indo-Chinese sauce with capsicum — a restaurant-favourite made sattvik.",
+      "hi": "शिमला मिर्च के साथ खट्टी-तीखी इंडो-चाइनीज़ सॉस में टॉस किया हुआ पनीर — सात्विक अंदाज़ में।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["indo-chinese", "fusion", "snack", "popular"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["250g paneer, cut in 1-inch cubes", "2 tbsp cornflour for coating", "1 capsicum, cut in 1-inch pieces", "1 tsp ginger, finely grated", "2 green chillies, slit", "2 tbsp soy sauce", "1 tbsp tomato ketchup", "1 tsp vinegar", "1 tsp cornflour dissolved in 2 tbsp water", "1/4 tsp black pepper", "Salt to taste", "2 tbsp oil", "Spring onion greens to garnish"],
+      "hi": ["250 ग्राम पनीर, 1 इंच टुकड़ों में", "2 चम्मच कॉर्नफ्लोर", "1 शिमला मिर्च, 1 इंच टुकड़ों में", "1 चम्मच अदरक, कद्दूकस", "2 हरी मिर्च, चीरी हुई", "2 चम्मच सोया सॉस", "1 चम्मच टोमैटो केचप", "1 चम्मच सिरका", "1 चम्मच कॉर्नफ्लोर + 2 चम्मच पानी", "1/4 चम्मच काली मिर्च", "नमक", "2 चम्मच तेल", "हरे प्याज़ की पत्तियां"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Coat paneer cubes lightly in cornflour. Shallow-fry in oil until golden on all sides. Remove.", "In the same pan, heat remaining oil. Add ginger and green chillies; stir-fry 30 seconds.", "Add capsicum and stir-fry 2 minutes on high heat.", "Add soy sauce, ketchup, vinegar, black pepper, and salt. Stir.", "Add the cornflour slurry and stir until sauce thickens.", "Add fried paneer, toss to coat. Cook 1 minute.", "Garnish with spring onion greens and serve hot."],
+      "hi": ["पनीर को कॉर्नफ्लोर में लपेटें और सुनहरा होने तक उथला तलें।", "उसी पैन में अदरक और हरी मिर्च 30 सेकंड भूनें।", "शिमला मिर्च डालकर तेज आंच पर 2 मिनट पकाएं।", "सोया सॉस, केचप, सिरका, काली मिर्च और नमक डालें।", "कॉर्नफ्लोर घोल डालकर सॉस गाढ़ा होने तक हिलाएं।", "पनीर डालकर 1 मिनट मिलाएं।", "हरे प्याज़ की पत्तियों से सजाकर परोसें।"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "For a saucy version (restaurant style), double the sauce ingredients.", "hi": "रेस्टोरेंट जैसा बनाने के लिए सॉस की मात्रा दोगुनी करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 42, "slug": "paneer-pizza-toast",
+    "name": {"en": "Paneer Pizza Toast", "hi": "पनीर पिज़्ज़ा टोस्ट", "gu": "P. "},
+    "description": {
+      "en": "Toasted bread topped with tomato sauce, paneer, capsicum, and cheese — a quick sattvik pizza snack.",
+      "hi": "टोमैटो सॉस, पनीर, शिमला मिर्च और पनीर से सजे टोस्ट ब्रेड — झटपट सात्विक पिज़्ज़ा।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["snack", "fusion", "kids", "quick", "pizza"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 10, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["4 slices bread or 2 pav buns halved", "4 tbsp pizza sauce or tomato puree", "100g paneer, crumbled", "1/2 capsicum, finely chopped", "1 small tomato, sliced", "1/4 tsp mixed herbs", "1/4 tsp red chilli flakes", "Salt to taste", "4 tbsp grated mozzarella or cheese"],
+      "hi": ["4 स्लाइस ब्रेड", "4 चम्मच पिज़्ज़ा सॉस", "100 ग्राम पनीर, कुचला हुआ", "1/2 शिमला मिर्च, कटी", "1 टमाटर, स्लाइस किया", "1/4 चम्मच मिक्स हर्ब्स", "1/4 चम्मच लाल मिर्च फ्लेक्स", "नमक", "4 चम्मच कद्दूकस पनीर/चीज़"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Toast bread slices lightly in a toaster or tava.", "Spread pizza sauce generously on each slice.", "Top with crumbled paneer, capsicum, and tomato slices.", "Sprinkle herbs, chilli flakes, and salt.", "Top with grated cheese.", "Grill in an oven at 200°C for 8–10 minutes or until cheese melts. Alternatively, cook covered on a tava on low heat.", "Serve hot."],
+      "hi": ["ब्रेड को हल्का टोस्ट करें।", "हर स्लाइस पर पिज़्ज़ा सॉस लगाएं।", "पनीर, शिमला मिर्च और टमाटर रखें।", "हर्ब्स, चिली फ्लेक्स और नमक छिड़कें।", "पनीर/चीज़ कद्दूकस करें।", "200°C पर 8–10 मिनट ग्रिल करें। या तवे पर ढककर धीमी आंच पर पकाएं।", "गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Add sweet corn and olives for a more loaded pizza toast.", "hi": "मकई और जैतून मिलाने से और स्वाद आता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 43, "slug": "namkeen-mathri",
+    "name": {"en": "Namkeen Mathri", "hi": "नमकीन मठरी", "gu": "ન. "},
+    "description": {
+      "en": "Crispy flaky savoury biscuits flavoured with cumin and black pepper — a traditional Indian tea-time snack.",
+      "hi": "जीरे और काली मिर्च के स्वाद वाली कुरकुरी, परत-दार नमकीन — पारंपरिक चाय-नाश्ता।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["snack", "tea-time", "travel-friendly", "make-ahead"],
+    "prepTimeMinutes": 20, "cookTimeMinutes": 30, "servings": 6,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups all-purpose flour (maida)", "1/4 cup ghee or oil", "1 tsp cumin seeds", "1/2 tsp black pepper, coarsely crushed", "1/2 tsp ajwain (carom seeds)", "Salt to taste", "Cold water to knead"],
+      "hi": ["2 कप मैदा", "1/4 कप घी या तेल", "1 चम्मच जीरा", "1/2 चम्मच काली मिर्च, मोटी कुटी", "1/2 चम्मच अजवाइन", "स्वादानुसार नमक", "गूंधने के लिए ठंडा पानी"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Mix flour, ghee, cumin, black pepper, ajwain, and salt. Rub together until crumbly.", "Add cold water gradually to form a stiff dough. Rest 15 minutes.", "Divide into small balls. Roll each into a circle about 2–3mm thick. Prick all over with a fork.", "Deep-fry in moderately hot oil (150°C) over medium heat for 8–10 minutes until pale golden.", "Cool completely on a wire rack — they crisp up further as they cool.", "Store in an airtight container for up to 2 weeks."],
+      "hi": ["मैदा, घी, जीरा, काली मिर्च, अजवाइन और नमक रगड़ें।", "ठंडा पानी डालकर कड़क आटा गूंधें। 15 मिनट रखें।", "छोटे गोले बनाएं। 2–3 मिमी मोटा बेलें। फोर्क से छेद करें।", "150°C पर 8–10 मिनट हल्का सुनहरा होने तक तलें।", "वायर रैक पर ठंडा करें — ठंडा होने पर और क्रिस्पी हो जाती है।", "2 हफ्ते तक एयरटाइट डिब्बे में रखें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Add sesame seeds for a different flavour. Baking at 180°C for 20 minutes also works.", "hi": "अलग स्वाद के लिए तिल मिलाएं। 180°C पर 20 मिनट बेक भी कर सकते हैं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 44, "slug": "arrabbiata-pasta",
+    "name": {"en": "Sattvik Arrabbiata Pasta", "hi": "सात्विक अरबियाटा पास्ता", "gu": "S. "},
+    "description": {
+      "en": "Fiery tomato pasta with asafoetida instead of garlic, delivering all the depth of the original — completely sattvik.",
+      "hi": "लहसुन की जगह हींग से बनी तीखी टमाटर सॉस वाला पास्ता — पूरी तरह सात्विक।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["pasta", "fusion", "italian", "quick"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 20, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["200g penne pasta", "4 ripe tomatoes, blanched and pureed", "1/4 tsp asafoetida (hing)", "1/2 tsp red chilli flakes", "1 tsp dried oregano", "1 tbsp olive oil or regular oil", "1 tsp sugar", "Salt to taste", "Fresh basil or coriander to garnish"],
+      "hi": ["200 ग्राम पेन पास्ता", "4 टमाटर, ब्लांच करके पुरी", "1/4 चम्मच हींग", "1/2 चम्मच लाल मिर्च फ्लेक्स", "1 चम्मच सूखा ओरेगेनो", "1 चम्मच जैतून तेल", "1 चम्मच चीनी", "नमक", "ताजा तुलसी या धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Cook penne in salted boiling water until al dente. Reserve 1/4 cup pasta water. Drain.", "Heat olive oil in a pan over medium heat. Add hing, then chilli flakes; stir 20 seconds.", "Add tomato puree. Cook uncovered over medium heat 10 minutes, stirring occasionally, until sauce thickens.", "Add oregano, sugar, and salt. If sauce is too thick, add reserved pasta water.", "Toss in penne, mix well, cook 1 minute.", "Garnish with fresh basil and serve immediately."],
+      "hi": ["पेन को नमकीन पानी में उबालें। 1/4 कप पास्ता पानी रखें। छानें।", "मध्यम आंच पर तेल गर्म करें। हींग और चिली फ्लेक्स डालें।", "टमाटर प्यूरी डालें। 10 मिनट गाढ़ा होने तक पकाएं।", "ओरेगेनो, चीनी और नमक डालें।", "पेन डालकर 1 मिनट मिलाएं।", "तुलसी से सजाकर तुरंत परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use hing generously — it provides the umami depth that garlic usually contributes.", "hi": "हींग उदारता से डालें — यह वही गहराई देती है जो आमतौर पर लहसुन देता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 45, "slug": "baked-samosa",
+    "name": {"en": "Baked Samosa", "hi": "बेक्ड समोसा", "gu": "B. "},
+    "description": {
+      "en": "Crispy baked triangular pastries filled with spiced potato and peas — a lighter sattvik take on the classic samosa.",
+      "hi": "मसाला आलू-मटर से भरे बेक किए हुए त्रिकोण — क्लासिक समोसे का हल्का सात्विक रूप।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["snack", "baked", "popular", "healthy"],
+    "prepTimeMinutes": 30, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["For dough: 1.5 cups all-purpose flour, 3 tbsp oil, 1/2 tsp ajwain, 1/2 tsp salt, cold water", "For filling: 3 potatoes, boiled and mashed", "1/2 cup green peas, boiled", "1 tsp ginger, grated", "2 green chillies, chopped", "1/2 tsp cumin seeds", "1/2 tsp amchur", "1/2 tsp garam masala", "Salt to taste", "1 tsp oil", "Milk or oil for brushing"],
+      "hi": ["आटे के लिए: 1.5 कप मैदा, 3 चम्मच तेल, 1/2 चम्मच अजवाइन, 1/2 चम्मच नमक, ठंडा पानी", "भराव के लिए: 3 आलू, उबले मसले", "1/2 कप मटर, उबले", "1 चम्मच अदरक", "2 हरी मिर्च", "1/2 चम्मच जीरा", "1/2 चम्मच अमचूर", "1/2 चम्मच गरम मसाला", "नमक", "1 चम्मच तेल", "ब्रश करने के लिए दूध"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Make dough: mix flour, oil, ajwain, salt. Rub until crumbly. Add water to form stiff dough. Rest 20 min.", "Filling: heat oil, add cumin, ginger, chillies. Add potato, peas, amchur, garam masala, salt. Cool.", "Preheat oven to 200°C. Divide dough into 8 balls. Roll each into an oval, cut in half.", "Form a cone with each half, fill with 1–2 tsp filling, seal edges with water.", "Place on greased baking tray, brush with milk/oil.", "Bake 20–22 minutes until golden. Serve with chutney."],
+      "hi": ["आटा: मैदा, तेल, अजवाइन, नमक रगड़ें। पानी से कड़क आटा बनाएं। 20 मिनट रखें।", "भराव: जीरा, अदरक, मिर्च भूनें। आलू, मटर, अमचूर, गरम मसाला, नमक मिलाएं। ठंडा करें।", "ओवन 200°C गर्म करें। 8 गोले बनाएं, अंडाकार बेलें, आधे करें।", "शंकु बनाएं, भराव भरें, पानी से बंद करें।", "ट्रे पर रखें, दूध से ब्रश करें।", "20–22 मिनट बेक करें। चटनी के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Baked samosas can be frozen after shaping — bake directly from frozen at 200°C for 25 minutes.", "hi": "आकार देने के बाद समोसे फ्रीज कर सकते हैं — सीधे 200°C पर 25 मिनट बेक करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 46, "slug": "aloo-paratha",
+    "name": {"en": "Aloo Paratha", "hi": "आलू परांठा", "gu": "આ. "},
+    "description": {
+      "en": "Whole wheat flatbread stuffed with spiced mashed potato — Punjab's most beloved breakfast, made sattvik.",
+      "hi": "मसाला आलू भरी गेहूं की रोटी — पंजाब का सबसे लोकप्रिय नाश्ता, सात्विक अंदाज़ में।",
+      "gu": "."
+    },
+    "category": "ROTI_BREAD", "tags": ["flatbread", "breakfast", "popular", "punjabi"],
+    "prepTimeMinutes": 20, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["2 cups whole wheat flour", "Water to knead", "Salt to taste", "For filling: 3 potatoes, boiled and mashed", "1 tsp ginger, grated", "2 green chillies, finely chopped", "1/2 tsp cumin powder", "1/2 tsp amchur", "2 tbsp fresh coriander, chopped", "Salt to taste", "Ghee or butter for cooking"],
+      "hi": ["2 कप गेहूं का आटा", "गूंधने के लिए पानी", "नमक", "भराव: 3 आलू, उबले मसले", "1 चम्मच अदरक, कद्दूकस", "2 हरी मिर्च, बारीक कटी", "1/2 चम्मच जीरा पाउडर", "1/2 चम्मच अमचूर", "2 चम्मच हरा धनिया", "नमक", "घी या मक्खन"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Knead wheat flour with water and salt into a soft dough. Rest 15 minutes.", "Mix filling ingredients together.", "Divide dough into 6 balls. Roll one ball into a small circle, place 1–2 tbsp filling in centre.", "Gather edges and seal. Gently roll into a circle about 7 inches across.", "Cook on a hot tava over medium heat, 2 minutes per side. Add ghee and press gently until golden spots appear.", "Serve hot with yogurt, pickle, or butter."],
+      "hi": ["गेहूं के आटे को पानी और नमक से नरम गूंधें। 15 मिनट रखें।", "भराव की सामग्री मिलाएं।", "6 गोले बनाएं। एक गोला छोटा बेलें, बीच में भराव रखें।", "किनारे बंद करें। 7 इंच का परांठा बेलें।", "तवे पर मध्यम आंच पर 2 मिनट प्रति तरफ, घी लगाकर सुनहरा होने तक सेंकें।", "दही, अचार या मक्खन के साथ गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Keep the filling dry — excess moisture makes rolling difficult. Squeeze the mashed potato in a cloth if too wet.", "hi": "भराव सूखा रखें — ज़्यादा नमी से बेलना मुश्किल हो जाता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 47, "slug": "palak-paratha",
+    "name": {"en": "Palak Paratha", "hi": "पालक परांठा", "gu": "P. "},
+    "description": {
+      "en": "Vibrant green flatbread kneaded with spinach puree and spices — nutritious, colourful, and sattvik.",
+      "hi": "पालक की प्यूरी और मसालों से गूंधी हरी-भरी रोटी — पोषक, रंगीन और सात्विक।",
+      "gu": "."
+    },
+    "category": "ROTI_BREAD", "tags": ["flatbread", "breakfast", "healthy"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups whole wheat flour", "1 cup spinach (palak), blanched and pureed", "1 tsp ginger, grated", "1 green chilli, finely chopped", "1/2 tsp cumin seeds", "1/4 tsp turmeric powder", "Salt to taste", "Oil or ghee for cooking"],
+      "hi": ["2 कप गेहूं का आटा", "1 कप पालक, ब्लांच करके पुरी", "1 चम्मच अदरक, कद्दूकस", "1 हरी मिर्च, बारीक कटी", "1/2 चम्मच जीरा", "1/4 चम्मच हल्दी", "नमक", "घी"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Blend spinach with ginger, green chilli, and a little water into a smooth puree.", "Mix flour, cumin, turmeric, and salt. Add spinach puree and knead into a soft dough. Add water if needed. Rest 10 minutes.", "Divide into 8 balls. Roll each into a thin circle.", "Cook on a hot tava over medium heat, 1–2 minutes per side, with a drizzle of ghee.", "Serve hot with yogurt or pickle."],
+      "hi": ["पालक को अदरक, हरी मिर्च और थोड़े पानी के साथ चिकना पीसें।", "आटा, जीरा, हल्दी और नमक मिलाएं। पालक प्यूरी से नरम गूंधें। 10 मिनट रखें।", "8 गोले बनाएं। पतली रोटी बेलें।", "तवे पर मध्यम आंच पर घी के साथ 1–2 मिनट प्रति तरफ सेंकें।", "दही या अचार के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use the spinach cooking water as part of the kneading liquid to retain nutrients.", "hi": "पोषण बचाने के लिए पालक उबालने का पानी आटे में मिलाएं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 48, "slug": "missi-roti",
+    "name": {"en": "Missi Roti", "hi": "मिस्सी रोटी", "gu": "M. "},
+    "description": {
+      "en": "Rustic flatbread made with a mix of wheat flour and besan flavoured with fenugreek, cumin, and ajwain — a protein-rich sattvik staple.",
+      "hi": "गेहूं और बेसन के मिश्रण से मेथी, जीरा और अजवाइन के साथ बनी मिस्सी रोटी — प्रोटीन युक्त।",
+      "gu": "."
+    },
+    "category": "ROTI_BREAD", "tags": ["flatbread", "rajasthani", "breakfast", "healthy"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1 cup whole wheat flour", "1 cup besan (gram flour)", "1 tsp ajwain (carom seeds)", "1/2 tsp cumin seeds", "2 tbsp fresh fenugreek (methi) leaves, chopped, or 1 tsp dried kasuri methi", "1/2 tsp red chilli powder", "1/4 tsp turmeric powder", "2 tbsp yogurt", "Salt to taste", "Water to knead", "Ghee for cooking"],
+      "hi": ["1 कप गेहूं का आटा", "1 कप बेसन", "1 चम्मच अजवाइन", "1/2 चम्मच जीरा", "2 चम्मच ताजी मेथी या 1 चम्मच कसूरी मेथी", "1/2 चम्मच लाल मिर्च", "1/4 चम्मच हल्दी", "2 चम्मच दही", "नमक", "पानी", "घी"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Mix all dry ingredients. Add yogurt and enough water to knead a semi-soft dough. Rest 10 minutes.", "Divide into 6 balls. Roll each into a thick circle (about 5mm thick).", "Cook on a dry tava over medium heat, 2–3 minutes per side, until brown spots appear.", "Apply ghee generously on both sides and cook 1 more minute.", "Serve hot with yogurt and pickle."],
+      "hi": ["सभी सूखी सामग्री मिलाएं। दही और पानी से अर्ध-नरम आटा गूंधें। 10 मिनट रखें।", "6 गोले बनाएं। 5 मिमी मोटी रोटी बेलें।", "सूखे तवे पर मध्यम आंच पर 2–3 मिनट प्रति तरफ ब्राउन होने तक सेंकें।", "घी लगाएं और 1 मिनट और सेंकें।", "दही और अचार के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Missi roti is more rustic than regular roti — it doesn't need to be thin.", "hi": "मिस्सी रोटी साधारण रोटी से मोटी और देहाती होती है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 49, "slug": "bajra-roti",
+    "name": {"en": "Bajra Roti", "hi": "बाजरे की रोटी", "gu": "B. "},
+    "description": {
+      "en": "Dense, earthy flatbread made with pearl millet flour — a Rajasthani winter staple best eaten with ghee and jaggery.",
+      "hi": "बाजरे के आटे से बनी मोटी, देहाती रोटी — घी और गुड़ के साथ परोसा जाने वाला राजस्थानी व्यंजन।",
+      "gu": "."
+    },
+    "category": "ROTI_BREAD", "tags": ["flatbread", "rajasthani", "healthy", "gluten-free"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups bajra (pearl millet) flour", "Warm water to knead", "Salt to taste", "Ghee for serving"],
+      "hi": ["2 कप बाजरे का आटा", "गूंधने के लिए गर्म पानी", "स्वादानुसार नमक", "परोसने के लिए घी"],
+      "gu": [".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Add salt to bajra flour. Gradually add warm water and knead into a soft but slightly sticky dough. Rest 10 minutes.", "Take a small portion and pat (do not roll) into a rough circle on a damp cloth or plastic sheet.", "Carefully transfer to a hot tava. Cook on medium-low heat 3–4 minutes.", "Flip and cook the other side 3–4 more minutes.", "Apply generous ghee and serve hot with pickle, yogurt, or jaggery."],
+      "hi": ["बाजरे के आटे में नमक मिलाएं। गर्म पानी से नरम लेकिन थोड़ा चिपचिपा आटा गूंधें। 10 मिनट रखें।", "एक छोटा हिस्सा लेकर गीले कपड़े पर थपथपाकर गोल आकार दें।", "सावधानी से गर्म तवे पर रखें। मध्यम-धीमी आंच पर 3–4 मिनट पकाएं।", "पलटें और 3–4 मिनट और पकाएं।", "भरपूर घी लगाकर अचार, दही या गुड़ के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Bajra roti doesn't roll easily — patting by hand is traditional and works better.", "hi": "बाजरे की रोटी बेलने में मुश्किल होती है — हाथ से थपथपाना पारंपरिक और आसान है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 50, "slug": "paneer-paratha",
+    "name": {"en": "Paneer Paratha", "hi": "पनीर परांठा", "gu": "P. "},
+    "description": {
+      "en": "Soft wheat paratha stuffed with spiced grated paneer — a rich, protein-packed sattvik breakfast.",
+      "hi": "मसाला कद्दूकस पनीर से भरी नरम गेहूं परांठा — भरपूर प्रोटीन वाला सात्विक नाश्ता।",
+      "gu": "."
+    },
+    "category": "ROTI_BREAD", "tags": ["flatbread", "breakfast", "punjabi", "popular"],
+    "prepTimeMinutes": 20, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["2 cups whole wheat flour", "Water and salt for dough", "For filling: 200g paneer, grated", "1 tsp ginger, grated", "2 green chillies, finely chopped", "1/2 tsp cumin powder", "1/4 tsp garam masala", "2 tbsp fresh coriander", "Salt to taste", "Ghee for cooking"],
+      "hi": ["2 कप गेहूं का आटा", "आटे के लिए पानी और नमक", "भराव: 200 ग्राम पनीर, कद्दूकस", "1 चम्मच अदरक, कद्दूकस", "2 हरी मिर्च, बारीक कटी", "1/2 चम्मच जीरा पाउडर", "1/4 चम्मच गरम मसाला", "2 चम्मच हरा धनिया", "नमक", "घी"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Knead a soft dough. Rest 15 minutes.", "Mix all filling ingredients well.", "Roll dough into 6 balls. Flatten each, place filling, seal and roll into paratha.", "Cook on hot tava with ghee, 2–3 minutes per side until golden.", "Serve with yogurt and pickle."],
+      "hi": ["नरम आटा गूंधें। 15 मिनट रखें।", "सभी भराव सामग्री मिलाएं।", "6 गोले बनाएं। प्रत्येक बेलकर भराव रखें, बंद करें।", "घी के साथ तवे पर 2–3 मिनट प्रति तरफ सुनहरा होने तक सेंकें।", "दही और अचार के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Grate the paneer and mix it well with the spices — do not leave large lumps as they tear the paratha.", "hi": "पनीर को बारीक कद्दूकस करें — बड़े टुकड़े परांठे को फाड़ देते हैं।", "gu": "."},
+    "imageUrl": null
+  }
+]

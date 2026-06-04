@@ -1,0 +1,242 @@
+[
+  {
+    "id": 71, "slug": "dal-tadka",
+    "name": {"en": "Dal Tadka", "hi": "दाल तड़का", "gu": "D. "},
+    "description": {
+      "en": "Yellow split peas cooked to a creamy consistency and tempered with cumin, hing, and ghee — a sattvik restaurant staple.",
+      "hi": "पीली मूंग या तुअर दाल को जीरा, हींग और घी के तड़के के साथ — सात्विक रेस्टोरेंट का स्थायी।",
+      "gu": "."
+    },
+    "category": "DAL", "tags": ["dal", "popular", "one-pot", "lunch", "dinner"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1 cup toor dal (split pigeon peas) or chana dal", "3 cups water", "1 tomato, chopped", "1 tsp ginger, grated", "1/2 tsp turmeric powder", "Salt to taste", "For tadka: 2 tbsp ghee", "1 tsp cumin seeds", "1/2 tsp asafoetida", "1 tsp red chilli powder", "Dried red chilli (optional)", "Fresh coriander for garnish"],
+      "hi": ["1 कप तुअर दाल या चना दाल", "3 कप पानी", "1 टमाटर, कटा", "1 चम्मच अदरक", "1/2 चम्मच हल्दी", "नमक", "तड़का: 2 चम्मच घी", "1 चम्मच जीरा", "1/2 चम्मच हींग", "1 चम्मच लाल मिर्च पाउडर", "सूखी लाल मिर्च", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Pressure cook dal with water, tomato, ginger, turmeric, and salt for 4–5 whistles until fully soft.", "Mash the dal lightly and bring to a simmer. Adjust consistency with water.", "Make tadka: heat ghee in a small pan until smoking. Add cumin seeds, hing, and dried red chilli.", "When cumin turns brown, add red chilli powder, swirl, and immediately pour over the dal.", "Mix and simmer 2 minutes. Garnish with coriander and serve with rice or roti."],
+      "hi": ["दाल को पानी, टमाटर, अदरक, हल्दी और नमक के साथ 4–5 सीटी तक कूकर में पकाएं।", "हल्का मैश करें और उबाल लें।", "तड़का: छोटे पैन में घी गर्म करें। जीरा, हींग और सूखी लाल मिर्च डालें।", "जीरा भूरा होने पर लाल मिर्च पाउडर डालें और दाल पर डालें।", "2 मिनट उबालें। धनिए से सजाकर चावल या रोटी के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Pour the tadka from height to create a sizzle — this caramelises the spices beautifully.", "hi": "तड़का ऊंचाई से डालें — इससे मसाले सुंदर तरीके से पकते हैं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 72, "slug": "moong-dal-soup",
+    "name": {"en": "Moong Dal Soup", "hi": "मूंग दाल सूप", "gu": "M. "},
+    "description": {
+      "en": "Light, nourishing yellow moong dal soup with ginger and turmeric — ideal for convalescence and everyday sattvik eating.",
+      "hi": "अदरक और हल्दी के साथ हल्का, पौष्टिक पीली मूंग दाल सूप — बीमारी और रोज़ के लिए आदर्श।",
+      "gu": "."
+    },
+    "category": "DAL", "tags": ["dal", "healthy", "light", "one-pot"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["3/4 cup yellow moong dal", "3 cups water", "1 tsp ginger, grated", "1/2 tsp turmeric powder", "Salt to taste", "1 tbsp ghee", "1/2 tsp cumin seeds", "1/4 tsp asafoetida", "Lemon juice and coriander to serve"],
+      "hi": ["3/4 कप पीली मूंग दाल", "3 कप पानी", "1 चम्मच अदरक", "1/2 चम्मच हल्दी", "नमक", "1 चम्मच घी", "1/2 चम्मच जीरा", "1/4 चम्मच हींग", "नींबू और धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Wash moong dal. Cook with water, ginger, and turmeric over medium heat 15 minutes, or pressure cook for 2 whistles.", "Add salt and simmer 5 minutes. Whisk smooth.", "Heat ghee. Add hing and cumin. Pour tadka over dal.", "Add lemon juice, garnish with coriander, and serve."],
+      "hi": ["मूंग दाल धोएं। पानी, अदरक और हल्दी के साथ 15 मिनट पकाएं।", "नमक डालें और 5 मिनट उबालें।", "घी में हींग और जीरा का तड़का दाल पर डालें।", "नींबू और धनिए से सजाकर परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "This is an ideal first food for babies and convalescents — cook longer for a thinner consistency.", "hi": "यह शिशुओं और स्वास्थ्य लाभ के लिए आदर्श है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 73, "slug": "chana-masala",
+    "name": {"en": "Chana Masala", "hi": "छोले मसाला", "gu": "C. "},
+    "description": {
+      "en": "Robust chickpea curry in a tangy tomato-spice gravy — a beloved sattvik protein-rich dish from Punjab.",
+      "hi": "खट्टी-मसालेदार टमाटर ग्रेवी में चने — पंजाब की लोकप्रिय प्रोटीन-युक्त सात्विक करी।",
+      "gu": "."
+    },
+    "category": "DAL", "tags": ["dal", "popular", "punjabi", "protein"],
+    "prepTimeMinutes": 480, "cookTimeMinutes": 30, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1.5 cups chickpeas, soaked overnight and boiled", "3 tomatoes, pureed", "1 tsp ginger paste", "1/2 tsp asafoetida", "1/2 tsp cumin seeds", "1 tsp red chilli powder", "1 tsp coriander powder", "1/2 tsp turmeric powder", "1 tsp chana masala powder", "1/2 tsp amchur", "Salt to taste", "2 tbsp oil", "Coriander and lemon to serve"],
+      "hi": ["1.5 कप छोले, रात भर भिगोए और उबाले", "3 टमाटर, पुरी", "1 चम्मच अदरक पेस्ट", "1/2 चम्मच हींग", "1/2 चम्मच जीरा", "1 चम्मच लाल मिर्च", "1 चम्मच धनिया पाउडर", "1/2 चम्मच हल्दी", "1 चम्मच चना मसाला", "1/2 चम्मच अमचूर", "नमक", "2 चम्मच तेल", "धनिया और नींबू"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil. Add hing and cumin. Add ginger paste; stir 30 sec.", "Add tomato puree. Cook 10 minutes until thick.", "Add all dry spices and salt. Cook 3 minutes.", "Add boiled chickpeas with 1/2 cup water. Simmer 15 minutes.", "Mash a few chickpeas to thicken the gravy.", "Garnish with coriander and lemon. Serve with bhatura or rice."],
+      "hi": ["हींग, जीरा, अदरक।", "टमाटर प्यूरी 10 मिनट।", "सभी मसाले और नमक।", "छोले और पानी। 15 मिनट।", "कुछ छोले मैश करें।", "धनिया, नींबू। परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Adding a tea bag while boiling the chickpeas gives them the dark colour typical of restaurant chole.", "hi": "छोले उबालते समय टी बैग डालने से रेस्टोरेंट जैसा गहरा रंग आता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 74, "slug": "panchmel-dal",
+    "name": {"en": "Panchmel Dal", "hi": "पंचमेल दाल", "gu": "P. "},
+    "description": {
+      "en": "Five lentils cooked together with aromatic spices — a wholesome Rajasthani sattvik dal that is rich in protein.",
+      "hi": "पाँच दालों को मसालों के साथ पकाया — प्रोटीन से भरपूर राजस्थानी सात्विक पंचमेल दाल।",
+      "gu": "."
+    },
+    "category": "DAL", "tags": ["dal", "rajasthani", "protein", "healthy"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 30, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["3 tbsp toor dal", "3 tbsp chana dal", "3 tbsp moong dal", "3 tbsp masoor dal", "3 tbsp urad dal", "3 cups water", "1 tsp ginger, grated", "1/2 tsp turmeric powder", "Salt to taste", "For tadka: 2 tbsp ghee, 1 tsp cumin seeds, 1/2 tsp asafoetida, 2 dried red chillies, 1 tsp coriander powder", "Fresh coriander for garnish"],
+      "hi": ["3 चम्मच तुअर दाल", "3 चम्मच चना दाल", "3 चम्मच मूंग दाल", "3 चम्मच मसूर दाल", "3 चम्मच उड़द दाल", "3 कप पानी", "1 चम्मच अदरक", "1/2 चम्मच हल्दी", "नमक", "तड़का: 2 चम्मच घी, 1 चम्मच जीरा, हींग, 2 लाल मिर्च, 1 चम्मच धनिया", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Wash and soak all dals together for 30 minutes. Drain.", "Pressure cook with water, ginger, turmeric, and salt for 5–6 whistles.", "Mash lightly and bring to a boil.", "Make tadka: heat ghee, add cumin seeds, hing, and dried red chillies. When cumin turns brown, add coriander powder. Pour over dal.", "Simmer 3 minutes. Garnish with coriander and serve."],
+      "hi": ["सभी दालें 30 मिनट भिगोएं। कूकर में 5–6 सीटी।", "हल्का मैश करें।", "तड़का बनाएं।", "दाल पर डालें।", "3 मिनट उबालें। परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "The mix of five lentils gives this dal a complex, earthy flavour that single-lentil dals cannot match.", "hi": "पाँच दालों का मिश्रण एक जटिल, देहाती स्वाद देता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 75, "slug": "dal-makhani",
+    "name": {"en": "Dal Makhani", "hi": "दाल मखनी", "gu": "D. "},
+    "description": {
+      "en": "Slow-cooked black lentils in a rich, buttery tomato sauce — the most indulgent sattvik dal, made without onion or garlic.",
+      "hi": "मक्खन-टमाटर सॉस में धीमी आंच पर पकी काली दाल — बिना प्याज-लहसुन के बनाई गई।",
+      "gu": "."
+    },
+    "category": "DAL", "tags": ["dal", "popular", "punjabi", "rich", "dinner"],
+    "prepTimeMinutes": 480, "cookTimeMinutes": 60, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["3/4 cup whole black urad dal, soaked overnight", "1/4 cup red kidney beans (rajma), soaked overnight", "3 cups water", "3 tomatoes, pureed", "1 tsp ginger paste", "1/2 tsp asafoetida", "1 tsp red chilli powder", "1/2 tsp garam masala", "Salt to taste", "2 tbsp butter", "1 tbsp oil", "2 tbsp cream", "1 tsp sugar"],
+      "hi": ["3/4 कप साबुत काली उड़द दाल, रातभर भिगोई", "1/4 कप राजमा, भिगोए", "3 कप पानी", "3 टमाटर, पुरी", "1 चम्मच अदरक पेस्ट", "1/2 चम्मच हींग", "1 चम्मच लाल मिर्च", "1/2 चम्मच गरम मसाला", "नमक", "2 चम्मच मक्खन", "1 चम्मच तेल", "2 चम्मच क्रीम", "1 चम्मच चीनी"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Pressure cook soaked dal and rajma with 3 cups water and salt for 12–15 whistles until fully soft. Set aside.", "Heat butter + oil. Add hing and ginger paste; cook 30 sec. Add tomato puree and cook 15 minutes until very thick.", "Add red chilli, salt, and sugar. Stir.", "Add cooked dal and 1/2 cup water. Simmer on very low heat 25–30 minutes, stirring occasionally.", "Add garam masala and cream. Simmer 5 more minutes.", "Serve hot with naan or rice."],
+      "hi": ["भिगोई दाल और राजमा को नमक के साथ 12–15 सीटी में पकाएं।", "मक्खन + तेल में हींग, अदरक। टमाटर 15 मिनट।", "लाल मिर्च, नमक, चीनी।", "दाल और पानी। धीमी आंच पर 25–30 मिनट।", "गरम मसाला और क्रीम।", "नान या चावल के साथ।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "The longer it simmers, the better the flavour. Restaurant dal makhani cooks for 8+ hours.", "hi": "जितनी देर धीमी आंच पर पकाएं, उतना स्वाद बढ़ेगा।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 76, "slug": "masoor-dal",
+    "name": {"en": "Masoor Dal", "hi": "मसूर दाल", "gu": "M. "},
+    "description": {
+      "en": "Red lentil dal tempered with cumin and tomato — one of the quickest sattvik dals that needs no soaking.",
+      "hi": "जीरे और टमाटर के तड़के वाली मसूर दाल — बिना भिगोए बनने वाली सबसे तेज़ दाल।",
+      "gu": "."
+    },
+    "category": "DAL", "tags": ["dal", "quick", "healthy"],
+    "prepTimeMinutes": 0, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1 cup red masoor dal", "2.5 cups water", "1 tomato, chopped", "1 tsp ginger, grated", "1/2 tsp turmeric powder", "Salt to taste", "1 tbsp ghee", "1 tsp cumin seeds", "1/4 tsp asafoetida", "1/4 tsp red chilli powder", "Coriander to garnish"],
+      "hi": ["1 कप लाल मसूर दाल", "2.5 कप पानी", "1 टमाटर", "1 चम्मच अदरक", "1/2 चम्मच हल्दी", "नमक", "1 चम्मच घी", "1 चम्मच जीरा", "1/4 चम्मच हींग", "1/4 चम्मच लाल मिर्च", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Wash masoor dal. Cook in a pot with water, tomato, ginger, turmeric, and salt for 15 minutes until mushy.", "Mash well.", "Heat ghee. Add hing, cumin seeds, and red chilli powder.", "Pour tadka over dal. Simmer 2 minutes.", "Garnish with coriander and serve."],
+      "hi": ["मसूर दाल धोएं। पानी, टमाटर, अदरक, हल्दी, नमक के साथ 15 मिनट पकाएं।", "मैश करें।", "घी में हींग, जीरा, लाल मिर्च।", "दाल पर डालें, 2 मिनट।", "परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Masoor dal doesn't need soaking and cooks faster than any other lentil.", "hi": "मसूर दाल बिना भिगोए बनती है और सबसे जल्दी पकती है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 77, "slug": "toor-dal-palak",
+    "name": {"en": "Toor Dal Palak", "hi": "तुअर दाल पालक", "gu": "T. "},
+    "description": {
+      "en": "Toor dal and spinach cooked together in a tangy, spiced gravy — a nutritious sattvik one-pot meal.",
+      "hi": "तुअर दाल और पालक मिलाकर बनाई खट्टी मसालेदार ग्रेवी — पोषक सात्विक एक-बर्तन भोजन।",
+      "gu": "."
+    },
+    "category": "DAL", "tags": ["dal", "healthy", "one-pot"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["3/4 cup toor dal", "1 cup spinach (palak), chopped", "1 tomato, chopped", "1 tsp ginger, grated", "1/2 tsp turmeric powder", "Salt to taste", "1 tbsp ghee", "1/2 tsp mustard seeds", "1/2 tsp cumin seeds", "1/4 tsp asafoetida", "8 curry leaves", "1/4 tsp red chilli powder"],
+      "hi": ["3/4 कप तुअर दाल", "1 कप पालक, कटी", "1 टमाटर", "1 चम्मच अदरक", "1/2 चम्मच हल्दी", "नमक", "1 चम्मच घी", "1/2 चम्मच राई", "1/2 चम्मच जीरा", "1/4 चम्मच हींग", "8 करी पत्ते", "1/4 चम्मच लाल मिर्च"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Pressure cook toor dal with tomato, ginger, turmeric, and salt for 4 whistles.", "Add spinach to the cooked dal and simmer 5 minutes.", "Make tadka: heat ghee, add mustard seeds, cumin, hing, and curry leaves. Add red chilli and pour over dal.", "Simmer 2 minutes and serve."],
+      "hi": ["तुअर दाल को टमाटर, अदरक, हल्दी और नमक के साथ 4 सीटी में पकाएं।", "पालक डालें और 5 मिनट उबालें।", "घी में राई, जीरा, हींग, करी पत्ते, लाल मिर्च। दाल पर डालें।", "2 मिनट उबालकर परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "This dal pairs beautifully with plain rice and a spoonful of ghee.", "hi": "यह दाल सादे चावल और एक चम्मच घी के साथ बेहतरीन लगती है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 78, "slug": "black-chana-curry",
+    "name": {"en": "Black Chana Curry", "hi": "काला चना करी", "gu": "B. "},
+    "description": {
+      "en": "Hearty black chickpea curry in a spiced tomato base — a sattvik protein powerhouse often served as prasad.",
+      "hi": "मसालेदार टमाटर बेस में भरपूर काला चना करी — सात्विक प्रोटीन, अक्सर प्रसाद में परोसा जाता है।",
+      "gu": "."
+    },
+    "category": "DAL", "tags": ["dal", "festival", "prasad", "protein", "popular"],
+    "prepTimeMinutes": 480, "cookTimeMinutes": 30, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": true, "isPopular": true,
+    "ingredients": {
+      "en": ["1.5 cups black chickpeas (kala chana), soaked overnight and boiled", "2 tomatoes, pureed", "1 tsp ginger paste", "1/2 tsp asafoetida", "1/2 tsp cumin seeds", "1 tsp coriander powder", "1/2 tsp red chilli powder", "1/2 tsp turmeric powder", "1/2 tsp garam masala", "1 tsp amchur", "Salt to taste", "2 tbsp oil", "Coriander for garnish"],
+      "hi": ["1.5 कप काला चना, भिगोया और उबाला", "2 टमाटर, पुरी", "1 चम्मच अदरक पेस्ट", "1/2 चम्मच हींग", "1/2 चम्मच जीरा", "1 चम्मच धनिया पाउडर", "1/2 चम्मच लाल मिर्च", "1/2 चम्मच हल्दी", "1/2 चम्मच गरम मसाला", "1 चम्मच अमचूर", "नमक", "2 चम्मच तेल", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil. Add hing and cumin. Add ginger paste; stir 30 sec.", "Add tomato puree. Cook 10 minutes until thick.", "Add all dry spices and salt. Cook 2 minutes.", "Add boiled chana with 1/2 cup cooking liquid. Simmer 15 minutes.", "Mash a few chickpeas to thicken. Add garam masala.", "Garnish with coriander. Serve with rice or puri."],
+      "hi": ["हींग, जीरा, अदरक।", "टमाटर 10 मिनट।", "सभी मसाले।", "चने और पानी। 15 मिनट।", "कुछ मैश करें।", "परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "This is traditionally served as Navratri prasad — skip amchur and use black salt for the fasting version.", "hi": "यह नवरात्रि प्रसाद के रूप में परोसा जाता है — उपवास के लिए अमचूर और काला नमक इस्तेमाल करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 79, "slug": "lauki-chana-dal",
+    "name": {"en": "Lauki Chana Dal", "hi": "लौकी चना दाल", "gu": "L. "},
+    "description": {
+      "en": "Tender bottle gourd cooked with chana dal in a light, lemony tadka — a comforting sattvik everyday dal.",
+      "hi": "चना दाल के साथ लौकी पकाई — हल्की, नींबूदार तड़के के साथ सात्विक रोज़ की दाल।",
+      "gu": "."
+    },
+    "category": "DAL", "tags": ["dal", "healthy", "light", "gujarati"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["3/4 cup chana dal, soaked 30 minutes", "1.5 cups lauki (bottle gourd), peeled and diced", "3 cups water", "1/2 tsp turmeric powder", "Salt to taste", "1 tbsp ghee", "1/2 tsp mustard seeds", "1/2 tsp cumin seeds", "1/4 tsp asafoetida", "8 curry leaves", "Lemon juice and coriander to serve"],
+      "hi": ["3/4 कप चना दाल, 30 मिनट भिगोई", "1.5 कप लौकी, कटी", "3 कप पानी", "1/2 चम्मच हल्दी", "नमक", "1 चम्मच घी", "1/2 चम्मच राई", "1/2 चम्मच जीरा", "1/4 चम्मच हींग", "8 करी पत्ते", "नींबू और धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Pressure cook chana dal with lauki, water, turmeric, and salt for 4 whistles.", "Mash lightly and simmer, adjusting consistency.", "Heat ghee. Add mustard seeds, cumin, hing, and curry leaves. Pour over dal.", "Add lemon juice. Garnish with coriander and serve."],
+      "hi": ["चना दाल और लौकी को पानी, हल्दी और नमक के साथ 4 सीटी में पकाएं।", "हल्का मैश करें।", "घी में राई, जीरा, हींग, करी पत्ते। दाल पर डालें।", "नींबू और धनिया। परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "The lauki adds a natural sweetness that balances the earthy chana dal perfectly.", "hi": "लौकी की प्राकृतिक मिठास चना दाल के मिट्टी जैसे स्वाद को संतुलित करती है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 80, "slug": "moong-dal-tadka",
+    "name": {"en": "Moong Dal Tadka", "hi": "मूंग दाल तड़का", "gu": "M. "},
+    "description": {
+      "en": "Split green moong dal tempered with mustard, cumin, and curry leaves — a South-Indian inspired sattvik dal.",
+      "hi": "राई, जीरा और करी पत्ते के तड़के वाली हरी मूंग दाल — दक्षिण भारतीय शैली की सात्विक दाल।",
+      "gu": "."
+    },
+    "category": "DAL", "tags": ["dal", "south-indian", "healthy", "quick"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1 cup split green moong dal (with skin)", "2.5 cups water", "1 tomato, chopped", "1 tsp ginger, grated", "1/2 tsp turmeric powder", "Salt to taste", "1 tbsp ghee", "1/2 tsp mustard seeds", "1/2 tsp cumin seeds", "1/4 tsp asafoetida", "8 curry leaves", "2 dried red chillies", "Coriander to garnish"],
+      "hi": ["1 कप छिलके वाली मूंग दाल", "2.5 कप पानी", "1 टमाटर", "1 चम्मच अदरक", "1/2 चम्मच हल्दी", "नमक", "1 चम्मच घी", "1/2 चम्मच राई", "1/2 चम्मच जीरा", "1/4 चम्मच हींग", "8 करी पत्ते", "2 सूखी लाल मिर्च", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Wash dal. Cook in pot with water, tomato, ginger, turmeric, and salt on medium heat 18 minutes.", "Mash lightly.", "Heat ghee. Add mustard seeds until popping. Add cumin, hing, curry leaves, and red chillies.", "Pour tadka over dal. Simmer 2 minutes. Garnish and serve."],
+      "hi": ["दाल धोएं। पानी, टमाटर, अदरक, हल्दी, नमक। 18 मिनट पकाएं।", "हल्का मैश करें।", "घी में राई, जीरा, हींग, करी पत्ते, लाल मिर्च।", "दाल पर डालें। 2 मिनट। परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Use the split moong with green skin for extra fibre and a slightly earthy flavour.", "hi": "छिलके वाली मूंग में अधिक फाइबर और हल्का मिट्टी जैसा स्वाद होता है।", "gu": "."},
+    "imageUrl": null
+  }
+]

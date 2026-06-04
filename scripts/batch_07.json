@@ -1,0 +1,242 @@
+[
+  {
+    "id": 81, "slug": "vegetable-pulao",
+    "name": {"en": "Vegetable Pulao", "hi": "वेज पुलाव", "gu": "V. "},
+    "description": {
+      "en": "Fragrant basmati rice cooked with mixed vegetables and whole spices — a quick, satisfying sattvik rice dish.",
+      "hi": "मिश्रित सब्ज़ियों और साबुत मसालों के साथ बासमती चावल — झटपट, संतुष्टिदायक सात्विक चावल।",
+      "gu": "."
+    },
+    "category": "RICE", "tags": ["rice", "popular", "one-pot", "lunch"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1.5 cups basmati rice, washed and soaked 20 minutes", "1 cup mixed vegetables (carrot, peas, beans, capsicum)", "1 bay leaf", "2 cloves", "1 cardamom", "1 tsp cumin seeds", "1/4 tsp asafoetida", "1 tsp ginger, grated", "1/4 tsp turmeric powder", "Salt to taste", "2 tbsp ghee or oil", "2.5 cups water"],
+      "hi": ["1.5 कप बासमती चावल", "1 कप मिश्रित सब्ज़ियां", "1 तेज पत्ता", "2 लौंग", "1 इलायची", "1 चम्मच जीरा", "1/4 चम्मच हींग", "1 चम्मच अदरक", "1/4 चम्मच हल्दी", "नमक", "2 चम्मच घी", "2.5 कप पानी"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee in a deep pan. Add cumin seeds, bay leaf, cloves, and cardamom. Let them crackle.", "Add hing and ginger; stir 20 seconds.", "Add vegetables and turmeric. Stir-fry 3 minutes.", "Add drained rice and salt. Gently stir to coat.", "Add water. Bring to a boil, then cover and cook on low heat 15 minutes until water absorbs.", "Fluff with a fork and serve with yogurt or raita."],
+      "hi": ["घी में जीरा, तेज पत्ता, लौंग, इलायची डालें।", "हींग और अदरक।", "सब्ज़ियां और हल्दी। 3 मिनट।", "चावल और नमक मिलाएं।", "पानी डालें। उबाल लाएं। ढककर 15 मिनट धीमी आंच पर।", "फोर्क से खोलें। परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Soaking the rice is key — it ensures even cooking and fluffy grains.", "hi": "चावल भिगोना ज़रूरी है — हर दाना अलग-अलग पकता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 82, "slug": "curd-rice",
+    "name": {"en": "Curd Rice", "hi": "दही चावल", "gu": "D. "},
+    "description": {
+      "en": "Soft cooked rice mixed with yogurt and tempered with mustard seeds and curry leaves — South India's ultimate sattvik comfort food.",
+      "hi": "दही में मिले नरम चावल को राई और करी पत्ते से तड़का — दक्षिण भारत का अनुपम आरामदायक सात्विक भोजन।",
+      "gu": "."
+    },
+    "category": "RICE", "tags": ["rice", "south-indian", "quick", "curd"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 5, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["2 cups cooked rice (slightly overcooked)", "3/4 cup yogurt", "2 tbsp milk", "Salt to taste", "1 tbsp oil", "1/2 tsp mustard seeds", "1/4 tsp asafoetida", "8 curry leaves", "1 dried red chilli", "1 green chilli, slit", "1 tsp ginger, grated", "Pomegranate seeds and coriander for garnish"],
+      "hi": ["2 कप पका हुआ चावल", "3/4 कप दही", "2 चम्मच दूध", "नमक", "1 चम्मच तेल", "1/2 चम्मच राई", "1/4 चम्मच हींग", "8 करी पत्ते", "1 सूखी लाल मिर्च", "1 हरी मिर्च", "1 चम्मच अदरक", "अनार और धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Mash cooked rice slightly. Mix with yogurt, milk, and salt until creamy.", "Heat oil. Add mustard seeds; when popping, add hing, curry leaves, dried red chilli, green chilli, and ginger.", "Pour tadka over the curd rice. Mix gently.", "Garnish with pomegranate seeds and coriander. Serve at room temperature or slightly chilled."],
+      "hi": ["चावल को थोड़ा मैश करें। दही, दूध और नमक मिलाएं।", "तेल में राई, हींग, करी पत्ते, लाल मिर्च, हरी मिर्च, अदरक।", "तड़का दही चावल पर डालें।", "अनार और धनिए से सजाकर परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Add a tbsp of fresh cream for a richer texture. Best served fresh as yogurt can separate.", "hi": "अधिक क्रीमी के लिए 1 चम्मच ताजी क्रीम मिलाएं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 83, "slug": "lemon-rice",
+    "name": {"en": "Lemon Rice", "hi": "नींबू चावल", "gu": "L. "},
+    "description": {
+      "en": "Tangy, turmeric-tinted rice tossed with lemon juice and a mustard-peanut tempering — a South Indian sattvik classic.",
+      "hi": "नींबू के रस और राई-मूंगफली के तड़के वाले हल्दी रंग के चावल — दक्षिण भारतीय क्लासिक।",
+      "gu": "."
+    },
+    "category": "RICE", "tags": ["rice", "south-indian", "quick", "tangy"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 10, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups cooked rice", "Juice of 1.5 lemons", "1/4 tsp turmeric powder", "Salt to taste", "1 tbsp oil", "1/2 tsp mustard seeds", "1/4 tsp asafoetida", "1 dried red chilli", "8 curry leaves", "2 tbsp roasted peanuts", "1 tsp ginger, grated"],
+      "hi": ["2 कप पके चावल", "1.5 नींबू का रस", "1/4 चम्मच हल्दी", "नमक", "1 चम्मच तेल", "1/2 चम्मच राई", "1/4 चम्मच हींग", "1 सूखी लाल मिर्च", "8 करी पत्ते", "2 चम्मच भुनी मूंगफली", "1 चम्मच अदरक"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Mix lemon juice, turmeric, and salt with cooked rice. Set aside 5 minutes.", "Heat oil. Add mustard seeds; when popping, add hing, red chilli, curry leaves, and ginger.", "Add peanuts and stir 30 seconds.", "Pour tempering over the rice. Mix gently and serve."],
+      "hi": ["चावल में नींबू का रस, हल्दी और नमक मिलाएं।", "तेल में राई, हींग, लाल मिर्च, करी पत्ते, अदरक।", "मूंगफली डालें।", "तड़का चावल पर डालें। परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Best made with day-old rice — freshly cooked rice tends to become sticky.", "hi": "पुराने चावल से बेहतर बनता है — ताज़े चावल चिपचिपे हो जाते हैं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 84, "slug": "tamarind-rice",
+    "name": {"en": "Tamarind Rice", "hi": "इमली चावल", "gu": "T. "},
+    "description": {
+      "en": "Tangy, spicy rice seasoned with tamarind paste and a fragrant South Indian tempering — a famous temple prasad.",
+      "hi": "इमली पेस्ट और दक्षिण भारतीय तड़के से बने खट्टे-तीखे चावल — मशहूर मंदिर प्रसाद।",
+      "gu": "."
+    },
+    "category": "RICE", "tags": ["rice", "south-indian", "prasad", "festival", "tangy"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 15, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": true, "isPopular": false,
+    "ingredients": {
+      "en": ["2.5 cups cooked rice", "2 tbsp tamarind paste (or 1 lemon-sized tamarind soaked and extracted)", "1/4 tsp turmeric powder", "Salt to taste", "1.5 tbsp oil", "1/2 tsp mustard seeds", "1/4 tsp asafoetida", "8 curry leaves", "2 dried red chillies", "2 tbsp roasted peanuts", "1/2 tsp red chilli powder", "1/2 tsp coriander powder"],
+      "hi": ["2.5 कप पके चावल", "2 चम्मच इमली पेस्ट", "1/4 चम्मच हल्दी", "नमक", "1.5 चम्मच तेल", "1/2 चम्मच राई", "1/4 चम्मच हींग", "8 करी पत्ते", "2 सूखी लाल मिर्च", "2 चम्मच भुनी मूंगफली", "1/2 चम्मच लाल मिर्च", "1/2 चम्मच धनिया पाउडर"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil in a pan. Add mustard seeds; when popping, add hing, curry leaves, and dried red chillies.", "Add peanuts and stir 1 minute.", "Add tamarind paste, turmeric, red chilli, coriander, and salt. Cook 5 minutes until thick and fragrant.", "Add cooked rice and toss gently to coat every grain.", "Serve at room temperature."],
+      "hi": ["तेल में राई, हींग, करी पत्ते, लाल मिर्च।", "मूंगफली। 1 मिनट।", "इमली पेस्ट, हल्दी, लाल मिर्च, धनिया, नमक। 5 मिनट।", "चावल मिलाएं।", "कमरे के तापमान पर परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "This rice keeps well at room temperature for 6–8 hours, making it ideal for travel and temple prasad.", "hi": "यह चावल 6–8 घंटे कमरे के तापमान पर ताज़ा रहता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 85, "slug": "tomato-rice",
+    "name": {"en": "Tomato Rice", "hi": "टमाटर चावल", "gu": "T. "},
+    "description": {
+      "en": "Rice cooked or tossed with a tangy spiced tomato base — a quick, vibrant sattvik everyday lunch.",
+      "hi": "खट्टे मसाले वाले टमाटर के साथ पके चावल — झटपट, रंगीन सात्विक रोज़ का लंच।",
+      "gu": "."
+    },
+    "category": "RICE", "tags": ["rice", "south-indian", "quick", "tangy"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 15, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups cooked rice", "2 ripe tomatoes, finely chopped", "1/2 tsp mustard seeds", "1/4 tsp asafoetida", "8 curry leaves", "1 tsp ginger, grated", "1/4 tsp turmeric powder", "1/4 tsp red chilli powder", "Salt to taste", "1 tsp sugar", "1 tbsp oil"],
+      "hi": ["2 कप पके चावल", "2 टमाटर, बारीक कटे", "1/2 चम्मच राई", "1/4 चम्मच हींग", "8 करी पत्ते", "1 चम्मच अदरक", "1/4 चम्मच हल्दी", "1/4 चम्मच लाल मिर्च", "नमक", "1 चम्मच चीनी", "1 चम्मच तेल"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil. Add mustard seeds; when popping, add hing, curry leaves, and ginger.", "Add tomatoes, turmeric, red chilli, salt, and sugar. Cook 8 minutes until thick.", "Add cooked rice and toss gently over medium heat 3 minutes.", "Serve hot."],
+      "hi": ["तेल में राई, हींग, करी पत्ते, अदरक।", "टमाटर, हल्दी, लाल मिर्च, नमक, चीनी। 8 मिनट।", "चावल मिलाएं। 3 मिनट।", "गर्म परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Add a pinch of sambhar powder for an authentic South Indian flavour.", "hi": "दक्षिण भारतीय स्वाद के लिए एक चुटकी सांभर मसाला मिलाएं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 86, "slug": "peas-pulao",
+    "name": {"en": "Peas Pulao", "hi": "मटर पुलाव", "gu": "P. "},
+    "description": {
+      "en": "Fragrant basmati rice cooked with sweet green peas and whole spices — an elegant, minimal sattvik rice.",
+      "hi": "हरे मटर और साबुत मसालों के साथ बासमती चावल — सुंदर, सादा सात्विक चावल।",
+      "gu": "."
+    },
+    "category": "RICE", "tags": ["rice", "quick", "popular"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1.5 cups basmati rice, washed and soaked 20 min", "1 cup green peas (fresh or frozen)", "1 bay leaf", "1 tsp cumin seeds", "2 cloves", "1 cardamom", "1/4 tsp asafoetida", "Salt to taste", "1 tbsp ghee", "2.5 cups water"],
+      "hi": ["1.5 कप बासमती चावल", "1 कप मटर", "1 तेज पत्ता", "1 चम्मच जीरा", "2 लौंग", "1 इलायची", "1/4 चम्मच हींग", "नमक", "1 चम्मच घी", "2.5 कप पानी"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee. Add cumin, bay leaf, cloves, cardamom. Add hing.", "Add peas and salt. Stir 1 minute.", "Add drained rice; stir gently.", "Add water. Bring to boil, cover, and cook on low heat 15 minutes.", "Fluff and serve with dal or yogurt."],
+      "hi": ["घी में जीरा, तेज पत्ता, लौंग, इलायची, हींग।", "मटर और नमक। 1 मिनट।", "चावल।", "पानी। उबाल, ढककर 15 मिनट।", "फुलाएं। परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use frozen peas directly — no need to thaw.", "hi": "फ्रोजन मटर सीधे इस्तेमाल करें — पिघलाने की ज़रूरत नहीं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 87, "slug": "coconut-rice",
+    "name": {"en": "Coconut Rice", "hi": "नारियल चावल", "gu": "C. "},
+    "description": {
+      "en": "Fragrant rice tossed with freshly grated coconut and a South Indian tempering — a simple, light sattvik rice.",
+      "hi": "ताज़ा कद्दूकस नारियल और दक्षिण भारतीय तड़के वाले चावल — सरल, हल्के सात्विक चावल।",
+      "gu": "."
+    },
+    "category": "RICE", "tags": ["rice", "south-indian", "quick", "festival"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 10, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups cooked rice", "1/2 cup freshly grated coconut", "1 tbsp oil", "1/2 tsp mustard seeds", "1/4 tsp asafoetida", "8 curry leaves", "2 dried red chillies", "2 tbsp cashews", "Salt to taste"],
+      "hi": ["2 कप पके चावल", "1/2 कप ताज़ा कद्दूकस नारियल", "1 चम्मच तेल", "1/2 चम्मच राई", "1/4 चम्मच हींग", "8 करी पत्ते", "2 सूखी लाल मिर्च", "2 चम्मच काजू", "नमक"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil. Add mustard seeds; when popping, add hing, curry leaves, red chillies, and cashews.", "Stir-fry cashews until lightly golden.", "Add grated coconut; stir 1 minute.", "Add cooked rice and salt. Toss gently and heat through.", "Serve with sambar or yogurt."],
+      "hi": ["तेल में राई, हींग, करी पत्ते, लाल मिर्च, काजू।", "काजू हल्का सुनहरा।", "नारियल। 1 मिनट।", "चावल और नमक मिलाएं।", "सांभर या दही के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use fresh coconut for the best flavour — desiccated coconut works in a pinch.", "hi": "सबसे अच्छे स्वाद के लिए ताज़ा नारियल इस्तेमाल करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 88, "slug": "sattvik-khichdi",
+    "name": {"en": "Sattvik Biryani-Style Khichdi", "hi": "सात्विक बिरयानी खिचड़ी", "gu": "S. "},
+    "description": {
+      "en": "Layered khichdi cooked with vegetables and whole spices, giving all the joy of a biryani — completely sattvik.",
+      "hi": "सब्ज़ियों और साबुत मसालों के साथ परतदार खिचड़ी — बिरयानी का आनंद, पूरी तरह सात्विक।",
+      "gu": "."
+    },
+    "category": "RICE", "tags": ["rice", "one-pot", "festive", "popular"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 30, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1 cup basmati rice, soaked 20 min", "1/2 cup moong or toor dal, soaked 20 min", "1 cup mixed vegetables (carrot, peas, potato, beans)", "1 bay leaf", "2 cloves", "1 cardamom", "1 small cinnamon stick", "1 tsp cumin seeds", "1/4 tsp asafoetida", "1 tsp ginger, grated", "1/2 tsp turmeric", "1/2 tsp garam masala", "Salt to taste", "2 tbsp ghee", "3.5 cups water"],
+      "hi": ["1 कप बासमती चावल", "1/2 कप मूंग दाल", "1 कप मिश्रित सब्ज़ियां", "1 तेज पत्ता", "2 लौंग", "1 इलायची", "1 छोटी दालचीनी", "1 चम्मच जीरा", "1/4 चम्मच हींग", "1 चम्मच अदरक", "1/2 चम्मच हल्दी", "1/2 चम्मच गरम मसाला", "नमक", "2 चम्मच घी", "3.5 कप पानी"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee. Add cumin, bay leaf, cloves, cardamom, cinnamon — let them crackle.", "Add hing and ginger. Add vegetables; stir 3 minutes.", "Add turmeric and salt. Add drained rice and dal. Stir gently.", "Add water. Bring to boil. Cover and cook on low heat 20 minutes.", "Add garam masala. Fluff gently and serve with yogurt and pickle."],
+      "hi": ["घी में जीरा, तेज पत्ता, लौंग, इलायची, दालचीनी।", "हींग, अदरक। सब्ज़ियां 3 मिनट।", "हल्दी, नमक। चावल और दाल।", "पानी। उबाल। ढककर 20 मिनट।", "गरम मसाला। परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Add a few strands of saffron soaked in warm milk on top before covering for festive colour.", "hi": "उत्सवी रंग के लिए गर्म दूध में केसर भिगोकर ऊपर डालें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 89, "slug": "gajar-halwa",
+    "name": {"en": "Gajar Halwa", "hi": "गाजर का हलवा", "gu": "G. "},
+    "description": {
+      "en": "Slow-cooked grated carrots in milk with ghee, sugar, and cardamom — India's most beloved winter sattvik sweet.",
+      "hi": "दूध, घी, चीनी और इलायची में धीमी आंच पर पकी कद्दूकस गाजर — भारत की सबसे लोकप्रिय मिठाई।",
+      "gu": "."
+    },
+    "category": "SWEETS", "tags": ["dessert", "popular", "winter", "festival"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 45, "servings": 6,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1 kg carrots, grated", "1 litre full-fat milk", "4 tbsp ghee", "1/2 cup sugar (adjust to taste)", "1/2 tsp cardamom powder", "2 tbsp khoya (optional)", "2 tbsp cashews and raisins"],
+      "hi": ["1 किलो गाजर, कद्दूकस", "1 लीटर दूध", "4 चम्मच घी", "1/2 कप चीनी", "1/2 चम्मच इलायची पाउडर", "2 चम्मच खोया", "2 चम्मच काजू और किशमिश"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee in a heavy pan. Add grated carrots and sauté 5 minutes.", "Add milk and cook on medium heat, stirring often, until milk is fully absorbed (25–30 minutes).", "Add sugar and mix well. Cook 5 more minutes.", "Add khoya (if using), cardamom, and dried fruits. Mix.", "Cook until halwa leaves the sides of the pan. Serve warm."],
+      "hi": ["घी में गाजर 5 मिनट भूनें।", "दूध डालकर मध्यम आंच पर 25–30 मिनट पकाएं।", "चीनी मिलाएं। 5 मिनट।", "खोया, इलायची, मेवे।", "किनारा छोड़ने तक पकाएं। परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use Delhi red carrots in winter for a naturally sweeter, more vibrant halwa.", "hi": "सर्दियों में दिल्ली की लाल गाजर का उपयोग करने से स्वाभाविक रूप से मीठा और रंगीन हलवा बनता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 90, "slug": "besan-ladoo",
+    "name": {"en": "Besan Ladoo", "hi": "बेसन के लड्डू", "gu": "B. "},
+    "description": {
+      "en": "Melt-in-the-mouth roasted gram flour balls sweetened with powdered sugar and ghee — a classic sattvik festive sweet.",
+      "hi": "भुने बेसन, घी और बूरे से बने मुंह में घुलने वाले लड्डू — क्लासिक सात्विक त्योहारी मिठाई।",
+      "gu": "."
+    },
+    "category": "SWEETS", "tags": ["dessert", "popular", "festival", "make-ahead"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 20, "servings": 12,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": true, "isPopular": true,
+    "ingredients": {
+      "en": ["2 cups besan (gram flour)", "1/2 cup + 2 tbsp ghee", "3/4 cup powdered sugar (boora)", "1/2 tsp cardamom powder", "2 tbsp cashews, finely chopped"],
+      "hi": ["2 कप बेसन", "1/2 कप + 2 चम्मच घी", "3/4 कप बूरा या पिसी चीनी", "1/2 चम्मच इलायची पाउडर", "2 चम्मच काजू, बारीक कटे"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee in a heavy pan over low heat. Add besan.", "Roast besan on low heat, stirring continuously, for 15–20 minutes until it turns golden and gives off a nutty aroma.", "Remove from heat. Cool 5 minutes — the mixture will still be warm.", "Add powdered sugar, cardamom, and cashews. Mix well.", "While warm, shape into round balls (makes 12–15 ladoos). Cool completely before storing."],
+      "hi": ["धीमी आंच पर घी में बेसन डालें।", "15–20 मिनट लगातार हिलाते हुए सुनहरा होने तक भूनें।", "आंच बंद करें। 5 मिनट ठंडा करें।", "बूरा, इलायची और काजू मिलाएं।", "गर्म रहने पर गोले बनाएं। ठंडा करके रखें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "The mixture must be warm when shaping — it won't bind once fully cooled.", "hi": "गोले बनाते समय मिश्रण गर्म होना चाहिए — पूरी तरह ठंडा होने पर नहीं बनेंगे।", "gu": "."},
+    "imageUrl": null
+  }
+]

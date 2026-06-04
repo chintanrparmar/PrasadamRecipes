@@ -1,0 +1,194 @@
+[
+  {
+    "id": 113, "slug": "kuttu-paratha",
+    "name": {"en": "Kuttu Paratha", "hi": "कुट्टू का परांठा", "gu": "K. "},
+    "description": {
+      "en": "Buckwheat flour flatbread stuffed with potato — the most popular fasting flatbread during Navratri and Ekadashi.",
+      "hi": "आलू से भरी कुट्टू की रोटी — नवरात्रि और एकादशी उपवास की सबसे लोकप्रिय रोटी।",
+      "gu": "."
+    },
+    "category": "FARALI", "tags": ["fasting", "farali", "navratri", "popular"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "MEDIUM", "isFarali": true, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1.5 cups kuttu (buckwheat) flour", "2 medium potatoes, boiled and mashed", "1/2 tsp cumin seeds", "2 green chillies, finely chopped", "Rock salt (sendha namak) to taste", "Ghee for cooking", "Water as needed"],
+      "hi": ["1.5 कप कुट्टू का आटा", "2 आलू, उबले और मसले", "1/2 चम्मच जीरा", "2 हरी मिर्च", "सेंधा नमक", "घी", "पानी"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Mix mashed potato, cumin, green chillies, and rock salt.", "Combine kuttu flour with a little water and rock salt to make a soft dough. Rest 5 minutes.", "Divide dough into 6 balls. Flatten each, place potato filling, seal and gently roll.", "Cook on a hot tava over medium heat with ghee, 2–3 minutes per side.", "Serve with yogurt or aloo sabji (farali style)."],
+      "hi": ["मसले आलू, जीरा, हरी मिर्च और सेंधा नमक मिलाएं।", "कुट्टू के आटे से नरम आटा बनाएं।", "6 गोले बनाएं। भराव भरें और बेलें।", "घी के साथ तवे पर 2–3 मिनट सेंकें।", "दही के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Kuttu dough tears easily — roll gently and keep them slightly thick.", "hi": "कुट्टू का आटा जल्दी फटता है — धीरे बेलें और थोड़ा मोटा रखें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 114, "slug": "rajgira-ladoo",
+    "name": {"en": "Rajgira Ladoo", "hi": "राजगिरा के लड्डू", "gu": "R. "},
+    "description": {
+      "en": "Energy-packed amaranth flour ladoos with jaggery and ghee — a fasting sweet for Navratri and Ekadashi.",
+      "hi": "जगुड़ और घी के साथ राजगिरे के लड्डू — नवरात्रि और एकादशी का ऊर्जा से भरा उपवास मिठाई।",
+      "gu": "."
+    },
+    "category": "FARALI", "tags": ["fasting", "farali", "navratri", "dessert"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 15, "servings": 10,
+    "difficulty": "EASY", "isFarali": true, "isFestivalSpecial": true, "isPopular": false,
+    "ingredients": {
+      "en": ["1 cup rajgira (amaranth) flour", "3 tbsp ghee", "1/2 cup powdered jaggery", "1/4 tsp cardamom powder", "Rock salt — just a tiny pinch (optional)"],
+      "hi": ["1 कप राजगिरा आटा", "3 चम्मच घी", "1/2 कप पिसा गुड़", "1/4 चम्मच इलायची", "एक चुटकी सेंधा नमक (वैकल्पिक)"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee in a pan. Add rajgira flour and roast on low heat 8–10 minutes, stirring continuously, until aromatic.", "Remove from heat. Cool 5 minutes.", "Add powdered jaggery, cardamom, and salt. Mix well.", "While still warm, shape into small balls.", "Cool completely before storing."],
+      "hi": ["घी में राजगिरा आटा धीमी आंच पर 8–10 मिनट भूनें।", "ठंडा करें।", "पिसा गुड़, इलायची और नमक मिलाएं।", "गर्म रहते गोले बनाएं।", "ठंडा करके रखें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "If the mixture is too dry to bind, add a tsp of warm milk.", "hi": "अगर मिश्रण ज़्यादा सूखा हो तो एक चम्मच गर्म दूध मिलाएं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 115, "slug": "sabudana-kheer",
+    "name": {"en": "Sabudana Kheer", "hi": "साबूदाना खीर", "gu": "S. "},
+    "description": {
+      "en": "Creamy milk pudding made with sabudana pearls, perfumed with cardamom and saffron — a popular fasting dessert.",
+      "hi": "इलायची और केसर की खुशबू वाली साबूदाने की मलाईदार खीर — उपवास की लोकप्रिय मिठाई।",
+      "gu": "."
+    },
+    "category": "FARALI", "tags": ["fasting", "farali", "dessert", "popular"],
+    "prepTimeMinutes": 30, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "EASY", "isFarali": true, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1/2 cup sabudana (tapioca pearls), soaked 30 minutes", "1 litre full-fat milk", "1/4 cup sugar", "1/2 tsp cardamom powder", "A pinch of saffron soaked in 2 tbsp warm milk", "Rock salt — a tiny pinch", "2 tbsp cashews and raisins"],
+      "hi": ["1/2 कप साबूदाना, 30 मिनट भिगोया", "1 लीटर दूध", "1/4 कप चीनी", "1/2 चम्मच इलायची", "एक चुटकी केसर", "एक चुटकी सेंधा नमक", "2 चम्मच काजू और किशमिश"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Bring milk to a boil. Add drained sabudana.", "Simmer on medium heat 15 minutes, stirring often, until sabudana becomes translucent and soft.", "Add sugar, saffron milk, cardamom, and rock salt. Stir well.", "Cook 5 more minutes until thickened.", "Garnish with cashews and raisins. Serve warm or chilled."],
+      "hi": ["दूध उबालें। साबूदाना डालें।", "15 मिनट पारदर्शी होने तक पकाएं।", "चीनी, केसर, इलायची, सेंधा नमक।", "5 मिनट और पकाएं।", "मेवों से सजाकर परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "The sabudana is done when each pearl turns clear and glossy — translucent pearls mean perfectly cooked.", "hi": "साबूदाना पारदर्शी और चमकदार होने पर तैयार है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 116, "slug": "singhara-halwa",
+    "name": {"en": "Singhara Halwa", "hi": "सिंघाड़े का हलवा", "gu": "S. "},
+    "description": {
+      "en": "Water chestnut flour halwa cooked with ghee, milk, and sugar — a silky smooth fasting dessert for Navratri.",
+      "hi": "घी, दूध और चीनी में पकाया सिंघाड़े के आटे का हलवा — नवरात्रि का रेशमी उपवास मिठाई।",
+      "gu": "."
+    },
+    "category": "FARALI", "tags": ["fasting", "farali", "navratri", "dessert"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 20, "servings": 4,
+    "difficulty": "EASY", "isFarali": true, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1 cup singhara (water chestnut) flour", "3 tbsp ghee", "3/4 cup sugar", "2 cups milk + 1 cup water", "1/2 tsp cardamom powder", "Rock salt — a tiny pinch", "2 tbsp cashews and raisins"],
+      "hi": ["1 कप सिंघाड़े का आटा", "3 चम्मच घी", "3/4 कप चीनी", "2 कप दूध + 1 कप पानी", "1/2 चम्मच इलायची", "एक चुटकी सेंधा नमक", "2 चम्मच काजू और किशमिश"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee. Roast singhara flour on low heat 5–7 minutes until fragrant.", "Heat milk + water together.", "Slowly add liquid to the flour, stirring constantly to avoid lumps.", "Add sugar, cardamom, and rock salt. Stir until smooth and halwa thickens.", "Add cashews and raisins. Serve warm."],
+      "hi": ["घी में सिंघाड़े का आटा 5–7 मिनट भूनें।", "दूध + पानी गर्म करें।", "धीरे-धीरे तरल डालें।", "चीनी, इलायची, नमक।", "काजू, किशमिश। गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Singhara halwa sets quickly on cooling — reheat with a splash of milk.", "hi": "सिंघाड़ा हलवा ठंडा होने पर जल्दी जम जाता है — थोड़े दूध के साथ गर्म करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 117, "slug": "makhana-kheer",
+    "name": {"en": "Makhana Kheer", "hi": "मखाना खीर", "gu": "M. "},
+    "description": {
+      "en": "Creamy milk pudding with ghee-roasted fox nuts — a lightweight, nourishing fasting dessert loved across North India.",
+      "hi": "घी में भुने मखाने की मलाईदार खीर — उत्तर भारत की हल्की, पोषक उपवास मिठाई।",
+      "gu": "."
+    },
+    "category": "FARALI", "tags": ["fasting", "farali", "navratri", "dessert", "healthy"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "EASY", "isFarali": true, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1 cup makhana (fox nuts/lotus seeds)", "1 litre full-fat milk", "1/4 cup sugar", "1/2 tsp cardamom powder", "A pinch of saffron soaked in warm milk", "Rock salt — a tiny pinch", "1 tbsp ghee", "Chopped nuts for garnish"],
+      "hi": ["1 कप मखाना", "1 लीटर दूध", "1/4 कप चीनी", "1/2 चम्मच इलायची", "एक चुटकी केसर", "एक चुटकी सेंधा नमक", "1 चम्मच घी", "बारीक मेवे"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee in a pan. Add makhana and roast on medium heat 5–7 minutes until crunchy. Cool and crush 1/3 of them coarsely.", "Bring milk to a boil. Reduce heat.", "Add whole and crushed makhana. Simmer 15 minutes.", "Add sugar, saffron milk, cardamom, and rock salt. Cook 5 more minutes.", "Serve warm or chilled, garnished with chopped nuts."],
+      "hi": ["घी में मखाना 5–7 मिनट भूनें। 1/3 दरदरे कूटें।", "दूध उबालें।", "सभी मखाने डालें। 15 मिनट।", "चीनी, केसर, इलायची, नमक। 5 मिनट।", "मेवों से सजाकर परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Roasting the makhana in ghee is essential — unroasted makhana becomes mushy in the milk.", "hi": "घी में मखाना भूनना ज़रूरी है — बिना भुना मखाना दूध में पिलपिला हो जाता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 118, "slug": "sama-rice-khichdi",
+    "name": {"en": "Sama Rice Khichdi", "hi": "समा के चावल की खिचड़ी", "gu": "S. "},
+    "description": {
+      "en": "Barnyard millet (sama) cooked with peanuts and potato — a filling, gluten-free fasting khichdi.",
+      "hi": "मूंगफली और आलू के साथ पकाई समा की खिचड़ी — पेट भरने वाली ग्लूटन-मुक्त उपवास खिचड़ी।",
+      "gu": "."
+    },
+    "category": "FARALI", "tags": ["fasting", "farali", "navratri", "gluten-free"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 20, "servings": 2,
+    "difficulty": "EASY", "isFarali": true, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1 cup sama rice (barnyard millet, moraiyo)", "1 medium potato, diced small", "2 tbsp roasted peanuts", "2 green chillies, slit", "1/2 tsp cumin seeds", "1/4 tsp black pepper powder", "Rock salt (sendha namak) to taste", "1 tbsp ghee", "2 cups water"],
+      "hi": ["1 कप समा के चावल", "1 आलू, छोटा कटा", "2 चम्मच भुनी मूंगफली", "2 हरी मिर्च", "1/2 चम्मच जीरा", "1/4 चम्मच काली मिर्च", "सेंधा नमक", "1 चम्मच घी", "2 कप पानी"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee. Add cumin seeds and green chillies.", "Add potato. Cook 3 minutes.", "Add sama rice, peanuts, black pepper, and rock salt. Stir.", "Add water. Bring to boil, cover and cook on low heat 12 minutes.", "Fluff gently. Serve with yogurt."],
+      "hi": ["घी में जीरा और हरी मिर्च।", "आलू 3 मिनट।", "समा, मूंगफली, काली मिर्च, सेंधा नमक।", "पानी। उबाल, ढककर 12 मिनट।", "दही के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Wash sama rice 2–3 times — it can be dusty.", "hi": "समा के चावल 2–3 बार धोएं — इसमें धूल हो सकती है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 119, "slug": "farali-aloo-jeera",
+    "name": {"en": "Farali Aloo Jeera", "hi": "फराली आलू जीरा", "gu": "F. "},
+    "description": {
+      "en": "Simple boiled potato stir-fried with cumin and rock salt — a quick, essential fasting side dish.",
+      "hi": "जीरे और सेंधा नमक के साथ उबले आलू — झटपट, ज़रूरी उपवास साइड डिश।",
+      "gu": "."
+    },
+    "category": "FARALI", "tags": ["fasting", "farali", "navratri", "quick"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 10, "servings": 2,
+    "difficulty": "EASY", "isFarali": true, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["4 medium potatoes, boiled and diced", "1 tsp cumin seeds", "2 green chillies, slit", "Rock salt (sendha namak) to taste", "1/4 tsp black pepper powder", "1/4 tsp lemon juice", "1 tbsp ghee", "Fresh coriander for garnish"],
+      "hi": ["4 आलू, उबले और कटे", "1 चम्मच जीरा", "2 हरी मिर्च", "सेंधा नमक", "1/4 चम्मच काली मिर्च", "1/4 चम्मच नींबू रस", "1 चम्मच घी", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee. Add cumin seeds and green chillies; let cumin splutter.", "Add diced potatoes. Toss gently.", "Add rock salt and black pepper. Toss to coat.", "Cook 5 minutes on medium heat.", "Add lemon juice, garnish with coriander, and serve."],
+      "hi": ["घी में जीरा और हरी मिर्च।", "आलू।", "सेंधा नमक और काली मिर्च।", "5 मिनट।", "नींबू, धनिया। परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use only sendha namak during fasting — regular salt is not permitted.", "hi": "उपवास में केवल सेंधा नमक — साधारण नमक वर्जित है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 120, "slug": "farali-peanut-chutney",
+    "name": {"en": "Farali Peanut Chutney", "hi": "फराली मूंगफली चटनी", "gu": "F. "},
+    "description": {
+      "en": "Thick, creamy peanut chutney with ginger and rock salt — an essential fasting condiment for khichdi and paratha.",
+      "hi": "अदरक और सेंधा नमक के साथ मोटी, मलाईदार मूंगफली चटनी — खिचड़ी और परांठे की उपवास संगत।",
+      "gu": "."
+    },
+    "category": "FARALI", "tags": ["fasting", "farali", "navratri", "condiment"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 5, "servings": 4,
+    "difficulty": "EASY", "isFarali": true, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1 cup roasted peanuts, skin removed", "2 green chillies", "1 tsp ginger, grated", "Rock salt (sendha namak) to taste", "1/2 tsp cumin seeds", "Juice of 1/2 lemon", "Water to adjust consistency"],
+      "hi": ["1 कप भुनी मूंगफली", "2 हरी मिर्च", "1 चम्मच अदरक", "सेंधा नमक", "1/2 चम्मच जीरा", "1/2 नींबू का रस", "पानी"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Dry roast peanuts if not already done. Remove skins by rubbing.", "Blend peanuts, green chillies, ginger, rock salt, cumin, and lemon juice with a little water.", "Blend to a coarse or smooth consistency as preferred.", "Serve with sama khichdi, kuttu paratha, or any fasting dish."],
+      "hi": ["मूंगफली भूनें। छिलका उतारें।", "मूंगफली, मिर्च, अदरक, सेंधा नमक, जीरा, नींबू और पानी पीसें।", "मोटी या चिकनी जैसी पसंद हो।", "समा खिचड़ी या कुट्टू परांठे के साथ परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Add a tempering of ghee with cumin seeds on top for extra flavour.", "hi": "ऊपर से घी में जीरे का तड़का लगाने से स्वाद और बढ़ता है।", "gu": "."},
+    "imageUrl": null
+  }
+]

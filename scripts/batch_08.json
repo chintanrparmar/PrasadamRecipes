@@ -1,0 +1,242 @@
+[
+  {
+    "id": 91, "slug": "til-ladoo",
+    "name": {"en": "Til Ladoo", "hi": "तिल के लड्डू", "gu": "T. "},
+    "description": {
+      "en": "Crunchy sesame seed balls bound with jaggery — a traditional sattvik sweet made during Makar Sankranti.",
+      "hi": "गुड़ से जुड़े कुरकुरे तिल के लड्डू — मकर संक्रांति पर बनाई जाने वाली सात्विक मिठाई।",
+      "gu": "."
+    },
+    "category": "SWEETS", "tags": ["dessert", "festival", "makar-sankranti", "healthy"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 15, "servings": 10,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": true, "isPopular": true,
+    "ingredients": {
+      "en": ["1 cup white sesame seeds (til)", "1/2 cup grated jaggery (gud)", "1 tbsp ghee", "1/4 tsp cardamom powder"],
+      "hi": ["1 कप सफेद तिल", "1/2 कप कद्दूकस गुड़", "1 चम्मच घी", "1/4 चम्मच इलायची पाउडर"],
+      "gu": [".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Dry roast sesame seeds on low heat 3–5 minutes until lightly golden. Cool slightly.", "Heat ghee in a pan. Add jaggery and stir on low heat until it melts and starts to bubble.", "Quickly add sesame seeds, cardamom, and mix well.", "Grease your palms with ghee. While still warm, shape into small balls.", "Cool completely — they will firm up as they cool."],
+      "hi": ["तिल को धीमी आंच पर 3–5 मिनट भूनें।", "घी में गुड़ पिघलाएं।", "तिल और इलायची जल्दी मिलाएं।", "हाथ पर घी लगाकर गर्म रहते हुए गोले बनाएं।", "ठंडा होने दें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Work fast — the mixture hardens quickly. Have greased hands ready before cooking the jaggery.", "hi": "जल्दी काम करें — मिश्रण जल्दी सख्त हो जाता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 92, "slug": "coconut-barfi",
+    "name": {"en": "Coconut Barfi", "hi": "नारियल बर्फी", "gu": "C. "},
+    "description": {
+      "en": "Soft, fudgy coconut fudge sweetened with condensed milk or sugar — a quick no-cook sattvik barfi.",
+      "hi": "कंडेंस्ड मिल्क या चीनी से बनी नरम नारियल बर्फी — झटपट सात्विक मिठाई।",
+      "gu": "."
+    },
+    "category": "SWEETS", "tags": ["dessert", "festival", "make-ahead", "quick"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 15, "servings": 16,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": true, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups desiccated coconut", "1/2 cup condensed milk (or 3/4 cup sugar + 1/4 cup milk)", "1 tbsp ghee", "1/4 tsp cardamom powder", "A few drops of rose water (optional)"],
+      "hi": ["2 कप सूखा नारियल", "1/2 कप कंडेंस्ड मिल्क", "1 चम्मच घी", "1/4 चम्मच इलायची पाउडर", "गुलाब जल (वैकल्पिक)"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee in a pan. Add coconut and roast on low heat 3 minutes.", "Add condensed milk and cardamom. Stir continuously over low heat 8–10 minutes until mixture thickens and leaves the sides.", "Add rose water if using.", "Pour into a greased tray and spread evenly. Cool 30 minutes.", "Cut into squares or diamonds. Refrigerate to set fully."],
+      "hi": ["घी में नारियल 3 मिनट भूनें।", "कंडेंस्ड मिल्क और इलायची डालकर 8–10 मिनट पकाएं।", "गुलाब जल।", "चिकनी ट्रे में डालें। 30 मिनट ठंडा करें।", "काटें। फ्रिज में रखें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Store in the refrigerator — stays fresh for up to a week.", "hi": "फ्रिज में रखें — एक हफ्ते तक ताज़ी रहती है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 93, "slug": "shrikhand",
+    "name": {"en": "Shrikhand", "hi": "श्रीखंड", "gu": "S. "},
+    "description": {
+      "en": "Thick, sweetened strained yogurt flavoured with saffron and cardamom — a Gujarati-Maharashtrian sattvik dessert classic.",
+      "hi": "केसर और इलायची से सुगंधित गाढ़ा मीठा छना दही — गुजराती-महाराष्ट्रियन सात्विक मिठाई।",
+      "gu": "."
+    },
+    "category": "SWEETS", "tags": ["dessert", "gujarati", "maharashtrian", "festival", "popular"],
+    "prepTimeMinutes": 480, "cookTimeMinutes": 0, "servings": 4,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1 kg thick yogurt (hung 6–8 hours in muslin cloth)", "1/2 cup powdered sugar", "A large pinch of saffron, soaked in 2 tbsp warm milk", "1/2 tsp cardamom powder", "2 tbsp pistachios and almonds, slivered"],
+      "hi": ["1 किलो दही, 6–8 घंटे छाना हुआ", "1/2 कप पिसी चीनी", "बड़ी चुटकी केसर, गर्म दूध में", "1/2 चम्मच इलायची पाउडर", "2 चम्मच पिस्ता और बादाम"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Hang yogurt in a muslin cloth for 6–8 hours or overnight to drain all whey.", "Beat the strained yogurt (chakka) smooth.", "Add sugar, saffron milk, and cardamom. Mix well.", "Refrigerate at least 2 hours before serving.", "Serve chilled, garnished with pistachios and almonds."],
+      "hi": ["दही को 6–8 घंटे मलमल में बांधकर लटकाएं।", "चक्का को चिकना फेंटें।", "चीनी, केसर वाला दूध और इलायची मिलाएं।", "परोसने से 2 घंटे पहले फ्रिज में रखें।", "ठंडा, पिस्ते से सजाकर परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Greek yogurt (strained overnight) can be used as a shortcut for the hanging step.", "hi": "ग्रीक योगर्ट को रातभर छानकर शॉर्टकट के रूप में इस्तेमाल किया जा सकता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 94, "slug": "rava-sheera",
+    "name": {"en": "Rava Sheera", "hi": "रवा शीरा", "gu": "R. "},
+    "description": {
+      "en": "Semolina halwa cooked with ghee, milk, sugar, and saffron — a traditional sattvik prasad and breakfast sweet.",
+      "hi": "घी, दूध, चीनी और केसर के साथ पकाया रवा हलवा — पारंपरिक सात्विक प्रसाद और नाश्ता।",
+      "gu": "."
+    },
+    "category": "SWEETS", "tags": ["dessert", "prasad", "festival", "breakfast", "popular"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 20, "servings": 4,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": true, "isPopular": true,
+    "ingredients": {
+      "en": ["1 cup semolina (rava/suji)", "3/4 cup sugar", "2 cups milk + 1 cup water", "3 tbsp ghee", "1/2 tsp cardamom powder", "A pinch of saffron", "2 tbsp cashews and raisins"],
+      "hi": ["1 कप रवा/सूजी", "3/4 कप चीनी", "2 कप दूध + 1 कप पानी", "3 चम्मच घी", "1/2 चम्मच इलायची पाउडर", "एक चुटकी केसर", "2 चम्मच काजू और किशमिश"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee in a pan. Add cashews and fry golden. Add raisins and puff slightly. Remove and set aside.", "In the same ghee, add rava and roast on medium-low heat 8–10 minutes until fragrant and light golden.", "Heat milk + water together. Gradually add to roasted rava, stirring constantly.", "Add sugar, cardamom, and saffron. Stir until thickens.", "Mix in cashews and raisins. Serve warm."],
+      "hi": ["घी में काजू सुनहरे, किशमिश फुलाएं। रखें।", "उसी घी में रवा 8–10 मिनट भूनें।", "गर्म दूध + पानी धीरे-धीरे मिलाएं।", "चीनी, इलायची, केसर।", "काजू, किशमिश। गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Roasting the rava well is the key to a non-sticky, grainy halwa.", "hi": "रवा को अच्छे से भूनना ही गैर-चिपचिपे हलवे की कुंजी है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 95, "slug": "moong-dal-halwa",
+    "name": {"en": "Moong Dal Halwa", "hi": "मूंग दाल हलवा", "gu": "M. "},
+    "description": {
+      "en": "Rich, aromatic yellow moong dal halwa cooked in ghee with sugar and dry fruits — a Rajasthani sattvik winter indulgence.",
+      "hi": "घी में पकाया सुगंधित पीला मूंग दाल हलवा — राजस्थानी सर्दियों की शाहाना मिठाई।",
+      "gu": "."
+    },
+    "category": "SWEETS", "tags": ["dessert", "rajasthani", "festival", "winter"],
+    "prepTimeMinutes": 120, "cookTimeMinutes": 45, "servings": 6,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": true, "isPopular": false,
+    "ingredients": {
+      "en": ["1 cup yellow moong dal, soaked 2 hours and coarsely ground", "4 tbsp ghee", "3/4 cup sugar", "1.5 cups milk", "1/2 cup water", "1/2 tsp cardamom powder", "A pinch of saffron", "2 tbsp cashews and almonds"],
+      "hi": ["1 कप पीली मूंग दाल, भिगोकर दरदरी पिसी", "4 चम्मच घी", "3/4 कप चीनी", "1.5 कप दूध", "1/2 कप पानी", "1/2 चम्मच इलायची पाउडर", "एक चुटकी केसर", "2 चम्मच काजू और बादाम"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee in a heavy pan over medium-low heat. Add ground moong paste.", "Roast continuously, stirring, for 30–35 minutes until the paste turns golden and ghee separates.", "Heat milk + water together.", "Add sugar and milk mixture to the roasted dal. Stir constantly — the mixture will splutter.", "Cook 8–10 minutes until halwa thickens and leaves sides.", "Add cardamom, saffron, and dry fruits. Serve warm."],
+      "hi": ["घी में मूंग पेस्ट डालें।", "30–35 मिनट लगातार हिलाते हुए सुनहरा होने तक भूनें।", "दूध + पानी गर्म करें।", "चीनी और दूध मिश्रण डालें।", "8–10 मिनट गाढ़ा होने तक पकाएं।", "इलायची, केसर, मेवे। गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "This halwa requires patience — do not rush the roasting step.", "hi": "इस हलवे में धैर्य चाहिए — भूनने का कदम जल्दी न करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 96, "slug": "kalakand",
+    "name": {"en": "Kalakand", "hi": "कलाकंद", "gu": "K. "},
+    "description": {
+      "en": "Soft, grainy milk fudge made with paneer and condensed milk — a quick sattvik mithai for festivals.",
+      "hi": "पनीर और कंडेंस्ड मिल्क से बनी नरम, दानेदार दूध मिठाई — त्योहारों के लिए झटपट सात्विक मिठाई।",
+      "gu": "."
+    },
+    "category": "SWEETS", "tags": ["dessert", "festival", "quick", "popular"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 20, "servings": 12,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": true, "isPopular": false,
+    "ingredients": {
+      "en": ["200g fresh paneer, crumbled", "1 can (400g) condensed milk", "1/2 tsp cardamom powder", "1 tbsp ghee", "Pistachios for garnish"],
+      "hi": ["200 ग्राम ताज़ा पनीर, टुकड़े किया", "400 ग्राम कंडेंस्ड मिल्क", "1/2 चम्मच इलायची पाउडर", "1 चम्मच घी", "सजाने के लिए पिस्ता"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee in a non-stick pan. Add crumbled paneer and condensed milk.", "Cook over medium heat, stirring continuously, 15–18 minutes until mixture thickens and leaves the sides.", "Add cardamom. Mix.", "Pour into a greased tray. Garnish with pistachios. Cool 1 hour.", "Cut into pieces and serve."],
+      "hi": ["घी में पनीर और कंडेंस्ड मिल्क डालें।", "मध्यम आंच पर 15–18 मिनट लगातार हिलाते हुए गाढ़ा होने तक पकाएं।", "इलायची मिलाएं।", "ट्रे में डालें, पिस्ता। 1 घंटे ठंडा।", "काटकर परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "The mixture is done when it leaves the sides and your spatula can trace a clean line through it.", "hi": "जब मिश्रण किनारा छोड़े और स्पैचुला से साफ लाइन बने, तब तैयार है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 97, "slug": "malpua",
+    "name": {"en": "Malpua", "hi": "मालपुआ", "gu": "M. "},
+    "description": {
+      "en": "Soft, sweet pancakes dipped in saffron sugar syrup — a festive sattvik dessert from North India.",
+      "hi": "केसर चीनी की चाशनी में डुबोए नरम मीठे पैनकेक — उत्तर भारत का सात्विक त्योहारी मिठाई।",
+      "gu": "."
+    },
+    "category": "SWEETS", "tags": ["dessert", "festival", "popular"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 20, "servings": 8,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": true, "isPopular": false,
+    "ingredients": {
+      "en": ["1 cup all-purpose flour", "2 tbsp semolina (rava)", "1/2 cup milk", "1/4 cup yogurt", "1 tbsp sugar", "1/4 tsp cardamom powder", "Ghee for frying", "For syrup: 1 cup sugar, 1/2 cup water, a pinch of saffron, 1/4 tsp cardamom"],
+      "hi": ["1 कप मैदा", "2 चम्मच सूजी", "1/2 कप दूध", "1/4 कप दही", "1 चम्मच चीनी", "1/4 चम्मच इलायची", "तलने के लिए घी", "चाशनी: 1 कप चीनी, 1/2 कप पानी, केसर, इलायची"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Mix flour, rava, milk, yogurt, sugar, and cardamom into a thick pourable batter. Rest 15 minutes.", "Make sugar syrup: boil sugar and water to one-string consistency. Add saffron and cardamom.", "Heat ghee in a pan. Pour small ladles of batter into the ghee to make round pancakes.", "Fry on medium heat 2 minutes per side until golden.", "Dip warm malpuas in sugar syrup for 1–2 minutes. Serve with rabdi or whipped cream."],
+      "hi": ["मैदा, सूजी, दूध, दही, चीनी, इलायची मिलाकर घोल बनाएं। 15 मिनट रखें।", "चाशनी बनाएं: एक तार की चाशनी।", "घी में छोटे-छोटे पैनकेक बनाएं।", "मध्यम आंच पर 2 मिनट प्रति तरफ।", "गर्म मालपुए चाशनी में डुबोएं। परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Add fennel seeds to the batter for a traditional flavour variation.", "hi": "पारंपरिक स्वाद के लिए घोल में सौंफ मिलाएं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 98, "slug": "rabdi",
+    "name": {"en": "Rabdi", "hi": "रबड़ी", "gu": "R. "},
+    "description": {
+      "en": "Thick, rich reduced milk sweetened with sugar and perfumed with saffron and cardamom — a classic sattvik dessert.",
+      "hi": "केसर और इलायची की सुगंध वाला गाढ़ा, मीठा मावा जैसा दूध — एक क्लासिक सात्विक मिठाई।",
+      "gu": "."
+    },
+    "category": "SWEETS", "tags": ["dessert", "popular", "festival", "milk-based"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 45, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1 litre full-fat milk", "1/4 cup sugar", "A large pinch of saffron", "1/4 tsp cardamom powder", "2 tbsp pistachios and almonds, slivered"],
+      "hi": ["1 लीटर दूध", "1/4 कप चीनी", "बड़ी चुटकी केसर", "1/4 चम्मच इलायची", "2 चम्मच पिस्ता और बादाम"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Bring milk to a boil in a wide, heavy pan. Reduce heat to low.", "Simmer, stirring every few minutes and scraping the cream/skin from the sides back into the milk.", "After 35–40 minutes, the milk should be reduced to about 1/3 of its original volume.", "Add sugar, saffron, and cardamom. Stir and cook 5 more minutes.", "Cool slightly, garnish with nuts, and serve warm or chilled."],
+      "hi": ["दूध को चौड़े बर्तन में उबालें। धीमी आंच पर करें।", "बार-बार हिलाते और किनारे की मलाई अंदर करते हुए पकाएं।", "35–40 मिनट बाद 1/3 बचेगा।", "चीनी, केसर, इलायची। 5 मिनट।", "ठंडा करके मेवों से सजाएं।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Patience is key — do not cover or rush. The slow evaporation creates the characteristic creamy layers.", "hi": "धैर्य रखें — ढकें नहीं। धीमी वाष्पीकरण ही मलाईदार परतें बनाती है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 99, "slug": "basundi",
+    "name": {"en": "Basundi", "hi": "बासुंदी", "gu": "B. "},
+    "description": {
+      "en": "Lightly sweetened reduced milk with a silky texture, flavoured with cardamom and nutmeg — Gujarat's beloved sattvik dessert.",
+      "hi": "इलायची और जायफल की खुशबू वाला हल्का मीठा गाढ़ा दूध — गुजरात की प्रिय सात्विक मिठाई।",
+      "gu": "."
+    },
+    "category": "SWEETS", "tags": ["dessert", "gujarati", "popular", "milk-based", "festival"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 40, "servings": 4,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1 litre full-fat milk", "3 tbsp sugar", "1/4 tsp cardamom powder", "1/4 tsp nutmeg powder", "A pinch of saffron", "2 tbsp pistachios and almonds, chopped"],
+      "hi": ["1 लीटर दूध", "3 चम्मच चीनी", "1/4 चम्मच इलायची", "1/4 चम्मच जायफल", "एक चुटकी केसर", "2 चम्मच पिस्ता और बादाम"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat milk in a heavy pan to a boil. Reduce to medium-low.", "Simmer 30–35 minutes, stirring frequently, until milk reduces to half.", "Add sugar, cardamom, nutmeg, and saffron. Cook 5 more minutes.", "Cool slightly. Serve warm or chilled, garnished with nuts."],
+      "hi": ["दूध को उबालें और मध्यम-धीमी आंच पर करें।", "30–35 मिनट आधा होने तक पकाएं।", "चीनी, इलायची, जायफल, केसर। 5 मिनट।", "गर्म या ठंडा परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Basundi is similar to rabdi but slightly thinner — stop reducing before it becomes too thick.", "hi": "बासुंदी रबड़ी से थोड़ी पतली होती है — ज़्यादा गाढ़ा होने से पहले बंद करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 100, "slug": "jalebi",
+    "name": {"en": "Jalebi", "hi": "जलेबी", "gu": "J. "},
+    "description": {
+      "en": "Crispy orange spirals soaked in saffron sugar syrup — the most iconic sattvik Indian sweet, perfect for festivals.",
+      "hi": "केसर चाशनी में भिगोए क्रिस्पी नारंगी सर्पिल — सबसे प्रतिष्ठित सात्विक भारतीय मिठाई।",
+      "gu": "."
+    },
+    "category": "SWEETS", "tags": ["dessert", "popular", "festival", "fried"],
+    "prepTimeMinutes": 30, "cookTimeMinutes": 20, "servings": 8,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": true, "isPopular": true,
+    "ingredients": {
+      "en": ["1 cup all-purpose flour (maida)", "1 tbsp cornflour", "1/2 cup yogurt", "A pinch of turmeric (for colour)", "Water to make batter", "Oil for deep frying", "For syrup: 1.5 cups sugar, 3/4 cup water, a few saffron strands, 1/4 tsp cardamom, 1/4 tsp lemon juice"],
+      "hi": ["1 कप मैदा", "1 चम्मच कॉर्नफ्लोर", "1/2 कप दही", "एक चुटकी हल्दी", "घोल बनाने के लिए पानी", "तलने के लिए तेल", "चाशनी: 1.5 कप चीनी, 3/4 कप पानी, केसर, इलायची, नींबू रस"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Mix flour, cornflour, yogurt, turmeric, and enough water to make a smooth, thick batter. Rest 20 minutes.", "Make syrup: boil sugar and water to one-string consistency. Add saffron, cardamom, and lemon juice. Keep warm.", "Heat oil in a flat pan. Pour batter in a squeeze bottle or piping bag.", "Pipe spirals into hot oil. Fry 2–3 minutes until crisp.", "Immediately transfer to warm syrup. Soak 1 minute. Serve hot."],
+      "hi": ["मैदा, कॉर्नफ्लोर, दही, हल्दी और पानी का चिकना घोल बनाएं। 20 मिनट रखें।", "एक तार की चाशनी बनाएं।", "तेल गर्म करें। सॉस बोतल में घोल।", "गर्म तेल में सर्पिल बनाएं। 2–3 मिनट।", "गर्म चाशनी में डुबोएं। 1 मिनट। गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "The batter must be lump-free and pourable. Use a clean squeeze bottle for neat spirals.", "hi": "घोल बिना गांठ के पतला होना चाहिए। साफ बोतल से नियमित सर्पिल बनाएं।", "gu": "."},
+    "imageUrl": null
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "id": 101, "slug": "tomato-soup",
+    "name": {"en": "Tomato Soup", "hi": "टमाटर सूप", "gu": "T. "},
+    "description": {
+      "en": "Smooth, velvety tomato soup tempered with butter and basil — a comforting sattvik starter or light meal.",
+      "hi": "मक्खन और तुलसी के साथ मलाईदार टमाटर सूप — आरामदायक सात्विक स्टार्टर।",
+      "gu": "."
+    },
+    "category": "SOUP", "tags": ["soup", "quick", "healthy"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["5 ripe tomatoes, roughly chopped", "1 tsp ginger, grated", "1/2 tsp asafoetida", "1/4 tsp black pepper powder", "1 tsp sugar", "Salt to taste", "1 tbsp butter", "1/4 cup cream or milk", "Fresh basil or coriander to garnish", "Croutons to serve"],
+      "hi": ["5 टमाटर, कटे", "1 चम्मच अदरक", "1/2 चम्मच हींग", "1/4 चम्मच काली मिर्च", "1 चम्मच चीनी", "नमक", "1 चम्मच मक्खन", "1/4 कप क्रीम", "तुलसी और धनिया", "क्रूटन"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat butter. Add hing and ginger; cook 30 sec. Add tomatoes and cook covered 10 minutes until soft.", "Cool slightly and blend into a smooth puree. Pass through a strainer.", "Return to pan. Add black pepper, sugar, salt, and cream/milk.", "Simmer 5 minutes.", "Serve hot, garnished with fresh basil and croutons."],
+      "hi": ["मक्खन में हींग, अदरक। टमाटर 10 मिनट।", "ठंडा करके पीसें, छानें।", "काली मिर्च, चीनी, नमक, क्रीम डालें।", "5 मिनट उबालें।", "तुलसी और क्रूटन से सजाकर परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Add a pinch of cinnamon for a warming winter tomato soup.", "hi": "सर्दियों में दालचीनी की एक चुटकी मिलाएं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 102, "slug": "sweet-corn-soup",
+    "name": {"en": "Sweet Corn Soup", "hi": "स्वीट कॉर्न सूप", "gu": "S. "},
+    "description": {
+      "en": "Velvety corn soup with ginger and mild spices — an Indo-Chinese inspired sattvik soup everyone loves.",
+      "hi": "अदरक और हल्के मसालों वाला मलाईदार मकई सूप — इंडो-चाइनीज़ शैली का सात्विक सूप।",
+      "gu": "."
+    },
+    "category": "SOUP", "tags": ["soup", "quick", "kids", "indo-chinese"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 15, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1.5 cups sweet corn kernels (fresh or frozen)", "3 cups vegetable stock or water", "1 tsp ginger, grated", "1/4 tsp white or black pepper powder", "Salt to taste", "1.5 tbsp cornflour dissolved in 3 tbsp water", "Spring onion greens for garnish"],
+      "hi": ["1.5 कप मकई के दाने", "3 कप सब्ज़ी स्टॉक", "1 चम्मच अदरक", "1/4 चम्मच काली मिर्च", "नमक", "1.5 चम्मच कॉर्नफ्लोर", "हरे प्याज़ की पत्तियां"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Blend 1 cup corn coarsely. Leave 1/2 cup whole.", "Bring stock to a boil with ginger. Add all corn (blended + whole). Simmer 8 minutes.", "Add salt, pepper. Add cornflour slurry, stirring until thickened.", "Serve hot with spring onion greens."],
+      "hi": ["1 कप मकई दरदरी पीसें। 1/2 कप साबुत रखें।", "स्टॉक में अदरक और मकई उबालें। 8 मिनट।", "नमक, काली मिर्च, कॉर्नफ्लोर घोल।", "हरे प्याज़ से सजाकर परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Add a drizzle of soy sauce and vinegar for an Indo-Chinese flair.", "hi": "इंडो-चाइनीज़ स्वाद के लिए सोया सॉस और सिरका डालें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 103, "slug": "mixed-veg-soup",
+    "name": {"en": "Mixed Vegetable Soup", "hi": "मिक्स वेजिटेबल सूप", "gu": "M. "},
+    "description": {
+      "en": "A light, nourishing clear soup loaded with seasonal vegetables — a simple sattvik dinner starter.",
+      "hi": "मौसमी सब्ज़ियों से भरा हल्का, पोषक साफ सूप — सरल सात्विक रात्रिभोज स्टार्टर।",
+      "gu": "."
+    },
+    "category": "SOUP", "tags": ["soup", "healthy", "light"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1/2 cup carrot, diced small", "1/2 cup beans, cut small", "1/2 cup peas", "1/2 cup cabbage, shredded", "1 tomato, chopped", "1 tsp ginger, grated", "4 cups water", "1/4 tsp black pepper", "1/4 tsp mixed herbs", "Salt to taste", "1 tsp butter or oil"],
+      "hi": ["1/2 कप गाजर, छोटी कटी", "1/2 कप बीन्स", "1/2 कप मटर", "1/2 कप पत्तागोभी", "1 टमाटर", "1 चम्मच अदरक", "4 कप पानी", "1/4 चम्मच काली मिर्च", "1/4 चम्मच मिक्स हर्ब्स", "नमक", "1 चम्मच मक्खन"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat butter. Add ginger and stir 20 sec.", "Add all vegetables and sauté 3 minutes.", "Add water. Bring to boil.", "Simmer 12 minutes until vegetables are just tender.", "Add black pepper, herbs, and salt. Serve hot."],
+      "hi": ["मक्खन में अदरक।", "सब्ज़ियां 3 मिनट।", "पानी। उबाल लाएं।", "12 मिनट।", "काली मिर्च, हर्ब्स, नमक। परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Add a squeeze of lemon just before serving to brighten the flavours.", "hi": "परोसने से पहले नींबू निचोड़ने से स्वाद और अच्छा हो जाता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 104, "slug": "spinach-soup",
+    "name": {"en": "Spinach Soup", "hi": "पालक सूप", "gu": "S. "},
+    "description": {
+      "en": "Creamy, vibrant green spinach soup with a hint of ginger — a nutritious sattvik starter rich in iron.",
+      "hi": "अदरक की महक वाला हरा, मलाईदार पालक सूप — आयरन से भरपूर सात्विक स्टार्टर।",
+      "gu": "."
+    },
+    "category": "SOUP", "tags": ["soup", "healthy", "quick", "iron-rich"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 15, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups spinach (palak), washed", "1 small potato, diced", "1 tsp ginger, grated", "1/4 tsp asafoetida", "2 cups water", "1/4 cup milk or cream", "1/4 tsp black pepper", "Salt to taste", "1 tsp butter"],
+      "hi": ["2 कप पालक", "1 छोटा आलू, कटा", "1 चम्मच अदरक", "1/4 चम्मच हींग", "2 कप पानी", "1/4 कप दूध या क्रीम", "1/4 चम्मच काली मिर्च", "नमक", "1 चम्मच मक्खन"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat butter. Add hing and ginger. Add potato and stir 2 minutes.", "Add spinach and water. Bring to boil and cook 8 minutes.", "Cool slightly and blend smooth. Return to pan.", "Add milk, black pepper, and salt. Simmer 3 minutes. Serve hot."],
+      "hi": ["मक्खन में हींग, अदरक, आलू 2 मिनट।", "पालक और पानी। 8 मिनट।", "ठंडा, पीसें। वापस पैन में।", "दूध, काली मिर्च, नमक। 3 मिनट। परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Add potato for body — it makes the soup creamy without using flour.", "hi": "आलू सूप को गाढ़ा बनाता है — बिना मैदे के।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 105, "slug": "rose-lassi",
+    "name": {"en": "Rose Lassi", "hi": "गुलाब लस्सी", "gu": "R. "},
+    "description": {
+      "en": "Creamy chilled yogurt drink flavoured with rose syrup and cardamom — a Punjabi sattvik favourite.",
+      "hi": "गुलाब सिरप और इलायची के साथ ठंडी मलाईदार लस्सी — पंजाबी सात्विक पसंद।",
+      "gu": "."
+    },
+    "category": "DRINKS", "tags": ["drinks", "punjabi", "popular"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 0, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1.5 cups thick yogurt", "1/2 cup chilled milk", "2 tbsp rose syrup (roohafza or similar)", "1 tbsp sugar", "1/4 tsp cardamom powder", "Ice cubes", "Dry rose petals and pistachios for garnish"],
+      "hi": ["1.5 कप गाढ़ा दही", "1/2 कप ठंडा दूध", "2 चम्मच गुलाब शरबत", "1 चम्मच चीनी", "1/4 चम्मच इलायची", "बर्फ", "गुलाब की पंखुड़ियां और पिस्ता"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Blend yogurt, milk, rose syrup, sugar, and cardamom until smooth and frothy.", "Add ice cubes and blend again briefly.", "Pour into glasses. Garnish with rose petals and pistachios.", "Serve immediately."],
+      "hi": ["दही, दूध, गुलाब शरबत, चीनी और इलायची ब्लेंड करें।", "बर्फ डालकर ब्लेंड करें।", "गिलासों में डालें। सजाएं।", "तुरंत परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Use chilled thick yogurt for the best creamy texture.", "hi": "सबसे अच्छे क्रीमी टेक्सचर के लिए ठंडा गाढ़ा दही इस्तेमाल करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 106, "slug": "spiced-chaas",
+    "name": {"en": "Spiced Chaas", "hi": "मसाला छाछ", "gu": "M. "},
+    "description": {
+      "en": "Cool, digestive buttermilk spiced with cumin, ginger, and mint — the ultimate sattvik summer refresher.",
+      "hi": "जीरा, अदरक और पुदीना के साथ ठंडी, पाचक छाछ — गर्मी की सात्विक पेय।",
+      "gu": "."
+    },
+    "category": "DRINKS", "tags": ["drinks", "gujarati", "healthy", "quick"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 0, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1 cup yogurt", "2 cups chilled water", "1/2 tsp roasted cumin powder", "1/4 tsp ginger, grated", "A few fresh mint leaves", "Salt or black salt to taste", "Ice cubes"],
+      "hi": ["1 कप दही", "2 कप ठंडा पानी", "1/2 चम्मच भुना जीरा पाउडर", "1/4 चम्मच अदरक", "ताजा पुदीने की पत्तियां", "नमक या काला नमक", "बर्फ"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Blend yogurt, water, cumin, ginger, mint, and salt until frothy.", "Add ice and serve immediately."],
+      "hi": ["दही, पानी, जीरा, अदरक, पुदीना, नमक ब्लेंड करें।", "बर्फ डालें और परोसें।"],
+      "gu": [".", "."]
+    },
+    "notes": {"en": "Use black salt (kala namak) for an authentic tangy chaas.", "hi": "असली खट्टी छाछ के लिए काले नमक का इस्तेमाल करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 107, "slug": "thandai",
+    "name": {"en": "Thandai", "hi": "ठंडाई", "gu": "T. "},
+    "description": {
+      "en": "Chilled milk blended with aromatic nuts, seeds, saffron, and rose — a festive sattvik drink for Holi and Shivratri.",
+      "hi": "मेवे, बीजों, केसर और गुलाब से बनी सुगंधित ठंडी दूध — होली और शिवरात्रि का सात्विक पेय।",
+      "gu": "."
+    },
+    "category": "DRINKS", "tags": ["drinks", "festival", "popular", "holi"],
+    "prepTimeMinutes": 20, "cookTimeMinutes": 0, "servings": 4,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": true, "isPopular": true,
+    "ingredients": {
+      "en": ["1 litre chilled milk", "2 tbsp almonds, soaked and blanched", "1 tbsp cashews", "1 tsp melon seeds", "1 tsp fennel seeds", "1/4 tsp cardamom powder", "A pinch of saffron", "1 tsp rose petals (dried)", "3 tbsp sugar", "1/4 tsp black pepper"],
+      "hi": ["1 लीटर ठंडा दूध", "2 चम्मच बादाम, भिगोए छीले", "1 चम्मच काजू", "1 चम्मच खरबूज के बीज", "1 चम्मच सौंफ", "1/4 चम्मच इलायची", "एक चुटकी केसर", "1 चम्मच गुलाब की पंखुड़ियां", "3 चम्मच चीनी", "1/4 चम्मच काली मिर्च"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Blend almonds, cashews, melon seeds, fennel, rose petals, and 1/2 cup milk into a fine paste.", "Add remaining milk, saffron, cardamom, black pepper, and sugar to the paste. Blend well.", "Strain through a fine sieve.", "Chill well. Serve with ice, garnished with saffron and rose petals."],
+      "hi": ["बादाम, काजू, बीज, सौंफ, गुलाब पंखुड़ियां और 1/2 कप दूध पीसें।", "बाकी दूध, केसर, इलायची, काली मिर्च, चीनी ब्लेंड करें।", "महीन छानें।", "ठंडा करें। बर्फ के साथ परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Make the base paste ahead and refrigerate — mix with cold milk when ready to serve.", "hi": "बेस पेस्ट पहले बनाएं और फ्रिज में रखें — परोसने से पहले ठंडे दूध में मिलाएं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 108, "slug": "jal-jeera",
+    "name": {"en": "Jal Jeera", "hi": "जल जीरा", "gu": "J. "},
+    "description": {
+      "en": "Tangy, spiced cumin water with mint and black salt — a refreshing sattvik digestive drink for summer.",
+      "hi": "पुदीना और काला नमक के साथ खट्टा, मसालेदार जीरा पानी — गर्मी का सात्विक पाचक पेय।",
+      "gu": "."
+    },
+    "category": "DRINKS", "tags": ["drinks", "quick", "healthy", "digestive"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 0, "servings": 4,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1 tsp roasted cumin seeds", "A handful of fresh mint leaves", "2 tbsp tamarind pulp", "1 tsp black salt (kala namak)", "1/4 tsp regular salt", "1 tsp sugar", "1/4 tsp ginger, grated", "1/4 tsp black pepper", "4 cups chilled water", "Ice cubes"],
+      "hi": ["1 चम्मच भुना जीरा", "एक मुट्ठी पुदीना पत्तियां", "2 चम्मच इमली का पानी", "1 चम्मच काला नमक", "1/4 चम्मच नमक", "1 चम्मच चीनी", "1/4 चम्मच अदरक", "1/4 चम्मच काली मिर्च", "4 कप ठंडा पानी", "बर्फ"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Blend cumin, mint, tamarind, both salts, sugar, ginger, black pepper, and 1/2 cup water into a smooth paste.", "Strain through a fine sieve.", "Add remaining cold water and mix well.", "Serve in glasses with ice."],
+      "hi": ["जीरा, पुदीना, इमली, दोनों नमक, चीनी, अदरक, काली मिर्च और 1/2 कप पानी पीसें।", "महीन छानें।", "बाकी पानी मिलाएं।", "बर्फ के साथ परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Make the concentrate ahead and dilute to taste when serving.", "hi": "कंसन्ट्रेट पहले बनाएं और परोसते समय पानी से पतला करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 109, "slug": "panchamrit",
+    "name": {"en": "Panchamrit", "hi": "पंचामृत", "gu": "P. "},
+    "description": {
+      "en": "The sacred five-nectar mixture of milk, honey, yogurt, ghee, and sugar — prepared as abhishek for temple worship.",
+      "hi": "दूध, शहद, दही, घी और चीनी का पवित्र पंचामृत — मंदिर में अभिषेक के लिए तैयार।",
+      "gu": "."
+    },
+    "category": "FESTIVAL", "tags": ["prasad", "festival", "sacred", "no-cook"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 0, "servings": 4,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": true, "isPopular": true,
+    "ingredients": {
+      "en": ["1/4 cup fresh milk", "1/4 cup yogurt", "1 tbsp ghee", "1 tbsp honey", "1 tbsp sugar", "A pinch of cardamom powder", "A few Tulsi (holy basil) leaves"],
+      "hi": ["1/4 कप दूध", "1/4 कप दही", "1 चम्मच घी", "1 चम्मच शहद", "1 चम्मच चीनी", "एक चुटकी इलायची पाउडर", "तुलसी की पत्तियां"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["In a clean bowl, combine milk, yogurt, ghee, honey, and sugar.", "Mix gently until sugar dissolves.", "Add cardamom and tulsi leaves.", "Use for abhishek (ritual bathing of the deity). After the ceremony, distribute as prasad.", "Consume within a few hours of preparation."],
+      "hi": ["दूध, दही, घी, शहद और चीनी मिलाएं।", "चीनी घुलने तक हल्के से मिलाएं।", "इलायची और तुलसी।", "अभिषेक के लिए उपयोग करें, फिर प्रसाद वितरित करें।", "तैयारी के कुछ घंटों में सेवन करें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use raw honey (not heated) to preserve its sacred and nutritional properties.", "hi": "पवित्र गुणों को बनाए रखने के लिए कच्चे शहद का उपयोग करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 110, "slug": "panjiri",
+    "name": {"en": "Panjiri", "hi": "पंजीरी", "gu": "P. "},
+    "description": {
+      "en": "Roasted whole wheat flour combined with ghee, sugar, dry fruits, and gond — a traditional sattvik prasad and post-natal food.",
+      "hi": "घी, चीनी, मेवे और गोंद के साथ भुना गेहूं — पारंपरिक सात्विक प्रसाद और प्रसवोत्तर भोजन।",
+      "gu": "."
+    },
+    "category": "FESTIVAL", "tags": ["prasad", "festival", "healthy", "make-ahead"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 25, "servings": 8,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": true, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups whole wheat flour (atta)", "4 tbsp ghee", "1/2 cup powdered sugar", "1/2 tsp cardamom powder", "2 tbsp gond (edible gum), fried and crushed", "2 tbsp cashews, chopped", "2 tbsp almonds, chopped", "2 tbsp dried coconut, grated"],
+      "hi": ["2 कप गेहूं का आटा", "4 चम्मच घी", "1/2 कप पिसी चीनी", "1/2 चम्मच इलायची", "2 चम्मच गोंद, भुना और टुकड़ा", "2 चम्मच काजू", "2 चम्मच बादाम", "2 चम्मच सूखा नारियल"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee in a pan. Fry gond in batches until it puffs up. Remove and crush.", "In the same pan, add more ghee if needed. Roast wheat flour on low heat 15–18 minutes until golden and fragrant.", "Cool completely.", "Add powdered sugar, cardamom, crushed gond, cashews, almonds, and coconut.", "Mix well. Store in an airtight container. Serve as prasad."],
+      "hi": ["घी में गोंद फुलाएं। निकालें और कुटें।", "उसी घी में आटा धीमी आंच पर 15–18 मिनट भूनें।", "पूरी तरह ठंडा करें।", "पिसी चीनी, इलायची, गोंद, काजू, बादाम, नारियल मिलाएं।", "एयरटाइट में रखें। प्रसाद में परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Panjiri stays fresh for 2–3 weeks when stored in an airtight container.", "hi": "पंजीरी एयरटाइट में 2–3 हफ्ते ताज़ी रहती है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 111, "slug": "chana-prasad",
+    "name": {"en": "Sookha Kala Chana Prasad", "hi": "सूखा काला चना प्रसाद", "gu": "C. "},
+    "description": {
+      "en": "Dry spiced black chickpea prasad offered to Goddess Durga during Navratri — simple, sacred, and sattvik.",
+      "hi": "नवरात्रि में माँ दुर्गा को अर्पित किया जाने वाला सूखा मसाला काला चना — सरल, पवित्र।",
+      "gu": "."
+    },
+    "category": "FESTIVAL", "tags": ["prasad", "navratri", "festival", "fasting"],
+    "prepTimeMinutes": 480, "cookTimeMinutes": 20, "servings": 6,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": true, "isPopular": true,
+    "ingredients": {
+      "en": ["2 cups black chickpeas (kala chana), soaked overnight", "1 tbsp oil or ghee", "1/4 tsp asafoetida", "1/2 tsp cumin seeds", "1/2 tsp red chilli powder", "1/2 tsp coriander powder", "1/4 tsp amchur", "Rock salt or regular salt to taste", "Fresh coriander for garnish"],
+      "hi": ["2 कप काला चना, रातभर भिगोया", "1 चम्मच तेल या घी", "1/4 चम्मच हींग", "1/2 चम्मच जीरा", "1/2 चम्मच लाल मिर्च", "1/2 चम्मच धनिया पाउडर", "1/4 चम्मच अमचूर", "नमक", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Pressure cook soaked chana with salt and water for 5–6 whistles until just tender (not mushy). Drain.", "Heat oil/ghee. Add hing and cumin seeds.", "Add boiled chana and all spices. Toss well.", "Cook on medium heat 5–8 minutes until dry and slightly crispy.", "Garnish with coriander and offer as prasad."],
+      "hi": ["भिगोए चने को नमक और पानी के साथ 5–6 सीटी में पकाएं। पानी निकालें।", "घी में हींग और जीरा।", "चने और मसाले मिलाएं।", "मध्यम आंच पर 5–8 मिनट सूखा करें।", "धनिए से सजाकर प्रसाद में परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use sendha namak (rock salt) during Navratri fasting. Skip amchur and use lemon juice instead.", "hi": "नवरात्रि उपवास में सेंधा नमक और नींबू रस इस्तेमाल करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 112, "slug": "narali-bhat",
+    "name": {"en": "Narali Bhat", "hi": "नारळी भात", "gu": "N. "},
+    "description": {
+      "en": "Sweet coconut rice prepared on Narali Purnima — a Maharashtrian sattvik festival offering.",
+      "hi": "नारळी पूर्णिमा पर बनाया जाने वाला मीठा नारियल चावल — महाराष्ट्रियन सात्विक त्योहार भेंट।",
+      "gu": "."
+    },
+    "category": "FESTIVAL", "tags": ["prasad", "festival", "maharashtrian", "sweet"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": true, "isPopular": false,
+    "ingredients": {
+      "en": ["1.5 cups basmati or kolam rice, cooked", "1 cup freshly grated coconut", "3/4 cup sugar or jaggery", "1 tbsp ghee", "1/2 tsp cardamom powder", "A pinch of saffron soaked in warm milk", "2 tbsp cashews", "2 tbsp raisins"],
+      "hi": ["1.5 कप चावल, पका हुआ", "1 कप ताजा नारियल, कद्दूकस", "3/4 कप चीनी या गुड़", "1 चम्मच घी", "1/2 चम्मच इलायची", "एक चुटकी केसर", "2 चम्मच काजू", "2 चम्मच किशमिश"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee. Fry cashews golden, puff raisins. Set aside.", "Add grated coconut and stir 2 minutes.", "Add sugar/jaggery and stir until dissolved.", "Add cooked rice, saffron milk, and cardamom. Mix gently.", "Cook on low 5 minutes until well combined.", "Garnish with cashews and raisins. Offer as prasad."],
+      "hi": ["घी में काजू और किशमिश। रखें।", "नारियल 2 मिनट।", "चीनी घुलाएं।", "चावल, केसर, इलायची।", "धीमी आंच 5 मिनट।", "प्रसाद के रूप में अर्पित करें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "This sweet rice is also delicious as a dessert — serve warm or at room temperature.", "hi": "यह मीठा चावल मिठाई के रूप में भी स्वादिष्ट है।", "gu": "."},
+    "imageUrl": null
+  }
+]

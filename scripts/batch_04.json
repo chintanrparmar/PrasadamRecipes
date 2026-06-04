@@ -1,0 +1,242 @@
+[
+  {
+    "id": 51, "slug": "makki-roti",
+    "name": {"en": "Makki Roti", "hi": "मक्की की रोटी", "gu": "M. "},
+    "description": {
+      "en": "Traditional Punjabi cornmeal flatbread served with sarson da saag — a winter classic that is naturally sattvik.",
+      "hi": "सरसों के साग के साथ परोसी जाने वाली पारंपरिक पंजाबी मक्के की रोटी।",
+      "gu": "."
+    },
+    "category": "ROTI_BREAD", "tags": ["flatbread", "punjabi", "gluten-free"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups maize flour (makki atta)", "Warm water to knead", "Salt to taste", "Ghee for serving"],
+      "hi": ["2 कप मक्के का आटा", "गर्म पानी", "नमक", "घी"],
+      "gu": [".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Add salt to maize flour. Add warm water gradually and knead into a soft dough.", "Divide into portions. Pat each into a thick disc on plastic or a damp cloth.", "Cook on a hot tava over medium heat 3–4 minutes per side until brown marks appear.", "Apply ghee generously. Serve hot."],
+      "hi": ["मक्के के आटे में नमक मिलाएं। गर्म पानी से नरम आटा बनाएं।", "हिस्सों में बांटें। प्लास्टिक पर थपथपाकर मोटी रोटी बनाएं।", "मध्यम आंच पर 3–4 मिनट प्रति तरफ सेंकें।", "घी लगाकर परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Serve hot — makki roti hardens quickly on cooling.", "hi": "गर्म ही परोसें — ठंडी होने पर मक्की की रोटी कड़ी हो जाती है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 52, "slug": "lachha-paratha",
+    "name": {"en": "Lachha Paratha", "hi": "लच्छा परांठा", "gu": "L. "},
+    "description": {
+      "en": "Flaky layered whole wheat paratha with visible crunchy layers — a restaurant-favourite sattvik bread.",
+      "hi": "दृश्यमान परतों वाली कुरकुरी, लच्छेदार गेहूं परांठा — रेस्टोरेंट की पसंदीदा सात्विक रोटी।",
+      "gu": "."
+    },
+    "category": "ROTI_BREAD", "tags": ["flatbread", "punjabi", "popular"],
+    "prepTimeMinutes": 20, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["2 cups whole wheat flour", "Water and salt to knead", "Ghee or oil for layering and cooking"],
+      "hi": ["2 कप गेहूं का आटा", "पानी और नमक", "घी या तेल"],
+      "gu": [".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Knead a soft dough. Rest 15 minutes.", "Divide into 6 balls. Roll each into a large thin circle.", "Brush generously with ghee. Fold into a pleated fan (accordion-fold), then coil it into a round ball.", "Roll out again gently into a paratha about 1 cm thick.", "Cook on hot tava with ghee, 2–3 minutes per side, pressing gently, until golden and flaky.", "Crush lightly with both hands to separate the layers. Serve hot."],
+      "hi": ["नरम आटा गूंधें। 15 मिनट रखें।", "6 गोले बनाएं। बड़ा पतला बेलें।", "घी लगाएं। पर्दे की तरह मोड़ें, फिर गोल लपेटें।", "धीरे से फिर बेलें।", "घी के साथ तवे पर 2–3 मिनट प्रति तरफ सेंकें।", "हाथ से दबाकर परतें अलग करें। गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "The ghee between layers is what creates the flakiness — don't skip it.", "hi": "परतों के बीच घी ही कुरकुरापन देता है — इसे छोड़ें नहीं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 53, "slug": "beetroot-paratha",
+    "name": {"en": "Beetroot Paratha", "hi": "चुकंदर परांठा", "gu": "B. "},
+    "description": {
+      "en": "Vibrant magenta flatbread kneaded with beetroot puree — as nutritious as it is beautiful.",
+      "hi": "चुकंदर की प्यूरी से गूंधी गुलाबी परांठा — पोषण से भरपूर और देखने में सुंदर।",
+      "gu": "."
+    },
+    "category": "ROTI_BREAD", "tags": ["flatbread", "healthy", "breakfast", "kids"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups whole wheat flour", "1 medium beetroot, boiled and pureed", "1/2 tsp cumin seeds", "Salt to taste", "Oil or ghee for cooking"],
+      "hi": ["2 कप गेहूं का आटा", "1 चुकंदर, उबला और पुरी", "1/2 चम्मच जीरा", "नमक", "घी"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Mix flour, cumin, and salt. Add beetroot puree and knead into a soft dough. Add a little water if needed.", "Rest 10 minutes. Divide into 8 balls.", "Roll each into thin rounds.", "Cook on hot tava over medium heat with ghee, 1–2 minutes per side.", "Serve hot."],
+      "hi": ["आटा, जीरा और नमक मिलाएं। चुकंदर प्यूरी से नरम आटा गूंधें।", "10 मिनट रखें। 8 गोले बनाएं।", "पतली रोटी बेलें।", "घी के साथ तवे पर 1–2 मिनट सेंकें।", "गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Great for kids who refuse vegetables — the colour makes it exciting.", "hi": "सब्ज़ियां न खाने वाले बच्चों के लिए बढ़िया — रंग उन्हें आकर्षित करता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 54, "slug": "mooli-paratha",
+    "name": {"en": "Mooli Paratha", "hi": "मूली परांठा", "gu": "M. "},
+    "description": {
+      "en": "Punjabi flatbread stuffed with spiced grated radish — a winter breakfast with bold flavour and a satisfying crunch.",
+      "hi": "मसाला कद्दूकस मूली से भरी पंजाबी परांठा — सर्दियों का बोल्ड-स्वाद नाश्ता।",
+      "gu": "."
+    },
+    "category": "ROTI_BREAD", "tags": ["flatbread", "breakfast", "punjabi"],
+    "prepTimeMinutes": 20, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups whole wheat flour", "Water and salt for dough", "For filling: 1 large radish (mooli), grated", "1/2 tsp cumin powder", "1/4 tsp red chilli powder", "1/2 tsp amchur", "2 tbsp fresh coriander", "Salt to taste", "Ghee for cooking"],
+      "hi": ["2 कप गेहूं का आटा", "पानी और नमक", "भराव: 1 बड़ी मूली, कद्दूकस", "1/2 चम्मच जीरा पाउडर", "1/4 चम्मच लाल मिर्च", "1/2 चम्मच अमचूर", "2 चम्मच धनिया", "नमक", "घी"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Grate radish, add salt, rest 5 minutes, squeeze out all moisture in a cloth.", "Mix squeezed radish with spices and coriander.", "Roll dough into balls, fill with radish filling, seal and roll into parathas.", "Cook on hot tava with ghee 2–3 minutes per side.", "Serve with yogurt."],
+      "hi": ["मूली कद्दूकस करें, नमक डालें, 5 मिनट बाद कपड़े में निचोड़ें।", "निचोड़ी मूली में मसाले मिलाएं।", "आटे के गोले बनाएं, भराव भरें, परांठा बेलें।", "घी से तवे पर 2–3 मिनट सेंकें।", "दही के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Squeezing out the moisture is essential — a wet filling will make the paratha soggy.", "hi": "नमी निकालना ज़रूरी है — गीला भराव परांठे को बेकार कर देगा।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 55, "slug": "jowar-bhakri",
+    "name": {"en": "Jowar Bhakri", "hi": "ज्वार भाकरी", "gu": "J. "},
+    "description": {
+      "en": "Thick rustic flatbread made with sorghum flour — a nutritious gluten-free staple of Maharashtra and Gujarat.",
+      "hi": "ज्वार के आटे से बनी मोटी देहाती भाकरी — महाराष्ट्र और गुजरात की ग्लूटन-मुक्त रोटी।",
+      "gu": "."
+    },
+    "category": "ROTI_BREAD", "tags": ["flatbread", "maharashtrian", "gujarati", "gluten-free", "healthy"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 cups jowar (sorghum) flour", "Warm water to knead", "Salt to taste", "Ghee for serving"],
+      "hi": ["2 कप ज्वार का आटा", "गर्म पानी", "नमक", "घी"],
+      "gu": [".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Add salt to jowar flour. Add warm water gradually and knead into a soft dough.", "Wet your hands. Take a portion and pat it on a wet surface or in your palms into a thick circle.", "Place on a hot tava and cook on medium heat 3 minutes.", "Flip and cook the other side 3 minutes.", "Apply ghee. Serve hot with vegetable curry or yogurt."],
+      "hi": ["ज्वार के आटे में नमक मिलाएं। गर्म पानी से नरम आटा गूंधें।", "हाथ गीले करें। हिस्सा लेकर थपथपाकर मोटा चकला बनाएं।", "गर्म तवे पर रखें और मध्यम आंच पर 3 मिनट पकाएं।", "पलटें और 3 मिनट और पकाएं।", "घी लगाकर सब्ज़ी या दही के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Jowar bhakri is best eaten fresh and hot — it becomes hard on cooling.", "hi": "ज्वार भाकरी ताज़ी और गर्म खाने पर सबसे अच्छी लगती है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 56, "slug": "matar-paneer",
+    "name": {"en": "Matar Paneer", "hi": "मटर पनीर", "gu": "M. "},
+    "description": {
+      "en": "Paneer cubes and green peas simmered in a rich, spiced tomato gravy — a classic sattvik main course.",
+      "hi": "पनीर और मटर को मसालेदार टमाटर ग्रेवी में पकाया — एक क्लासिक सात्विक मुख्य व्यंजन।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "popular", "punjabi", "lunch", "dinner"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["250g paneer, cubed", "1 cup green peas, fresh or frozen", "3 tomatoes, pureed", "1 tsp ginger paste", "1/2 tsp asafoetida", "1/2 tsp cumin seeds", "1/2 tsp turmeric powder", "1 tsp red chilli powder", "1 tsp coriander powder", "1/2 tsp garam masala", "Salt to taste", "2 tbsp oil or ghee", "Fresh cream and coriander to garnish"],
+      "hi": ["250 ग्राम पनीर, टुकड़े", "1 कप मटर", "3 टमाटर, पुरी", "1 चम्मच अदरक पेस्ट", "1/2 चम्मच हींग", "1/2 चम्मच जीरा", "1/2 चम्मच हल्दी", "1 चम्मच लाल मिर्च", "1 चम्मच धनिया पाउडर", "1/2 चम्मच गरम मसाला", "नमक", "2 चम्मच घी", "क्रीम और धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil/ghee in a pan. Add asafoetida and cumin seeds; let them splutter.", "Add ginger paste, stir 30 seconds. Add tomato puree and cook 8–10 minutes until oil separates.", "Add turmeric, red chilli, coriander powder, and salt. Cook 2 more minutes.", "Add green peas and 1/2 cup water. Simmer 5 minutes.", "Add paneer cubes and garam masala. Simmer 5 more minutes.", "Garnish with cream and coriander. Serve with roti or rice."],
+      "hi": ["घी में हींग और जीरा चटकाएं।", "अदरक पेस्ट डालें। टमाटर प्यूरी डालकर 8–10 मिनट तेल छूटने तक पकाएं।", "हल्दी, लाल मिर्च, धनिया पाउडर और नमक डालें। 2 मिनट पकाएं।", "मटर और 1/2 कप पानी डालें। 5 मिनट उबालें।", "पनीर और गरम मसाला डालें। 5 मिनट और पकाएं।", "क्रीम और धनिए से सजाकर रोटी या चावल के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Lightly fry the paneer cubes in ghee before adding to the gravy for a golden crust.", "hi": "पनीर को घी में हल्का तलकर ग्रेवी में डालने से सुनहरी परत बनती है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 57, "slug": "palak-paneer",
+    "name": {"en": "Palak Paneer", "hi": "पालक पनीर", "gu": "P. "},
+    "description": {
+      "en": "Soft paneer cubes in a smooth, velvety spinach sauce — India's most loved sattvik curry.",
+      "hi": "मुलायम पनीर के टुकड़े, मलाईदार पालक की ग्रेवी में — भारत की सबसे पसंदीदा सात्विक करी।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "popular", "healthy", "punjabi", "lunch", "dinner"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 20, "servings": 4,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["250g paneer, cubed", "300g spinach (palak), blanched", "2 tomatoes, chopped", "1 tsp ginger, grated", "2 green chillies", "1/2 tsp asafoetida", "1/2 tsp cumin seeds", "1/2 tsp turmeric powder", "1/2 tsp garam masala", "Salt to taste", "2 tbsp ghee or oil", "2 tbsp cream"],
+      "hi": ["250 ग्राम पनीर, टुकड़े", "300 ग्राम पालक, ब्लांच", "2 टमाटर, कटे", "1 चम्मच अदरक", "2 हरी मिर्च", "1/2 चम्मच हींग", "1/2 चम्मच जीरा", "1/2 चम्मच हल्दी", "1/2 चम्मच गरम मसाला", "नमक", "2 चम्मच घी", "2 चम्मच क्रीम"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Blend blanched spinach with green chillies and a little water into a smooth puree. Set aside.", "Heat ghee in a pan. Add asafoetida and cumin seeds. Add ginger, stir 30 sec.", "Add tomatoes, cook until soft and mushy, about 5 minutes.", "Add turmeric, salt, and spinach puree. Simmer 5 minutes.", "Add paneer and garam masala. Cook 3–4 more minutes.", "Stir in cream and serve hot with naan or rice."],
+      "hi": ["ब्लांच पालक को हरी मिर्च और पानी के साथ चिकना पीसें।", "घी में हींग और जीरा चटकाएं। अदरक डालें।", "टमाटर डालकर 5 मिनट गलने तक पकाएं।", "हल्दी, नमक और पालक प्यूरी डालें। 5 मिनट उबालें।", "पनीर और गरम मसाला डालें। 3–4 मिनट पकाएं।", "क्रीम मिलाकर नान या चावल के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Do not overcook the spinach puree after blending — it loses its vibrant green colour.", "hi": "पालक पीसने के बाद ज़्यादा न पकाएं — रंग खराब हो जाता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 58, "slug": "paneer-butter-masala",
+    "name": {"en": "Paneer Butter Masala", "hi": "पनीर बटर मसाला", "gu": "P. "},
+    "description": {
+      "en": "Paneer in a rich, creamy tomato-butter sauce — the ultimate sattvik restaurant-style curry.",
+      "hi": "मलाईदार टमाटर-मक्खन सॉस में पनीर — सबसे लोकप्रिय सात्विक रेस्टोरेंट करी।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "popular", "punjabi", "dinner", "restaurant-style"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["250g paneer, cubed", "4 ripe tomatoes, pureed", "1/2 tsp asafoetida", "1 tsp ginger paste", "1 tsp red chilli powder", "1 tsp coriander powder", "1/2 tsp turmeric powder", "1 tsp kasuri methi (dried fenugreek)", "1/2 tsp garam masala", "Salt to taste", "2 tbsp butter", "1 tbsp oil", "1/4 cup cream", "1 tsp sugar"],
+      "hi": ["250 ग्राम पनीर", "4 टमाटर, पुरी", "1/2 चम्मच हींग", "1 चम्मच अदरक पेस्ट", "1 चम्मच लाल मिर्च", "1 चम्मच धनिया पाउडर", "1/2 चम्मच हल्दी", "1 चम्मच कसूरी मेथी", "1/2 चम्मच गरम मसाला", "नमक", "2 चम्मच मक्खन", "1 चम्मच तेल", "1/4 कप क्रीम", "1 चम्मच चीनी"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat butter + oil. Add hing, ginger paste; cook 30 sec. Add tomato puree and cook 10–12 min until thick and oil separates.", "Add red chilli, coriander, turmeric, and salt. Cook 2 min.", "Add 1/2 cup water, sugar, and kasuri methi. Simmer 3 minutes.", "Add paneer cubes and garam masala. Simmer 5 minutes.", "Stir in cream. Simmer 2 more minutes.", "Serve hot garnished with cream swirl."],
+      "hi": ["मक्खन + तेल में हींग, अदरक पेस्ट डालें। टमाटर प्यूरी डालकर 10–12 मिनट पकाएं।", "लाल मिर्च, धनिया, हल्दी और नमक डालें।", "पानी, चीनी और कसूरी मेथी डालें। 3 मिनट उबालें।", "पनीर और गरम मसाला डालें। 5 मिनट पकाएं।", "क्रीम मिलाएं। 2 मिनट और पकाएं।", "क्रीम से सजाकर परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Soaking the paneer in warm water for 10 minutes before cooking keeps it soft.", "hi": "पकाने से पहले पनीर को 10 मिनट गर्म पानी में भिगोने से वह नरम रहता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 59, "slug": "baingan-bharta",
+    "name": {"en": "Baingan Bharta", "hi": "बैंगन भर्ता", "gu": "B. "},
+    "description": {
+      "en": "Smoky roasted aubergine mashed with tomatoes and spices — a deeply flavourful sattvik curry from Punjab.",
+      "hi": "धुएँदार भुने बैंगन को टमाटर और मसालों के साथ मैश किया — पंजाब की गहरे स्वाद वाली सात्विक सब्ज़ी।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "punjabi", "smoky", "healthy"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 30, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 large aubergines (baingan)", "2 tomatoes, finely chopped", "1 tsp ginger, grated", "2 green chillies, chopped", "1/2 tsp cumin seeds", "1/2 tsp turmeric powder", "1/2 tsp red chilli powder", "1/2 tsp garam masala", "Salt to taste", "2 tbsp oil", "Fresh coriander for garnish"],
+      "hi": ["2 बड़े बैंगन", "2 टमाटर, बारीक कटे", "1 चम्मच अदरक, कद्दूकस", "2 हरी मिर्च, कटी", "1/2 चम्मच जीरा", "1/2 चम्मच हल्दी", "1/2 चम्मच लाल मिर्च", "1/2 चम्मच गरम मसाला", "नमक", "2 चम्मच तेल", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Roast aubergines directly over gas flame or in oven at 220°C, turning occasionally, until skin is charred and inside is soft (15–20 min).", "Cool, peel off charred skin, and mash the flesh.", "Heat oil in a pan. Add cumin seeds; when spluttering, add ginger and green chillies.", "Add tomatoes and cook until soft and oil separates, about 8 minutes.", "Add turmeric, red chilli, and salt. Cook 2 minutes.", "Add mashed aubergine and garam masala. Mix well and cook 5 minutes.", "Garnish with coriander and serve with roti."],
+      "hi": ["बैंगन को गैस की आंच पर या 220°C ओवन में चारकोल होने तक भूनें।", "ठंडा करें, छिलका उतारें, गूदा मैश करें।", "जीरा चटकाएं, अदरक और मिर्च डालें।", "टमाटर डालकर 8 मिनट पकाएं।", "हल्दी, लाल मिर्च और नमक डालें।", "मैश बैंगन और गरम मसाला मिलाएं। 5 मिनट पकाएं।", "धनिए से सजाकर रोटी के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "The smoky flavour comes from charring over open flame — don't skip this step.", "hi": "धुएँदार स्वाद सीधी आंच पर भूनने से आता है — यह कदम न छोड़ें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 60, "slug": "bhindi-masala",
+    "name": {"en": "Bhindi Masala", "hi": "भिंडी मसाला", "gu": "B. "},
+    "description": {
+      "en": "Tender okra sautéed with tomatoes and spices until crispy — a quick, beloved sattvik everyday curry.",
+      "hi": "टमाटर और मसालों के साथ भुनी कुरकुरी भिंडी — झटपट, सबकी पसंदीदा रोज़ की सात्विक सब्ज़ी।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "quick", "healthy"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["400g bhindi (okra), washed, dried, cut into 1-inch pieces", "2 tomatoes, chopped", "1 tsp ginger, grated", "1/2 tsp cumin seeds", "1/2 tsp turmeric powder", "1/2 tsp red chilli powder", "1 tsp coriander powder", "Salt to taste", "2 tbsp oil", "Fresh coriander for garnish"],
+      "hi": ["400 ग्राम भिंडी, 1 इंच में कटी", "2 टमाटर, कटे", "1 चम्मच अदरक", "1/2 चम्मच जीरा", "1/2 चम्मच हल्दी", "1/2 चम्मच लाल मिर्च", "1 चम्मच धनिया पाउडर", "नमक", "2 चम्मच तेल", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil in a wide pan. Add cumin seeds. Add ginger and stir 20 seconds.", "Add bhindi in a single layer. Cook on medium-high heat without stirring for 5 minutes.", "Stir and cook another 5 minutes until bhindi is cooked and slightly crispy.", "Add tomatoes, turmeric, red chilli, coriander powder, and salt. Mix gently.", "Cook 5 more minutes until tomatoes are soft.", "Garnish with coriander. Serve hot."],
+      "hi": ["तेल में जीरा और अदरक डालें।", "भिंडी एक परत में डालें। बिना हिलाए 5 मिनट पकाएं।", "हिलाएं और 5 मिनट और पकाएं।", "टमाटर, हल्दी, लाल मिर्च, धनिया पाउडर और नमक मिलाएं।", "5 मिनट और पकाएं।", "धनिए से सजाकर परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Thoroughly dry the bhindi after washing — any moisture causes sliminess.", "hi": "धोने के बाद भिंडी पूरी तरह सुखाएं — नमी से चिपचिपाहट आती है।", "gu": "."},
+    "imageUrl": null
+  }
+]

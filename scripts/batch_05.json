@@ -1,0 +1,242 @@
+[
+  {
+    "id": 61, "slug": "mix-veg-sabji",
+    "name": {"en": "Mix Vegetable Sabji", "hi": "मिक्स सब्ज़ी", "gu": "M. "},
+    "description": {
+      "en": "A medley of seasonal vegetables cooked in a fragrant spiced tomato gravy — a wholesome sattvik everyday dish.",
+      "hi": "मौसमी सब्ज़ियों को मसालेदार टमाटर ग्रेवी में पकाया — एक पौष्टिक रोज़ का व्यंजन।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "healthy", "one-pot"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1 carrot, diced", "1 cup cauliflower florets", "1/2 cup green peas", "1 potato, diced", "1 capsicum, diced", "2 tomatoes, pureed", "1 tsp ginger, grated", "1/2 tsp asafoetida", "1/2 tsp cumin seeds", "1/2 tsp turmeric", "1 tsp coriander powder", "1/2 tsp garam masala", "Salt to taste", "2 tbsp oil"],
+      "hi": ["1 गाजर, कटी", "1 कप फूलगोभी", "1/2 कप मटर", "1 आलू, कटा", "1 शिमला मिर्च", "2 टमाटर, पुरी", "1 चम्मच अदरक", "1/2 चम्मच हींग", "1/2 चम्मच जीरा", "1/2 चम्मच हल्दी", "1 चम्मच धनिया पाउडर", "1/2 चम्मच गरम मसाला", "नमक", "2 चम्मच तेल"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil. Add hing and cumin seeds. Add ginger; stir 30 sec.", "Add tomato puree. Cook 5 minutes.", "Add all dry spices and salt. Cook 2 minutes.", "Add all vegetables. Stir well to coat with masala.", "Add 1/2 cup water. Cover and cook on medium heat 15 minutes until vegetables are tender.", "Add garam masala, mix, and serve hot."],
+      "hi": ["तेल में हींग, जीरा और अदरक डालें।", "टमाटर प्यूरी डालें। 5 मिनट पकाएं।", "सभी सूखे मसाले और नमक डालें।", "सभी सब्ज़ियां डालकर मिलाएं।", "1/2 कप पानी डालें। ढककर 15 मिनट पकाएं।", "गरम मसाला मिलाकर परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use any available vegetables — beans, corn, broccoli all work well.", "hi": "उपलब्ध किसी भी सब्ज़ी का उपयोग करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 62, "slug": "aloo-jeera",
+    "name": {"en": "Aloo Jeera", "hi": "आलू जीरा", "gu": "A. "},
+    "description": {
+      "en": "Boiled potatoes tossed in cumin-tempered ghee with simple spices — a quick, fragrant sattvik side dish.",
+      "hi": "जीरे के तड़के वाले घी में उबले आलू — झटपट, सुगंधित, सरल सात्विक सब्ज़ी।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "quick", "one-pot"],
+    "prepTimeMinutes": 5, "cookTimeMinutes": 10, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["4 medium potatoes, boiled and diced", "1 tsp cumin seeds", "1/4 tsp asafoetida", "1/2 tsp turmeric powder", "1/2 tsp red chilli powder", "1/4 tsp amchur", "Salt to taste", "2 tbsp ghee or oil", "Fresh coriander for garnish"],
+      "hi": ["4 आलू, उबले और कटे", "1 चम्मच जीरा", "1/4 चम्मच हींग", "1/2 चम्मच हल्दी", "1/2 चम्मच लाल मिर्च", "1/4 चम्मच अमचूर", "नमक", "2 चम्मच घी", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee in a pan. Add asafoetida and cumin seeds; let them splutter.", "Add diced potatoes. Toss gently.", "Add turmeric, red chilli, amchur, and salt. Toss to coat.", "Cook on medium heat 5 minutes, tossing occasionally.", "Garnish with fresh coriander and serve."],
+      "hi": ["घी में हींग और जीरा चटकाएं।", "आलू डालें। हल्के से मिलाएं।", "हल्दी, लाल मिर्च, अमचूर और नमक डालें।", "मध्यम आंच पर 5 मिनट पकाएं।", "धनिए से सजाकर परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use fresh boiled potatoes for best texture — leftover potatoes tend to crumble.", "hi": "ताज़े उबले आलू से बेहतर टेक्सचर आता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 63, "slug": "lauki-sabji",
+    "name": {"en": "Lauki ki Sabji", "hi": "लौकी की सब्ज़ी", "gu": "L. "},
+    "description": {
+      "en": "Tender bottle gourd cooked in a light, aromatic spiced gravy — a sattvik everyday curry that aids digestion.",
+      "hi": "हल्की मसालेदार ग्रेवी में पकी नरम लौकी — पाचन में सहायक सात्विक रोज़ की सब्ज़ी।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "healthy", "light"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1 medium lauki (bottle gourd), peeled and diced", "1 tomato, chopped", "1 tsp ginger, grated", "1 green chilli, chopped", "1/2 tsp cumin seeds", "1/4 tsp asafoetida", "1/2 tsp turmeric powder", "1/2 tsp coriander powder", "Salt to taste", "1 tbsp oil", "Fresh coriander for garnish"],
+      "hi": ["1 मध्यम लौकी, छीली और कटी", "1 टमाटर, कटा", "1 चम्मच अदरक", "1 हरी मिर्च", "1/2 चम्मच जीरा", "1/4 चम्मच हींग", "1/2 चम्मच हल्दी", "1/2 चम्मच धनिया पाउडर", "नमक", "1 चम्मच तेल", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil. Add hing and cumin seeds. Add ginger and green chilli; stir 20 sec.", "Add tomato and cook 3 minutes.", "Add turmeric, coriander powder, and salt.", "Add lauki and mix. Cover and cook on medium heat 15 minutes until tender.", "Garnish with coriander and serve."],
+      "hi": ["तेल में हींग, जीरा, अदरक और मिर्च डालें।", "टमाटर डालकर 3 मिनट पकाएं।", "हल्दी, धनिया पाउडर और नमक डालें।", "लौकी मिलाएं। ढककर 15 मिनट पकाएं।", "धनिए से सजाकर परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Lauki has a high water content — no extra water needed during cooking.", "hi": "लौकी में पानी अधिक होता है — पकाने के दौरान अलग से पानी न डालें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 64, "slug": "tindora-sabji",
+    "name": {"en": "Tindora Sabji", "hi": "तिंदोरा की सब्ज़ी", "gu": "T. "},
+    "description": {
+      "en": "Crispy sliced ivy gourd (tindora) stir-fried with mustard seeds and spices — a Gujarati everyday sattvik vegetable.",
+      "hi": "राई और मसालों के साथ भुनी कुरकुरी तिंदोरा — गुजराती रोज़ की सात्विक सब्ज़ी।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "gujarati", "healthy", "quick"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["300g tindora (ivy gourd), sliced into rounds", "1/2 tsp mustard seeds", "1/4 tsp asafoetida", "8 curry leaves", "1/2 tsp turmeric powder", "1/2 tsp red chilli powder", "1/2 tsp coriander-cumin powder", "Salt to taste", "1 tbsp oil"],
+      "hi": ["300 ग्राम तिंदोरा, गोल कटे", "1/2 चम्मच राई", "1/4 चम्मच हींग", "8 करी पत्ते", "1/2 चम्मच हल्दी", "1/2 चम्मच लाल मिर्च", "1/2 चम्मच जीरा-धनिया पाउडर", "नमक", "1 चम्मच तेल"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil in a pan. Add mustard seeds; when they splutter, add hing and curry leaves.", "Add sliced tindora. Stir to coat with tempering.", "Add turmeric, red chilli, coriander-cumin, and salt. Mix well.", "Cover and cook on medium-low heat 15 minutes, stirring occasionally.", "Uncover and cook on high heat 3–5 minutes to crisp up. Serve hot."],
+      "hi": ["तेल में राई चटकाएं, हींग और करी पत्ते डालें।", "तिंदोरा डालें और मिलाएं।", "हल्दी, लाल मिर्च, जीरा-धनिया और नमक डालें।", "ढककर 15 मिनट पकाएं।", "ढक्कन हटाकर 3–5 मिनट तेज आंच पर क्रिस्पी करें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "This sabji tastes even better the next day as the flavours meld.", "hi": "यह सब्ज़ी अगले दिन और स्वादिष्ट लगती है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 65, "slug": "shahi-paneer",
+    "name": {"en": "Shahi Paneer", "hi": "शाही पनीर", "gu": "S. "},
+    "description": {
+      "en": "Paneer in a luxuriously rich cashew-cream sauce with aromatic spices — a royal sattvik celebration dish.",
+      "hi": "काजू-क्रीम की शाही सॉस में पनीर — शाहाना सात्विक उत्सव व्यंजन।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "popular", "rich", "dinner"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["250g paneer, cubed", "3 tomatoes, pureed", "1/4 cup cashews, soaked and blended", "1 tsp ginger paste", "1/2 tsp asafoetida", "1/2 tsp cumin seeds", "1/2 tsp turmeric powder", "1 tsp red chilli powder", "1/4 tsp cardamom powder", "1/4 tsp clove powder", "1/2 tsp garam masala", "Salt to taste", "2 tbsp ghee", "2 tbsp cream", "1 tsp sugar"],
+      "hi": ["250 ग्राम पनीर", "3 टमाटर, पुरी", "1/4 कप काजू, भिगोकर पिसे", "1 चम्मच अदरक पेस्ट", "1/2 चम्मच हींग", "1/2 चम्मच जीरा", "1/2 चम्मच हल्दी", "1 चम्मच लाल मिर्च", "1/4 चम्मच इलायची पाउडर", "1/4 चम्मच लौंग पाउडर", "1/2 चम्मच गरम मसाला", "नमक", "2 चम्मच घी", "2 चम्मच क्रीम", "1 चम्मच चीनी"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat ghee. Add hing and cumin seeds. Add ginger paste; stir 30 sec.", "Add tomato puree and cook 10 minutes until thick.", "Add turmeric, red chilli, cardamom, clove, and salt. Cook 2 minutes.", "Add cashew paste and sugar; stir well. Cook 3 minutes.", "Add paneer and garam masala. Simmer 5 minutes.", "Stir in cream. Serve hot."],
+      "hi": ["घी में हींग, जीरा और अदरक डालें।", "टमाटर प्यूरी डालकर 10 मिनट पकाएं।", "हल्दी, लाल मिर्च, इलायची, लौंग और नमक डालें।", "काजू पेस्ट और चीनी मिलाएं। 3 मिनट पकाएं।", "पनीर और गरम मसाला डालें। 5 मिनट पकाएं।", "क्रीम मिलाकर परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "The cashew paste is what makes this 'shahi' — use raw cashews for the best creaminess.", "hi": "काजू पेस्ट ही इसे 'शाही' बनाता है — कच्चे काजू सबसे अच्छी मलाई देते हैं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 66, "slug": "aloo-methi",
+    "name": {"en": "Aloo Methi", "hi": "आलू मेथी", "gu": "A. "},
+    "description": {
+      "en": "Potatoes and fresh fenugreek leaves stir-fried with earthy spices — a classic sattvik north Indian dry curry.",
+      "hi": "आलू और ताज़ी मेथी की पत्तियां देसी मसालों के साथ — एक क्लासिक सात्विक सूखी सब्ज़ी।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "quick", "healthy"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["3 medium potatoes, peeled and diced", "1 cup fresh fenugreek (methi) leaves", "1/2 tsp cumin seeds", "1/4 tsp asafoetida", "1/2 tsp turmeric powder", "1/2 tsp red chilli powder", "1/4 tsp amchur", "Salt to taste", "2 tbsp oil"],
+      "hi": ["3 आलू, कटे", "1 कप ताजी मेथी पत्तियां", "1/2 चम्मच जीरा", "1/4 चम्मच हींग", "1/2 चम्मच हल्दी", "1/2 चम्मच लाल मिर्च", "1/4 चम्मच अमचूर", "नमक", "2 चम्मच तेल"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil. Add hing and cumin seeds.", "Add potatoes. Cook covered on medium heat 10 minutes.", "Add methi leaves, turmeric, red chilli, and salt. Mix well.", "Cook uncovered 8–10 minutes until potatoes are done and methi wilts.", "Add amchur. Mix and serve."],
+      "hi": ["तेल में हींग और जीरा डालें।", "आलू डालें। ढककर 10 मिनट पकाएं।", "मेथी, हल्दी, लाल मिर्च और नमक डालें।", "बिना ढके 8–10 मिनट पकाएं।", "अमचूर डालकर परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Blanch the methi leaves in salted water for 2 minutes before adding to reduce bitterness.", "hi": "कड़वाहट कम करने के लिए मेथी को 2 मिनट नमकीन पानी में ब्लांच करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 67, "slug": "paneer-capsicum-masala",
+    "name": {"en": "Paneer Capsicum Masala", "hi": "पनीर शिमला मिर्च मसाला", "gu": "P. "},
+    "description": {
+      "en": "Paneer and vibrant capsicum in a tangy tomato masala — a colourful, flavourful sattvik stir-fry.",
+      "hi": "रंगीन शिमला मिर्च और पनीर की खट्टी-मसालेदार टमाटर सब्ज़ी — स्वादिष्ट सात्विक भुजिया।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "quick", "popular"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 15, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["200g paneer, cubed", "2 capsicums (mix of red, green, yellow), cut in cubes", "2 tomatoes, pureed", "1 tsp ginger, grated", "1/2 tsp asafoetida", "1/2 tsp cumin seeds", "1/2 tsp turmeric", "1/2 tsp red chilli powder", "1/2 tsp garam masala", "Salt to taste", "2 tbsp oil"],
+      "hi": ["200 ग्राम पनीर", "2 शिमला मिर्च, टुकड़ों में", "2 टमाटर, पुरी", "1 चम्मच अदरक", "1/2 चम्मच हींग", "1/2 चम्मच जीरा", "1/2 चम्मच हल्दी", "1/2 चम्मच लाल मिर्च", "1/2 चम्मच गरम मसाला", "नमक", "2 चम्मच तेल"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil. Add hing and cumin. Add ginger; stir 20 sec.", "Add tomato puree. Cook 5 minutes.", "Add turmeric, red chilli, and salt.", "Add capsicum. Stir-fry on high 3 minutes.", "Add paneer and garam masala. Cook 3 more minutes.", "Serve hot."],
+      "hi": ["तेल में हींग, जीरा और अदरक।", "टमाटर प्यूरी 5 मिनट।", "हल्दी, लाल मिर्च, नमक।", "शिमला मिर्च तेज 3 मिनट।", "पनीर और गरम मसाला 3 मिनट।", "परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use a mix of red, green, and yellow capsicum for a colourful presentation.", "hi": "रंगीन प्रस्तुति के लिए लाल, हरी और पीली शिमला मिर्च का मिश्रण इस्तेमाल करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 68, "slug": "mushroom-matar",
+    "name": {"en": "Mushroom Matar", "hi": "मशरूम मटर", "gu": "M. "},
+    "description": {
+      "en": "Earthy mushrooms and sweet peas in a spiced tomato gravy — a quick sattvik curry with a meaty texture.",
+      "hi": "मसालेदार टमाटर ग्रेवी में मशरूम और मटर — मांसल बनावट वाली झटपट सात्विक करी।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "quick"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["250g mushrooms, sliced", "1/2 cup green peas", "2 tomatoes, pureed", "1 tsp ginger, grated", "1/4 tsp asafoetida", "1/2 tsp cumin seeds", "1/2 tsp turmeric", "1 tsp red chilli powder", "1/2 tsp garam masala", "Salt to taste", "2 tbsp oil", "Coriander for garnish"],
+      "hi": ["250 ग्राम मशरूम, कटे", "1/2 कप मटर", "2 टमाटर, पुरी", "1 चम्मच अदरक", "1/4 चम्मच हींग", "1/2 चम्मच जीरा", "1/2 चम्मच हल्दी", "1 चम्मच लाल मिर्च", "1/2 चम्मच गरम मसाला", "नमक", "2 चम्मच तेल", "धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil. Add hing and cumin seeds. Add ginger.", "Add tomato puree. Cook 5 minutes.", "Add turmeric, red chilli, and salt.", "Add mushrooms and peas. Cook on high 5 minutes.", "Cover and simmer 8 minutes.", "Add garam masala, garnish with coriander, and serve."],
+      "hi": ["हींग, जीरा, अदरक।", "टमाटर 5 मिनट।", "हल्दी, लाल मिर्च, नमक।", "मशरूम और मटर 5 मिनट।", "ढककर 8 मिनट।", "गरम मसाला, धनिया, परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Do not wash mushrooms — wipe with a damp cloth to keep them from becoming waterlogged.", "hi": "मशरूम न धोएं — गीले कपड़े से पोंछें ताकि पानी न सोखें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 69, "slug": "kofta-curry",
+    "name": {"en": "Lauki Kofta Curry", "hi": "लौकी कोफ्ता करी", "gu": "L. "},
+    "description": {
+      "en": "Soft bottle gourd dumplings simmered in a spiced tomato-cashew gravy — an elegant sattvik dinner dish.",
+      "hi": "मसालेदार टमाटर-काजू ग्रेवी में लौकी के नरम कोफ्ते — एक शानदार सात्विक रात्रिभोज।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "dinner", "popular"],
+    "prepTimeMinutes": 20, "cookTimeMinutes": 30, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["For kofta: 2 cups lauki (bottle gourd), grated and squeezed dry", "3 tbsp besan", "1 tsp ginger, grated", "1 green chilli, chopped", "Salt to taste", "Oil for frying", "For gravy: 3 tomatoes, pureed", "2 tbsp cashew paste", "1/2 tsp asafoetida", "1/2 tsp cumin seeds", "1 tsp red chilli powder", "1/2 tsp garam masala", "Salt to taste", "1 tbsp ghee"],
+      "hi": ["कोफ्ते: 2 कप लौकी, कद्दूकस और निचोड़ी", "3 चम्मच बेसन", "1 चम्मच अदरक", "1 हरी मिर्च", "नमक", "तलने के लिए तेल", "ग्रेवी: 3 टमाटर, पुरी", "2 चम्मच काजू पेस्ट", "1/2 चम्मच हींग", "1/2 चम्मच जीरा", "1 चम्मच लाल मिर्च", "1/2 चम्मच गरम मसाला", "नमक", "1 चम्मच घी"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Mix grated lauki, besan, ginger, green chilli, and salt into a dough. Shape into small balls.", "Deep-fry or shallow-fry kofta balls until golden. Set aside.", "Heat ghee. Add hing and cumin. Add tomato puree; cook 8 minutes.", "Add cashew paste, red chilli, salt, and 1/2 cup water. Simmer 5 minutes.", "Add koftas and garam masala. Simmer 5 minutes.", "Serve hot with roti or rice."],
+      "hi": ["लौकी, बेसन, अदरक, मिर्च और नमक मिलाकर गोले बनाएं।", "सुनहरा होने तक तलें।", "घी में हींग, जीरा, टमाटर प्यूरी 8 मिनट।", "काजू पेस्ट, लाल मिर्च, नमक, पानी। 5 मिनट।", "कोफ्ते और गरम मसाला। 5 मिनट।", "रोटी या चावल के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Add koftas to the gravy just before serving — they soften and break if simmered too long.", "hi": "कोफ्ते परोसने से ठीक पहले ग्रेवी में डालें — ज़्यादा पकाने पर टूट जाते हैं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 70, "slug": "gobi-aloo-sabji",
+    "name": {"en": "Gobi Aloo Sabji", "hi": "गोभी आलू की सब्ज़ी", "gu": "G. "},
+    "description": {
+      "en": "Cauliflower and potato stir-fried with whole spices and turmeric — a simple, satisfying sattvik dry curry.",
+      "hi": "साबुत मसालों और हल्दी के साथ फूलगोभी और आलू — सरल, संतुष्टिदायक सात्विक सूखी सब्ज़ी।",
+      "gu": "."
+    },
+    "category": "SABJI", "tags": ["sabji", "quick", "popular"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["2 cups cauliflower florets", "2 medium potatoes, diced", "1 tomato, chopped", "1/2 tsp cumin seeds", "1/4 tsp asafoetida", "1/2 tsp turmeric powder", "1/2 tsp red chilli powder", "1/2 tsp coriander-cumin powder", "1/4 tsp garam masala", "Salt to taste", "2 tbsp oil"],
+      "hi": ["2 कप फूलगोभी", "2 आलू, कटे", "1 टमाटर", "1/2 चम्मच जीरा", "1/4 चम्मच हींग", "1/2 चम्मच हल्दी", "1/2 चम्मच लाल मिर्च", "1/2 चम्मच जीरा-धनिया", "1/4 चम्मच गरम मसाला", "नमक", "2 चम्मच तेल"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil. Add hing and cumin seeds.", "Add potatoes. Cook 5 minutes.", "Add cauliflower. Toss. Add turmeric, red chilli, coriander-cumin, and salt.", "Cover and cook 12 minutes on medium heat.", "Add tomato, mix, cook uncovered 3 minutes.", "Add garam masala. Serve hot."],
+      "hi": ["हींग, जीरा।", "आलू 5 मिनट।", "गोभी, हल्दी, लाल मिर्च, जीरा-धनिया, नमक।", "ढककर 12 मिनट।", "टमाटर, बिना ढके 3 मिनट।", "गरम मसाला। परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "For a drier sabji, cook uncovered on high heat for the last 5 minutes.", "hi": "अधिक सूखी सब्ज़ी के लिए अंत में 5 मिनट बिना ढके तेज आंच पर पकाएं।", "gu": "."},
+    "imageUrl": null
+  }
+]

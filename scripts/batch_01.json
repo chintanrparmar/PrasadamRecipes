@@ -1,0 +1,242 @@
+[
+  {
+    "id": 21, "slug": "paneer-sandwich",
+    "name": {"en": "Paneer Sandwich", "hi": "पनीर सैंडविच", "gu": "પનીર સૅન્ડવિચ"},
+    "description": {
+      "en": "Crispy grilled sandwich stuffed with spiced paneer and capsicum. No onion, no garlic, ready in 15 minutes.",
+      "hi": "मसालेदार पनीर और शिमला मिर्च से भरी क्रिस्पी ग्रिल्ड सैंडविच, बिना प्याज-लहसुन के।",
+      "gu": "મસાલેદાર પનીર અને કૅપ્સિકમ ભરેલી ક્રિસ્પી ગ્રીલ્ડ સૅન્ડવિચ, ડુંગળી-લસણ વગર."
+    },
+    "category": "SNACKS", "tags": ["sandwich", "snack", "quick", "kids", "fusion"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 8, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["4 slices bread", "150g paneer, crumbled", "1 capsicum, finely chopped", "1 tomato, finely chopped", "2 green chillies, chopped", "1/4 tsp cumin powder", "1/4 tsp chaat masala", "Salt to taste", "2 tbsp green chutney", "Butter for grilling"],
+      "hi": ["4 स्लाइस ब्रेड", "150 ग्राम पनीर, कुचला हुआ", "1 शिमला मिर्च, बारीक कटी", "1 टमाटर, बारीक कटा", "2 हरी मिर्च, कटी हुई", "1/4 चम्मच जीरा पाउडर", "1/4 चम्मच चाट मसाला", "स्वादानुसार नमक", "2 चम्मच हरी चटनी", "ग्रिल के लिए मक्खन"],
+      "gu": ["4 સ્લાઇસ બ્રેડ", "150 ગ્રામ પનીર, ટૂકડા", "1 કૅપ્સિકમ, ઝીણો સમારેલો", "1 ટામેટું, ઝીણું સમારેલું", "2 લીલા મરચાં, સમારેલાં", "1/4 ચ. જીરા ભૂકો", "1/4 ચ. ચાટ મસાલો", "મીઠું સ્વાદ મુજબ", "2 ચ. લીલી ચટણી", "ગ્રીલ માટે માખણ"]
+    },
+    "instructions": {
+      "en": ["Mix paneer, capsicum, tomato, green chillies, cumin powder, chaat masala, and salt.", "Spread chutney on one side of each bread slice.", "Place filling on 2 slices; top with remaining slices chutney-side in.", "Butter the outsides and grill on a tava over medium heat, 3–4 min per side, until golden.", "Cut diagonally and serve hot with ketchup."],
+      "hi": ["पनीर, शिमला मिर्च, टमाटर, हरी मिर्च, जीरा पाउडर, चाट मसाला और नमक मिलाएं।", "प्रत्येक ब्रेड स्लाइस पर हरी चटनी लगाएं।", "2 स्लाइस पर भराव रखें, बाकी 2 से बंद करें।", "बाहर मक्खन लगाकर तवे पर 3–4 मिनट प्रति तरफ सुनहरा होने तक ग्रिल करें।", "तिरछा काटें और टोमैटो सॉस के साथ परोसें।"],
+      "gu": ["પનીર, કૅપ્સિકમ, ટામેટ, મરચાં, જીરા ભૂકો, ચાટ મસાલો અને મીઠું ભેળવો.", "દ. બ. સ. પ. ચ. .", "2 સ્લા. ભ. , .", "બ. મ. ., ત. 3-4 મ. .", "ત. ક. ., .]"]
+    },
+    "notes": {"en": "Add boiled corn or grated beetroot to the filling for extra colour.", "hi": "उबला मकई या कद्दूकस चुकंदर मिलाने से रंग बढ़ता है।", "gu": "ઉ. મ. "},
+    "imageUrl": null
+  },
+  {
+    "id": 22, "slug": "aloo-tikki-burger",
+    "name": {"en": "Aloo Tikki Burger", "hi": "आलू टिक्की बर्गर", "gu": "આલૂ ટિક્કી બર્ગર"},
+    "description": {
+      "en": "Soft bun layered with a golden spiced potato tikki, fresh veggies and green chutney — sattvik street food at its best.",
+      "hi": "नरम बन में सुनहरी मसाला आलू टिक्की, ताजी सब्ज़ियाँ और हरी चटनी — सात्विक स्ट्रीट फूड।",
+      "gu": "સૉfṭ બनमां सोनेरी मसाला आलू टिक्की, ताजी शाकभाजी अने हरी चटणी."
+    },
+    "category": "SNACKS", "tags": ["burger", "street-food", "kids", "fusion", "popular"],
+    "prepTimeMinutes": 20, "cookTimeMinutes": 20, "servings": 2,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["2 burger buns", "3 medium potatoes, boiled and mashed", "2 tbsp cornflour", "1 tsp ginger, grated", "2 green chillies, finely chopped", "1/2 tsp chaat masala", "1/2 tsp amchur powder", "Salt to taste", "2 tbsp green chutney", "Lettuce leaves and tomato slices for serving", "Oil for shallow frying"],
+      "hi": ["2 बर्गर बन", "3 आलू, उबले और मसले हुए", "2 चम्मच कॉर्नफ्लोर", "1 चम्मच अदरक, कद्दूकस किया", "2 हरी मिर्च, बारीक कटी", "1/2 चम्मच चाट मसाला", "1/2 चम्मच अमचूर", "स्वादानुसार नमक", "2 चम्मच हरी चटनी", "लेट्यूस और टमाटर स्लाइस", "उथले तलने के लिए तेल"],
+      "gu": ["2 બર્ગર બન", "3 બટાકા, બાlĕlā ane masalā", "2 ચ. કૉર્નflour", "1 ચ. આ. .", "2 લ. મ. .", "1/2 ચ. .", "1/2 .", ".", "2 .", ".", "."]
+    },
+    "instructions": {
+      "en": ["Mix mashed potato, cornflour, ginger, green chillies, chaat masala, amchur, and salt. Shape into 4 flat patties.", "Shallow-fry patties in oil over medium heat 3–4 min per side until golden and crisp.", "Lightly toast the burger buns on the tava.", "Spread green chutney on the bottom bun, layer lettuce, tomato, and one patty.", "Close with the top bun and serve immediately."],
+      "hi": ["मसले आलू, कॉर्नफ्लोर, अदरक, हरी मिर्च, चाट मसाला, अमचूर और नमक मिलाकर 4 पैटी बनाएं।", "तेल में मध्यम आंच पर 3–4 मिनट प्रति तरफ सुनहरा होने तक उथला तलें।", "बर्गर बन को तवे पर हल्का टोस्ट करें।", "नीचे के बन पर चटनी, लेट्यूस, टमाटर और टिक्की रखें।", "ऊपर का बन रखें और तुरंत परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Add a slice of cheese for a richer burger. Swap amchur with lemon juice if unavailable.", "hi": "समृद्ध बर्गर के लिए पनीर स्लाइस जोड़ें। अमचूर न हो तो नींबू का रस डालें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 23, "slug": "sattvik-hakka-noodles",
+    "name": {"en": "Sattvik Hakka Noodles", "hi": "सात्विक हक्का नूडल्स", "gu": "સાત્વિક હક્કા નૂડ્લ્સ"},
+    "description": {
+      "en": "Indo-Chinese hakka noodles tossed with colourful vegetables and soy sauce — made completely without onion or garlic.",
+      "hi": "रंगीन सब्ज़ियों और सोया सॉस के साथ टॉस किए हुए हक्का नूडल्स, बिना प्याज-लहसुन के।",
+      "gu": "રંગીન શાકભાજી અને સોય સૉસ સાથે ટૉસ કરેલ હક્કા નૂડ્લ્સ, ડુંગળી-લસ. ."
+    },
+    "category": "SNACKS", "tags": ["noodles", "indo-chinese", "fusion", "quick", "kids"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 15, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["200g hakka noodles (boiled and drained)", "1 cup cabbage, thinly shredded", "1 capsicum, julienned", "1 medium carrot, julienned", "2 tbsp soy sauce", "1 tbsp vinegar", "1 tsp ginger, finely grated", "2 green chillies, slit", "1/4 tsp black pepper powder", "2 tbsp oil", "Salt to taste", "Spring onion greens for garnish"],
+      "hi": ["200 ग्राम हक्का नूडल्स, उबले हुए", "1 कप पत्तागोभी, पतली कटी", "1 शिमला मिर्च, जूलियन कटी", "1 गाजर, जूलियन कटी", "2 चम्मच सोया सॉस", "1 चम्मच सिरका", "1 चम्मच अदरक, कद्दूकस किया", "2 हरी मिर्च, चीरी हुई", "1/4 चम्मच काली मिर्च पाउडर", "2 चम्मच तेल", "स्वादानुसार नमक", "सजाने के लिए हरा प्याज़ की पत्तियां"],
+      "gu": ["200 ગ. .", "1 .", "1 .", "1 .", "2 .", "1 .", "1 .", "2 .", "1/4 .", "2 .", ".", "."]
+    },
+    "instructions": {
+      "en": ["Boil noodles al dente, drain, toss with 1 tsp oil to prevent sticking. Set aside.", "Heat oil in a wok over high heat. Add ginger and green chillies, stir-fry 30 seconds.", "Add carrots and cabbage; stir-fry 2 minutes on high heat to retain crunch.", "Add capsicum and stir-fry 1 more minute.", "Add soy sauce, vinegar, black pepper, and salt. Toss well.", "Add noodles and toss everything together over high heat for 2 minutes.", "Garnish with spring onion greens and serve hot."],
+      "hi": ["नूडल्स को अल डेंटे उबालें, छानें और 1 चम्मच तेल डालकर मिलाएं।", "वोक में तेज आंच पर तेल गर्म करें। अदरक और हरी मिर्च डालकर 30 सेकंड भूनें।", "गाजर और पत्तागोभी डालें; तेज आंच पर 2 मिनट स्टर-फ्राई करें।", "शिमला मिर्च डालें और 1 मिनट और पकाएं।", "सोया सॉस, सिरका, काली मिर्च और नमक डालकर अच्छे से मिलाएं।", "नूडल्स डालें और तेज आंच पर 2 मिनट सब कुछ मिलाएं।", "हरे प्याज़ की पत्तियों से सजाकर गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Use only spring onion GREENS (the green tops), not the white bulb, to keep this sattvik.", "hi": "सात्विक रखने के लिए केवल हरे प्याज़ की हरी पत्तियां इस्तेमाल करें, सफेद हिस्सा नहीं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 24, "slug": "white-sauce-pasta",
+    "name": {"en": "White Sauce Pasta", "hi": "व्हाइट सॉस पास्ता", "gu": "વ્હાઇટ સૉસ પાસ્તા"},
+    "description": {
+      "en": "Creamy béchamel pasta loaded with colourful vegetables — a comforting sattvik fusion dish with no onion or garlic.",
+      "hi": "रंगीन सब्ज़ियों से भरा क्रीमी बेशामल पास्ता — बिना प्याज-लहसुन के स्वादिष्ट फ्यूजन।",
+      "gu": "ر. ."
+    },
+    "category": "SNACKS", "tags": ["pasta", "fusion", "kids", "quick"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 20, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["200g penne or fusilli pasta", "2 tbsp butter", "2 tbsp all-purpose flour (maida)", "1.5 cups milk", "1/2 cup boiled sweet corn", "1/2 cup capsicum, finely chopped", "1/4 tsp black pepper powder", "1/4 tsp mixed herbs (oregano + basil)", "Salt to taste", "2 tbsp grated cheese (optional)", "1/4 tsp nutmeg powder"],
+      "hi": ["200 ग्राम पास्ता", "2 चम्मच मक्खन", "2 चम्मच मैदा", "1.5 कप दूध", "1/2 कप उबला हुआ मकई", "1/2 कप शिमला मिर्च, कटी हुई", "1/4 चम्मच काली मिर्च पाउडर", "1/4 चम्मच मिक्स हर्ब्स", "स्वादानुसार नमक", "2 चम्मच कद्दूकस किया पनीर", "1/4 चम्मच जायफल पाउडर"],
+      "gu": ["200 .", "2 .", "2 .", "1.5 .", "1/2 .", "1/2 .", "1/4 .", "1/4 .", ".", "2 .", "."]
+    },
+    "instructions": {
+      "en": ["Boil pasta in salted water until al dente. Drain and set aside.", "Melt butter in a pan over low heat. Add flour and cook 1–2 minutes, stirring, until it smells nutty.", "Gradually whisk in milk. Cook over medium heat, whisking constantly, until sauce thickens (about 5 minutes).", "Add black pepper, mixed herbs, nutmeg, and salt.", "Add boiled corn and capsicum to the sauce. Cook 2 minutes.", "Toss pasta into the sauce and mix gently. Top with grated cheese if using.", "Serve hot."],
+      "hi": ["पास्ता को नमकीन पानी में अल डेंटे उबालें।", "कम आंच पर पैन में मक्खन पिघलाएं। मैदा डालें, 1–2 मिनट भूनें।", "धीरे-धीरे दूध डालते हुए फेंटें। मध्यम आंच पर 5 मिनट गाढ़ा होने तक पकाएं।", "काली मिर्च, हर्ब्स, जायफल और नमक डालें।", "मकई और शिमला मिर्च डालें, 2 मिनट पकाएं।", "पास्ता डालकर हल्के हाथ से मिलाएं। चाहें तो पनीर कद्दूकस करें।", "गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Substitute milk with cream for a richer sauce. Add broccoli or peas for more vegetables.", "hi": "अधिक क्रीमी सॉस के लिए दूध की जगह क्रीम इस्तेमाल करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 25, "slug": "paneer-tikka",
+    "name": {"en": "Paneer Tikka", "hi": "पनीर टिक्का", "gu": "પનીર ટિક્કા"},
+    "description": {
+      "en": "Juicy marinated paneer cubes grilled to perfection with capsicum and tomato — a classic sattvik starter.",
+      "hi": "शिमला मिर्च और टमाटर के साथ ग्रिल किए हुए मैरीनेट पनीर — एक क्लासिक सात्विक स्टार्टर।",
+      "gu": "кап. ."
+    },
+    "category": "SNACKS", "tags": ["snack", "starter", "grilled", "popular"],
+    "prepTimeMinutes": 30, "cookTimeMinutes": 15, "servings": 3,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["250g paneer, cut in 1-inch cubes", "1 capsicum, cut in 1-inch pieces", "1 tomato, cut in 1-inch pieces", "1/2 cup yogurt, hung or thick", "1 tsp ginger paste", "1 tsp red chilli powder", "1/2 tsp turmeric powder", "1 tsp cumin-coriander powder", "1/2 tsp garam masala", "1 tbsp lemon juice", "Salt to taste", "1 tbsp oil for basting"],
+      "hi": ["250 ग्राम पनीर, 1 इंच टुकड़ों में", "1 शिमला मिर्च, 1 इंच टुकड़ों में", "1 टमाटर, 1 इंच टुकड़ों में", "1/2 कप दही, गाढ़ा", "1 चम्मच अदरक पेस्ट", "1 चम्मच लाल मिर्च पाउडर", "1/2 चम्मच हल्दी पाउडर", "1 चम्मच जीरा-धनिया पाउडर", "1/2 चम्मच गरम मसाला", "1 चम्मच नींबू का रस", "स्वादानुसार नमक", "बेस्टिंग के लिए 1 चम्मच तेल"],
+      "gu": ["250 .", "1 .", "1 .", "1/2 .", "1 .", "1 .", "1/2 .", "1 .", "1/2 .", "1 .", ".", "."]
+    },
+    "instructions": {
+      "en": ["Mix yogurt, ginger paste, red chilli, turmeric, cumin-coriander, garam masala, lemon juice, and salt into a marinade.", "Add paneer cubes, capsicum, and tomato to the marinade. Coat well. Rest 30 minutes.", "Thread onto skewers alternating paneer, capsicum, and tomato.", "Grill on a hot tava or oven grill at 200°C for 12–15 minutes, turning and basting with oil midway.", "Serve hot with green chutney and lemon wedges."],
+      "hi": ["दही, अदरक पेस्ट, लाल मिर्च, हल्दी, जीरा-धनिया, गरम मसाला, नींबू का रस और नमक मिलाकर मैरिनेड बनाएं।", "पनीर, शिमला मिर्च और टमाटर को मैरिनेड में डुबोएं। 30 मिनट रखें।", "सींक पर पनीर, शिमला मिर्च और टमाटर बारी-बारी से लगाएं।", "200°C पर 12–15 मिनट ग्रिल करें, बीच में तेल से बेस्ट करें।", "हरी चटनी और नींबू के साथ गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "You can also cook this in an air fryer at 190°C for 12 minutes.", "hi": "एयर फ्रायर में 190°C पर 12 मिनट में भी बना सकते हैं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 26, "slug": "veg-spring-roll",
+    "name": {"en": "Veg Spring Roll", "hi": "वेज स्प्रिंग रोल", "gu": "વેજ સ્પ્રિંગ રૉલ"},
+    "description": {
+      "en": "Crispy fried rolls filled with a stir-fried vegetable and noodle mixture — a popular sattvik party starter.",
+      "hi": "भुनी सब्ज़ियों और नूडल्स से भरे क्रिस्पी तले हुए रोल — लोकप्रिय सात्विक पार्टी स्टार्टर।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["snack", "starter", "fusion", "indo-chinese", "kids"],
+    "prepTimeMinutes": 20, "cookTimeMinutes": 25, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["8 spring roll sheets (store-bought)", "1 cup cabbage, shredded", "1/2 cup carrot, julienned", "1/2 cup capsicum, julienned", "50g boiled noodles (optional)", "1 tsp ginger, grated", "1 tbsp soy sauce", "1/2 tsp black pepper powder", "Salt to taste", "2 tbsp oil for filling", "Oil for deep frying", "Flour paste (2 tbsp flour + water) to seal"],
+      "hi": ["8 स्प्रिंग रोल शीट", "1 कप पत्तागोभी, कटी हुई", "1/2 कप गाजर, जूलियन कटी", "1/2 कप शिमला मिर्च, जूलियन कटी", "50 ग्राम उबले नूडल्स", "1 चम्मच अदरक, कद्दूकस किया", "1 चम्मच सोया सॉस", "1/2 चम्मच काली मिर्च", "स्वादानुसार नमक", "भराव के लिए 2 चम्मच तेल", "तलने के लिए तेल", "2 चम्मच मैदा + पानी का पेस्ट"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Heat oil in a wok. Stir-fry ginger 30 sec. Add cabbage, carrot, capsicum. Stir-fry on high heat 3 minutes.", "Add noodles, soy sauce, black pepper, and salt. Toss well. Cool completely.", "Place 2 tbsp filling at one end of a spring roll sheet. Fold sides in and roll tightly. Seal the edge with flour paste.", "Deep-fry in hot oil over medium heat until golden and crisp (about 3–4 min).", "Drain on paper, serve hot with chilli sauce or green chutney."],
+      "hi": ["वोक में तेल गर्म करें। अदरक 30 सेकंड भूनें। पत्तागोभी, गाजर, शिमला मिर्च डालकर तेज आंच पर 3 मिनट पकाएं।", "नूडल्स, सोया सॉस, काली मिर्च और नमक डालकर मिलाएं। पूरी तरह ठंडा करें।", "एक शीट के एक सिरे पर 2 चम्मच भराव रखें। किनारे मोड़ें और कसकर रोल करें। मैदे के पेस्ट से बंद करें।", "मध्यम आंच पर सुनहरा होने तक 3–4 मिनट तलें।", "पेपर पर रखें, चिली सॉस के साथ गर्म परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Bake at 200°C for 20 minutes brushing with oil for a healthier alternative.", "hi": "स्वास्थ्यकर विकल्प के लिए तेल लगाकर 200°C पर 20 मिनट बेक करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 27, "slug": "aloo-chaat",
+    "name": {"en": "Aloo Chaat", "hi": "आलू चाट", "gu": "આlū ચાટ"},
+    "description": {
+      "en": "Crispy fried potato cubes tossed in tangy tamarind chutney, yogurt, and spices — a beloved Indian street snack.",
+      "hi": "इमली चटनी, दही और मसालों के साथ टॉस किए हुए क्रिस्पी तले आलू — लोकप्रिय चाट।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["chaat", "snack", "street-food", "quick"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 15, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["3 medium potatoes, boiled, peeled and cubed", "2 tbsp tamarind chutney", "2 tbsp green chutney", "1/4 cup whisked yogurt", "1/2 tsp chaat masala", "1/2 tsp roasted cumin powder", "1/4 tsp red chilli powder", "Salt to taste", "Sev for garnish", "Fresh coriander for garnish", "Oil for shallow frying"],
+      "hi": ["3 मध्यम आलू, उबले और कटे हुए", "2 चम्मच इमली चटनी", "2 चम्मच हरी चटनी", "1/4 कप फेंटा दही", "1/2 चम्मच चाट मसाला", "1/2 चम्मच भुना जीरा पाउडर", "1/4 चम्मच लाल मिर्च पाउडर", "स्वादानुसार नमक", "सजाने के लिए सेव", "हरा धनिया", "उथले तलने के लिए तेल"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Shallow-fry potato cubes in oil over medium-high heat until golden and crisp on all sides. Drain.", "Place crispy potatoes in a serving bowl.", "Drizzle tamarind chutney, green chutney, and whisked yogurt over the potatoes.", "Sprinkle chaat masala, cumin powder, red chilli, and salt.", "Garnish with sev and coriander. Serve immediately."],
+      "hi": ["आलू के टुकड़ों को मध्यम-तेज आंच पर सुनहरा होने तक उथला तलें।", "क्रिस्पी आलू को सर्विंग बाउल में रखें।", "ऊपर से इमली चटनी, हरी चटनी और दही डालें।", "चाट मसाला, जीरा पाउडर, लाल मिर्च और नमक छिड़कें।", "सेव और धनिए से सजाकर तुरंत परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Assemble just before serving to keep the potatoes crispy.", "hi": "क्रिस्पी रखने के लिए परोसने से ठीक पहले तैयार करें।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 28, "slug": "corn-bhel",
+    "name": {"en": "Corn Bhel", "hi": "कॉर्न भेल", "gu": "કૉર્ન ભેળ"},
+    "description": {
+      "en": "A light, tangy bhel made with boiled sweet corn, puffed rice, chutneys, and spices — a refreshing sattvik snack.",
+      "hi": "उबले मकई, मुरमुरे, चटनी और मसालों से बनी तीखी-खट्टी भेल — एक ताज़गी भरी सात्विक स्नैक।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["chaat", "snack", "quick", "no-cook"],
+    "prepTimeMinutes": 10, "cookTimeMinutes": 5, "servings": 2,
+    "difficulty": "EASY", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["1.5 cups sweet corn, boiled", "1 cup puffed rice (murmura)", "1 small tomato, finely chopped", "1/2 cucumber, finely chopped", "2 tbsp tamarind chutney", "2 tbsp green chutney", "1/2 tsp chaat masala", "1/4 tsp roasted cumin powder", "Salt to taste", "Sev and coriander for garnish"],
+      "hi": ["1.5 कप उबला हुआ मकई", "1 कप मुरमुरे", "1 छोटा टमाटर, कटा हुआ", "1/2 खीरा, कटा हुआ", "2 चम्मच इमली चटनी", "2 चम्मच हरी चटनी", "1/2 चम्मच चाट मसाला", "1/4 चम्मच भुना जीरा", "स्वादानुसार नमक", "सेव और धनिया"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["In a large bowl, combine corn, puffed rice, tomato, and cucumber.", "Add tamarind chutney, green chutney, chaat masala, cumin powder, and salt.", "Toss well and taste — adjust chutneys to preference.", "Garnish generously with sev and fresh coriander.", "Serve immediately while the puffed rice is still crispy."],
+      "hi": ["एक बड़े कटोरे में मकई, मुरमुरे, टमाटर और खीरा मिलाएं।", "इमली चटनी, हरी चटनी, चाट मसाला, जीरा और नमक डालें।", "अच्छे से मिलाएं और स्वाद देखें।", "सेव और धनिए से सजाएं।", "मुरमुरे क्रिस्पी रहें इसलिए तुरंत परोसें।"],
+      "gu": [".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "Add pomegranate seeds or raw mango for extra zing.", "hi": "अनार के दाने या कच्चा आम मिलाने से और स्वाद आता है।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 29, "slug": "hara-bhara-kabab",
+    "name": {"en": "Hara Bhara Kabab", "hi": "हरा भरा कबाब", "gu": "હ. "},
+    "description": {
+      "en": "Vibrant green patties made with spinach, peas, and potato — a nutritious sattvik snack that doubles as a burger patty.",
+      "hi": "पालक, मटर और आलू से बने हरे-भरे, पोषण से भरपूर कबाब — बर्गर पैटी की तरह भी इस्तेमाल करें।",
+      "gu": "."
+    },
+    "category": "SNACKS", "tags": ["snack", "starter", "healthy", "kids"],
+    "prepTimeMinutes": 20, "cookTimeMinutes": 20, "servings": 3,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": false,
+    "ingredients": {
+      "en": ["2 medium potatoes, boiled and mashed", "1 cup spinach (palak), blanched and squeezed dry", "1/2 cup green peas, boiled and mashed", "1 tsp ginger, grated", "2 green chillies, finely chopped", "1/4 tsp garam masala", "1 tbsp cornflour or breadcrumbs", "Salt to taste", "Oil for shallow frying"],
+      "hi": ["2 मध्यम आलू, उबले और मसले हुए", "1 कप पालक, ब्लांच करके निचोड़ी हुई", "1/2 कप मटर, उबले और मसले हुए", "1 चम्मच अदरक, कद्दूकस किया", "2 हरी मिर्च, बारीक कटी", "1/4 चम्मच गरम मसाला", "1 चम्मच कॉर्नफ्लोर या ब्रेडक्रम्ब", "स्वादानुसार नमक", "उथले तलने के लिए तेल"],
+      "gu": [".", ".", ".", ".", ".", ".", ".", ".", "."]
+    },
+    "instructions": {
+      "en": ["Combine mashed potato, spinach, peas, ginger, green chillies, garam masala, cornflour, and salt. Mix well.", "Divide into equal portions and shape into round flat patties.", "Heat oil in a pan over medium heat. Shallow-fry patties 3–4 min per side until golden.", "Serve hot with green chutney and lemon wedges."],
+      "hi": ["मसले आलू, पालक, मटर, अदरक, हरी मिर्च, गरम मसाला, कॉर्नफ्लोर और नमक मिलाएं।", "बराबर भागों में बांटकर गोल चपटी पैटी बनाएं।", "मध्यम आंच पर 3–4 मिनट प्रति तरफ सुनहरा होने तक तलें।", "हरी चटनी के साथ गर्म परोसें।"],
+      "gu": [".", ".", ".", "."]
+    },
+    "notes": {"en": "Refrigerate shaped kababs for 30 minutes before frying to help them hold shape better.", "hi": "तलने से पहले 30 मिनट फ्रिज में रखने से कबाब अच्छे से बनते हैं।", "gu": "."},
+    "imageUrl": null
+  },
+  {
+    "id": 30, "slug": "dhokla",
+    "name": {"en": "Steamed Dhokla", "hi": "ढोकला", "gu": "ઢોકળા"},
+    "description": {
+      "en": "Soft, spongy steamed gram-flour snack tempered with mustard seeds and curry leaves — a beloved Gujarati classic.",
+      "hi": "राई और करी पत्ते के तड़के के साथ नरम, स्पंजी बेसन से बनी भाप में पकी गुजराती स्नैक।",
+      "gu": "રાઈ અને કઢીpatte ना वघारण साथे नरम, स्पंजी ਬेसण से बनेलु गुजराती ढोकळू."
+    },
+    "category": "SNACKS", "tags": ["gujarati", "snack", "breakfast", "steamed", "popular"],
+    "prepTimeMinutes": 15, "cookTimeMinutes": 20, "servings": 4,
+    "difficulty": "MEDIUM", "isFarali": false, "isFestivalSpecial": false, "isPopular": true,
+    "ingredients": {
+      "en": ["1 cup besan (gram flour)", "1/2 cup yogurt", "1/2 cup water", "1 tsp ginger-green chilli paste", "1 tsp sugar", "1/2 tsp turmeric powder", "Salt to taste", "1 tsp Eno fruit salt (or baking soda)", "1 tbsp oil", "For tempering: 1 tbsp oil, 1 tsp mustard seeds, 8 curry leaves, 2 slit green chillies", "Fresh coriander and grated coconut for garnish"],
+      "hi": ["1 कप बेसन", "1/2 कप दही", "1/2 कप पानी", "1 चम्मच अदरक-हरी मिर्च पेस्ट", "1 चम्मच चीनी", "1/2 चम्मच हल्दी", "स्वादानुसार नमक", "1 चम्मच ईनो फ्रूट सॉल्ट", "1 चम्मच तेल", "तड़के के लिए: 1 चम्मच तेल, 1 चम्मच राई, 8 करी पत्ते, 2 हरी मिर्च", "धनिया और कद्दूकस नारियल"],
+      "gu": ["1 .", "1/2 .", "1/2 .", "1 .", "1 .", "1/2 .", ".", "1 .", "1 .", ".", "."]
+    },
+    "instructions": {
+      "en": ["Whisk besan, yogurt, water, ginger-chilli paste, sugar, turmeric, oil, and salt into a smooth batter. Rest 5 minutes.", "Grease a steaming tray. Just before steaming, add Eno to the batter, stir gently — it will froth up.", "Immediately pour batter into the tray. Steam over high heat for 12–15 minutes until a toothpick comes out clean.", "Let cool 5 minutes, then cut into squares.", "Heat oil in a small pan, add mustard seeds; when they splutter, add curry leaves and green chillies. Pour over dhokla.", "Garnish with coriander and coconut. Serve with green chutney."],
+      "hi": ["बेसन, दही, पानी, अदरक-मिर्च पेस्ट, चीनी, हल्दी, तेल और नमक मिलाकर चिकना घोल बनाएं।", "स्टीमिंग ट्रे को चिकना करें। भाप देने से पहले ईनो डालें और हल्के से मिलाएं।", "तुरंत ट्रे में डालें। तेज आंच पर 12–15 मिनट भाप में पकाएं।", "5 मिनट ठंडा होने दें, फिर चौकोर टुकड़ों में काटें।", "छोटे पैन में तेल गर्म करें, राई डालें; चटकने पर करी पत्ते और हरी मिर्च डालें। ढोकले पर डालें।", "धनिए और नारियल से सजाकर हरी चटनी के साथ परोसें।"],
+      "gu": [".", ".", ".", ".", ".", "."]
+    },
+    "notes": {"en": "For extra spongy dhokla, add 1 tbsp semolina to the batter and rest for 20 minutes.", "hi": "अधिक स्पंजी ढोकले के लिए 1 चम्मच सूजी मिलाएं और 20 मिनट रखें।", "gu": "."},
+    "imageUrl": null
+  }
+]
